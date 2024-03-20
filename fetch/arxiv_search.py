@@ -28,7 +28,6 @@ import arxiv
 # id	Id (use id_list instead)
 # all	All of the above
 
-
 def search_paper(title, author, max_res=1):
     search_results = []
     query_str = 'ti:{} AND au:{}'.format(title, author)
@@ -61,7 +60,7 @@ def search_paper(title, author, max_res=1):
     return search_results
 
 if __name__ == '__main__':
-    title = "Attention Is All You Need"
-    author = "Ashish Vaswani"
+    title = "A2XP: Towards Private Domain Generalization"
+    author = "Geunhyeok Yu"
     search_results = search_paper(title, author, max_res=1)
     print(search_results)

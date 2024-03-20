@@ -1,8 +1,5 @@
-from . import arxiv_search
-from . import google_search
+from .cvpr_paper import get_cvpr_paper
+from .search import Search
 
-search_methods = {
-    'arxiv': arxiv_search.search_paper,
-    'google': google_search.search_paper
-}
+
 

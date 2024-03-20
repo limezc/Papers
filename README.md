@@ -32,12 +32,10 @@
 
 ## 开发人员
 
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/limezc"><img src="https://github.com/limezc.png" width="100px;" alt=""/><br /><sub><b>limezc</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/liukongqau"><img src="https://github.com/liukongqau.png" width="100px;" alt=""/><br /><sub><b>liukongqau</b></sub></a><br /></td>
-  </tr>
-</table>
+<p float="left">
+  <a href="https://github.com/limezc"><img src="https://github.com/limezc.png" width="100" height="100" style="border-radius:50%"></a>
+  <a href="https://github.com/liukongqau"><img src="https://github.com/liukongqau.png" width="100" height="100" style="border-radius:50%"></a>
+</p>
 
 ## 许可
 

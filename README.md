@@ -30,6 +30,15 @@
 
 如果你有任何问题，或者有任何改进的建议，欢迎提交issue或者pull request。
 
+## 开发人员
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/limezc"><img src="https://github.com/limezc.png" width="100px;" alt=""/><br /><sub><b>limezc</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/liukongqau"><img src="https://github.com/liukongqau.png" width="100px;" alt=""/><br /><sub><b>liukongqau</b></sub></a><br /></td>
+  </tr>
+</table>
+
 ## 许可
 
 这个项目遵循MIT许可，详情请见[LICENSE](LICENSE)文件。

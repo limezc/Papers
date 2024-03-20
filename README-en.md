@@ -29,6 +29,15 @@ This project is designed to crawl academic papers from conferences such as CVPR.
 
 If you have any questions or suggestions for improvement, feel free to submit an issue or pull request.
 
+## Developers
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/limezc"><img src="https://github.com/limezc.png" width="100px;" alt=""/><br /><sub><b>limezc</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/liukongqau"><img src="https://github.com/liukongqau.png" width="100px;" alt=""/><br /><sub><b>liukongqau</b></sub></a><br /></td>
+  </tr>
+</table>
+
 ## License
 
 This project is licensed under the terms of the MIT license. For more details, see the [LICENSE](LICENSE) file.

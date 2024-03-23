@@ -29,7 +29,7 @@ def get_cvpr_paper(url="https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers"
         authors = cell.find('div').find('i').text.strip()
         authors = [author.split('(')[0].strip() for author in authors.split('·')]
 
-        paper_list.append({'Title': title, 'Url': title_url, 'Authors': authors})
+        paper_list.append({'title': title, 'pdf_url': title_url, 'authors': authors})
 
     return paper_list
 

@@ -1,3 +1,5 @@
+import re
+
 from . import arxiv_search
 from . import google_search
 
@@ -10,85 +12,119 @@ search_methods = {
     'google': google_search.search_paper
 }
 
+def json2pd(json_data):
+    results = []
+    for data in json_data:
+        res = {}
+        for k, v in data.items():
+            if isinstance(v, dict):
+                for kk, vv in v.items():
+                    res["{}_{}".format(kk, k)] = vv
+            else:
+                res[k] = v
+        results.append(res)
+    return results
+
+
+class Paper:
+    def __init__(self, title="", authors=[], abstract="", published="", doi="", links=[], pdf_url=""):
+        self.title = title
+        self.authors = authors
+        self.abstract = abstract
+        self.published = published
+        self.doi = doi
+        self.links = links
+        self.pdf_url = pdf_url
 
 
 class Search:
-    def __init__(self, method='arxiv'):
+    def __init__(self, paper_origin=Paper(), method='arxiv'):
         self.method = method
         self.search_paper = search_methods[method]
-        self.authors = []
-        self.title = ""
-        self.abstract = ""
-        self.published = ""
-        self.doi = ""
-        self.links = []
-        self.pdf_url = ""
+        self.paper_origin = paper_origin
+        self.paper_search = Paper()
 
-    def is_search_valid(self, title, author):
-        if self.title.split(' ')[0].strip().lower() == title.split(' ')[0].strip().lower() and self.authors[0].strip().lower() == author.strip().lower():
+    @staticmethod
+    def clean_text(text):
+        cleaned_text = re.sub(r'[^a-zA-Z0-9 ]', '', text)
+        return cleaned_text
+    
+    @classmethod
+    def compare_text(cls, text1, text2):
+        return cls.clean_text(text1).strip().lower() == cls.clean_text(text2).strip().lower()
+
+    def is_search_valid(self):
+        if self.compare_text(self.paper_origin.title, self.paper_search.title) and self.compare_text(self.paper_origin.authors[0], self.paper_search.authors[0]):
             return True
         return False
     
-    def to_json(self):
+    def to_json(self, valid=False):
         return {
-            'authors': self.authors,
-            'title': self.title,
-            'abstract': self.abstract,
-            'published': self.published,
-            'doi': self.doi,
-            'links': self.links,
-            'pdf_url': self.pdf_url
+            "valid": valid,
+            "paper_origin": {
+                "title": self.paper_origin.title,
+                "authors": self.paper_origin.authors,
+                "abstract": self.paper_origin.abstract,
+                "published": self.paper_origin.published,
+                "doi": self.paper_origin.doi,
+                "links": self.paper_origin.links,
+                "pdf_url": self.paper_origin.pdf_url
+            },
+            "paper_search": {
+                "title": self.paper_search.title,
+                "authors": self.paper_search.authors,
+                "abstract": self.paper_search.abstract,
+                "published": self.paper_search.published,
+                "doi": self.paper_search.doi,
+                "links": self.paper_search.links,
+                "pdf_url": self.paper_search.pdf_url
+            }
         }
+    
+    def reset(self):
+        self.paper_search = Paper()
 
-    def search(self, paper, max_res=1):
-        self.title = paper["Title"]
-        self.authors = paper["Authors"]
-        self.links = [paper["Url"]]
-
-
-        search_results = self.search_paper(self.title, self.authors[0], max_res)
+    def search(self, max_res=1):
+        search_results = self.search_paper(self.paper_origin.title, self.paper_origin.authors[0], max_res)
         if len(search_results) == 0:
-            print("No result found")
-            return
+            print("{} is not found".format(self.paper_origin.title))
+            return self.to_json(valid=False)
         
-        search_result = search_results[0]
+        self.paper_search = Paper(**search_results[0])
 
-        if not self.is_search_valid(search_result['title'], search_result['authors'][0].name):
-            print("Search result is not valid")
-            return
+        if not self.is_search_valid():
+            print("Search result title is {} while the paper title is {}".format(self.paper_search.title, self.paper_origin.title))
+            return self.to_json(valid=False)
         
-        self.title = search_result['title']
-        self.authors = [author.name for author in search_result['authors']]
-
-        if search_result['summary'] is not None:
-            self.abstract = search_result['summary']
-
-        if search_result["published"] is not None:
-            self.published = search_result['published']
-
-        if search_result['doi'] is not None:
-            self.doi = search_result['doi']
-        
-        if search_result['links']:
-            self.links = [link.href for link in search_result['links']]
-
-        if search_result['pdf_url'] is not None:
-            self.pdf_url = search_result['pdf_url']
-        elif len(search_result['links']) >= 2:
-            self.pdf_url = search_result['links'][1].href
-        else:
-            pass
         print("Search success")
-        return self.to_json()
+        return self.to_json(valid=True)
 
     
 if __name__ == '__main__':
+    # paper = {
+    #     "title": "Attention Is All You Need",
+    #     "authors": ['Ashish Vaswani', 'Noam Shazeer', 'Niki Parmar', 'Jakob Uszkoreit', 'Llion Jones', 'Aidan N. Gomez', 'Lukasz Kaiser', 'Illia Polosukhin'],
+    #     "pdf_url": ""
+    # }
+
+    # paper = {
+    #     "title": "A2XP: Towards Private Domain Generalization",
+    #     "authors": ["Geunhyeok Yu", "Hyoseok Hwang"],
+    #     "pdf_url": ""
+    # }
+
     paper = {
-        "Title": "Attention Is All You Need",
-        "Authors": ['Ashish Vaswani', 'Noam Shazeer', 'Niki Parmar', 'Jakob Uszkoreit', 'Llion Jones', 'Aidan N. Gomez', 'Lukasz Kaiser', 'Illia Polosukhin'],
-        "Url": ""
+        "title": "VSRD: Instance-Aware Volumetric Silhouette Rendering for Weakly Supervised 3D Object Detection",
+        "pdf_url": "",
+        "authors": [
+            "Zihua Liu",
+            "Hiroki Sakuma",
+            "Masatoshi Okutomi"
+        ]
     }
-    search = Search()
-    res = search.search(paper, max_res=1)
+
+    paper_origin = Paper(**paper)
+    search = Search(paper_origin=paper_origin, method='arxiv')
+    res = search.search(max_res=1)
     print(res)
     

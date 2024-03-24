@@ -1,0 +1,2720 @@
+- {{Controlling Encoder of Deep Video Compression for Machine}}
+- {{Boosting Neural Representations for Videos with a Conditional Decoder}}
+- {{Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld}}
+- {{Instruct-ReID: A Multi-purpose Person Re-identification Task with Instructions}}
+- {{Semantic Line Combination Detector}}
+- {{GLID: Pre-training a Generalist Encoder-Decoder Vision Model}}
+- {{UnionFormer: Unified-Learning Transformer with Multi-View Representation for Image Manipulation Detection and Localization}}
+- {{Omni-Q: Omni-Directional Scene Understanding for Unsupervised Visual Grounding}}
+- {{AnyScene: Customized Image Synthesis with Composited Foreground}}
+- {{HOI-M$^3$: Capture Multiple Humans and Objects Interaction within Contextual Environment}}
+- {{LiveHPS: LiDAR-based Scene-level Human Pose and Shape Estimation in Free Environment}}
+- {{I'M HOI: Inertia-aware Monocular Capture of 3D Human-Object Interactions}}
+- {{Discriminative Probing and Tuning for Text-to-Image Generation}}
+- {{Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates}}
+- {{Robust Distillation via Untargeted and Targeted Intermediate Adversarial Samples}}
+- {{Adversarially Robust Few-shot Learning via Parameter Co-distillation of Similarity and Class Concept Learners}}
+- {{SPAD: Spatially Aware Multiview Diffusers}}
+- {{Learning Multi-dimensional Human Preference for Text-to-Image Generation}}
+- {{DETRs Beat YOLOs on Real-time Object Detection}}
+- {{DiffSCI: Zero-Shot Snapshot Compressive Imaging via Iterative Spectral Diffusion Model}}
+- {{Dual Prior Unfolding for Snapshot Compressive Imaging}}
+- {{Improving Spectral Snapshot Reconstruction with Spectral-Spatial Rectification}}
+- {{RNb-NeuS: Reflectance and Normal-based Multi-View 3D Reconstruction}}
+- {{Gradient-based Parameter Selection for Efficient Fine-Tuning}}
+- {{TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models}}
+- {{RILA: Reflective and Imaginative Language Agent for Zero-Shot Semantic Audio-Visual Navigation}}
+- {{BilevelPruning: Unified Dynamic and Static Channel Pruning for Convolutional Neural Networks}}
+- {{GOAT-Bench: A Benchmark for Multi-modal Lifelong Navigation}}
+- {{Habitat Synthetic Scenes Dataset (HSSD-200): An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation}}
+- {{Multi-Modal Hallucination Control by Visual Information Grounding}}
+- {{MAPSeg: Unified Unsupervised Domain Adaptation for Heterogeneous Medical Image Segmentation Based on 3D Masked Autoencoding and Pseudo-Labeling}}
+- {{DreamVideo: Composing Your Dream Videos with Customized Subject and Motion}}
+- {{A Recipe for Scaling up Text-to-Video Generation with Text-free Videos}}
+- {{InstructVideo: Instructing Video Diffusion Models with Human Feedback}}
+- {{PointInfinity: Resolution-Invariant Point Diffusion Models}}
+- {{Density-Guided Semi-Supervised 3D Semantic Segmentation with Dual-Space Hardness Sampling}}
+- {{MoCha-Stereo: Motif Channel Attention Network for Stereo Matching}}
+- {{VSRD: Instance-Aware Volumetric Silhouette Rendering for Weakly Supervised 3D Object Detection}}
+- {{Towards General Robustness Verification of MaxPool-based Convolutional Neural Networks via Tightening Linear Approximation}}
+- {{Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models}}
+- {{InstructDiffusion: A Generalist Modeling Interface for Vision Tasks}}
+- {{Poly Kernel Inception Network for Remote Sensing Detection}}
+- {{FedKTL: An Upload-Efficient Knowledge Transfer Scheme With a Pre-trained Generator in Heterogeneous Federated Learning}}
+- {{Predicated Diffusion: Predicate Logic-Based Attention Guidance for Text-to-Image Diffusion Models}}
+- {{Bi-Causal: Group Activity Recognition via Bidirectional Causality}}
+- {{pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction}}
+- {{ConTex-Human: Free-View Rendering of Human from a Single Image with Texture-Consistent Synthesis}}
+- {{Benchmarking the Robustness of Temporal Action Detection Models Against Temporal Corruptions}}
+- {{PrPSeg: Universal Proposition Learning for Panoramic Renal Pathology Segmentation}}
+- {{A Video is Worth 256 Bases: Spatial-Temporal Expectation-Maximization Inversion for Zero-Shot Video Editing}}
+- {{WaveMo: Learning Wavefront Modulations to See Through Scattering}}
+- {{GROUNDHOG: Grounding Large Language Models to Holistic Segmentation}}
+- {{Towards Backward-Compatible Continual Learning of Image Compression}}
+- {{Data-Efficient Multimodal Fusion on a Single GPU}}
+- {{Inter-X: Towards Versatile Human-Human Interaction Analysis}}
+- {{Transcriptomics-guided Slide Representation Learning in Computational Pathology}}
+- {{HIVE: Harnessing Human Feedback for Instructional Visual Editing}}
+- {{A Unified and Interpretable Emotion Representation and Expression Generation}}
+- {{SfmCAD: Unsupervised CAD Reconstruction by Learning Sketch-based Feature Modeling Operations}}
+- {{GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians}}
+- {{EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI}}
+- {{Point Transformer V3: Simpler, Faster, Stronger}}
+- {{Abductive Ego-View Accident Video Understanding for Safe Driving Perception}}
+- {{MPOD123: One Image to 3D Content Generation Using Mask-enhanced Progressive Outline-to-Detail Optimization}}
+- {{ASH: Animatable Gaussian Splats for Efficient and Photoreal Human Rendering}}
+- {{HIR-Diff: Unsupervised Hyperspectral Image Restoration Via Improved Diffusion Models}}
+- {{DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction}}
+- {{Self-Supervised Dual Contouring}}
+- {{CAT-DM: Controllable Accelerated Virtual Try-on with Diffusion Model}}
+- {{Hierarchical Correlation Clustering and Tree Preserving Embedding}}
+- {{NoiseCollage: A Layout-Aware Text-to-Image Diffusion Model Based on Noise Cropping and Merging}}
+- {{SparseDet: A Simple and Effective Network for Fully Sparse 3D Object Detection}}
+- {{Bilateral Event Mining and Complementary for Event Stream Super-Resolution}}
+- {{Generative Unlearning for Any Identity}}
+- {{Boosting Spike Camera Image Reconstruction from a Perspective of Dealing with Spike Fluctuations}}
+- {{NeuRAD: Neural Rendering for Autonomous Driving}}
+- {{Enhancing Intrinsic Features for Debiasing via Investigating Class-Discerning Common Attributes in Bias-Contrastive Pair}}
+- {{Towards Generalizing to Unseen Domains with Few Labels}}
+- {{Adversarial Text to Continuous Image Generation}}
+- {{Adaptive Slot Attention: Object Discovery with Dynamic Slot Number}}
+- {{Monocular Identity-Conditioned Facial Reflectance Reconstruction}}
+- {{Adversarial Distillation Based on Slack Matching and Attribution Region Alignment}}
+- {{Retrieval-Augmentated Layout Transformer for Content-Aware Layout Generation}}
+- {{LiDAR-Net: A Real-scanned 3D Point Cloud Dataset for Indoor Scenes}}
+- {{Let's Think Outside the Box: Exploring Leap-of-Thought in Large Language Models with Multimodal Humor Generation}}
+- {{Taming Stable Diffusion for Text to 360$^{\circ}$ Panorama Image Generation}}
+- {{Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers}}
+- {{Mind the Time: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis}}
+- {{Implicit Event-RGBD Neural SLAM}}
+- {{Rethinking Boundary Discontinuity Problem for Oriented Object Detection}}
+- {{TE-TAD: Towards Fully End-to-End Temporal Action Detection via Time-Aligned Coordinate Expression}}
+- {{DemoCaricature: Democratising Caricature Generation with a Rough Sketch}}
+- {{Edit One for All: Interactive Batch Image Editing}}
+- {{Learning to Localize Sound Sources from Mixtures without Prior Source Knowledge}}
+- {{Selectively Informative Description can Reduce Undesired Embedding Entanglements in Text-to-Image Personalization}}
+- {{VecFusion: Vector Font Generation with Diffusion}}
+- {{Towards Effective Usage of Human-Centric Priors in Diffusion Models for Text-based Human Image Generation}}
+- {{WOUAF: Weight Modulation for User Attribution and Fingerprinting in Text-to-Image Diffusion Models}}
+- {{ECLIPSE: A Resource-Efficient Text-to-Image Prior for Image Generations}}
+- {{StraightPCF: Straight Point Cloud Filtering}}
+- {{ConsistNet: Enforcing 3D Consistency for Multi-view Images Diffusion}}
+- {{MICap: A Unified Model for Identity-aware Movie Descriptions}}
+- {{Category-Level Multi-Part Multi-Joint 3D Shape Assembly}}
+- {{TutteNet: Injective 3D Deformations by Composition of 2D Mesh Deformations}}
+- {{What, when, and where? -- Self-Supervised Spatio-Temporal Grounding in Untrimmed Multi-Action Videos from Narrated Instructions}}
+- {{EFormer: Enhanced Transformer towards Semantic-Contour Features of Foreground for Portraits Matting}}
+- {{CFPL-FAS: Class Free Prompt Learning for Generalizable Face Anti-spoofing}}
+- {{Learned representation-guided diffusion models for large-image generation}}
+- {{SD2Event: Self-supervised Learning of Dynamic Detectors and Contextual Descriptors for Event Cameras}}
+- {{Unsupervised Template-assisted  Point Cloud Shape Correspondence Network}}
+- {{GS-IR: 3D Gaussian Splatting for Inverse Rendering}}
+- {{Artist-Friendly Relightable and Animatable Neural Heads}}
+- {{Generalizable Face Landmarking Guided by Conditional Face Warping}}
+- {{Tri-Perspective View Decomposition for Geometry-Aware Depth Completion}}
+- {{Driving-Video Dehazing with Non-Aligned Regularization for Safety Assistance}}
+- {{ConCon-Chi: Concept-Context Chimera Benchmark for Personalized Vision-Language Tasks}}
+- {{SecondPose: SE(3)-Consistent Dual-Stream Feature Fusion for Category-Level Pose Estimation}}
+- {{Neural Markov Random Field for Stereo Matching}}
+- {{Learning Spatial Adaptation and Temporal Coherence in Diffusion Models for Video Super-Resolution}}
+- {{Instance-aware Exploration-Verification-Exploitation for Instance ImageGoal Navigation}}
+- {{CAPE: CAM as a Probabilistic Ensemble for Enhanced DNN Interpretation}}
+- {{Decomposing Disease Descriptions for Enhanced Pathology Detection: A Multi-Aspect Vision-Language Matching Framework}}
+- {{One-dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications}}
+- {{LoS: Local Structure Guided Stereo Matching}}
+- {{Selective-Stereo: Adaptive Frequency Information Selection for Stereo Matching}}
+- {{Discovering Syntactic Interaction Clues for Human-Object Interaction Detection}}
+- {{DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing}}
+- {{Neural Redshift: Random Networks are not Random Functions}}
+- {{Using ViT Embeddings is Better than Pseudo Multimodal Approach: A New State-of-the-art for Single Image Depth Estimation}}
+- {{CURSOR: Scalable Mixed-Order Hypergraph Matching with CUR Decomposition}}
+- {{CoDeF: Content Deformation Fields for Temporally Consistent Video Processing}}
+- {{C3Net: Compound Conditioned ControlNet for Multimodal Content Generation}}
+- {{Do You Remember? Dense Video Captioning with Cross-Modal Memory Retrieval}}
+- {{A Category Agnostic Model for Visual Rearrangement}}
+- {{Regressor-Segmenter Mutual Prompt Learning for Crowd Counting}}
+- {{Physics-aware Hand-object Interaction Denoising}}
+- {{Transferable and Principled Efficiency for Open-Vocabulary Segmentation}}
+- {{FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation}}
+- {{DiffMorpher: Unleashing the Capability of Diffusion Models for Image Morphing}}
+- {{Video-P2P: Video Editing with Cross-attention Control}}
+- {{Prompt Highlighter: Interactive Control for Multi-Modal LLMs}}
+- {{ANIM: Accurate Neural Implicit Model for Human Reconstruction from a single RGB-D image}}
+- {{Explaining CLIP's performance disparities on data from blind/low vision users}}
+- {{DL3DV-10K: A Large-Scale Scene Dataset for Deep Learning-based 3D Vision}}
+- {{Towards Co-Evaluation of Cameras, HDR, and Algorithms for Industrial-Grade 6DoF Pose Estimation}}
+- {{Genuine Knowledge from Practice: Diffusion Test-Time Adaptation for Video Adverse Weather Removal}}
+- {{Robust Depth Enhancement via Polarization Prompt Fusion Tuning}}
+- {{GDA: Generalized Diffusion for Robust Test-time Adaptation}}
+- {{CGI-DM: Digital Copyright Authentication for Diffusion Models via Contrasting Gradient Inversion}}
+- {{TransNeXt: Robust Foveal Visual Perception for Vision Transformers}}
+- {{SynSP: Synergy of Smoothness and Precision in Pose Sequences Refinement}}
+- {{$360+x$: A Panoptic Multi-modal Scene Understanding Dataset}}
+- {{EGTR: Extracting Graph from Transformer for Scene Graph Generation}}
+- {{TRIP: Temporal Residual Learning with Image Noise Prior for Image-to-Video Diffusion Models}}
+- {{Steganographic Passport: An Owner and User Verifiable Credential for Deep Model IP Protection Without Retraining}}
+- {{Neighbor Relations Matter in Video Scene Detection}}
+- {{Boosting Adversarial Training via Fisher-Rao Norm-based Regularization}}
+- {{Do Vision and Language Encoders Represent the World Similarly?}}
+- {{360DVD: Controllable Panorama Video Generation with 360-Degree Video Diffusion Model}}
+- {{HEAL-SWIN: A Vision Transformer On The Sphere}}
+- {{A Specialized Dataset for Traffic Scene Perception}}
+- {{A2XP: Towards Private Domain Generalization}}
+- {{Style Blind Domain Generalized Semantic Segmentation via Covariance Alignment and Semantic Consistence Contrastive Learning}}
+- {{Learning SO(3)-Invariant Semantic Correspondence via Local Shape Transform}}
+- {{Active Prompt Learning in Vision Language Models}}
+- {{Detector-Free Structure from Motion}}
+- {{SD-DiT: Unleashing the Power of Self-supervised Discrimination in Diffusion Transformer}}
+- {{MuRF: Multi-Baseline Radiance Fields}}
+- {{Equivariant Multi-Modality Image Fusion}}
+- {{Deep Equilibrium Diffusion Restoration with Parallel Sampling}}
+- {{Binarized Low-light Raw Video Enhancement}}
+- {{What, How, and When Should Object Detectors Update in Continually Changing Test Domains?}}
+- {{BANF: Band-limited Neural Fields for Levels of Detail Reconstruction}}
+- {{Bridging the Gap: A Unified Video Comprehension Framework for Moment Retrieval and Highlight Detection}}
+- {{Robust Overfitting Does Matter: Test-Time Adversarial Purification With FGSM}}
+- {{Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation}}
+- {{Permutation Equivariance of Transformers and Its Applications}}
+- {{Augmented Identity Distraction for Face Anonymization}}
+- {{Enhancing Multi-modal Cooperation via Sample-level Modality Valuation}}
+- {{Purified and Unified Steganographic Network}}
+- {{Towards Robust Learning to Optimize with Theoretical Guarantees}}
+- {{HiKER-SGG: Hierarchical Knowledge Enhanced Robust Scene Graph Generation}}
+- {{Revisiting Single Image Reflection Removal In the Wild}}
+- {{Hierarchical Intra-modal Correlation Learning for Label-free 3D Semantic Segmentation}}
+- {{Implicit Motion Function}}
+- {{Generative Latent Coding for Ultra-Low Bitrate Image Compression}}
+- {{Versatile Neural Video Codec}}
+- {{Estimating Noisy Class Posterior with Part-level Labels for Noisy Label Learning}}
+- {{Delving into Lidar for Neural Radiance Field on Road Scenes}}
+- {{EventEgo3D: 3D Human Motion Capture from Egocentric Event Streams}}
+- {{Generalized Event Cameras}}
+- {{SubT-MRS Datasets: Pushing SLAM Towards All-weather Environments}}
+- {{LaneCPP: Continuous 3D Lane Detection using Physical Priors}}
+- {{Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives}}
+- {{SI-MIL: Taming Deep MIL for Self-Interpretability in Gigapixel Histopathology}}
+- {{On Scaling up a Multilingual Vision and Language Model}}
+- {{Sparse Semi-Detr: Sparse Learnable Queries for Semi-Supervised Object Detection}}
+- {{Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation}}
+- {{GLACE: Global Local Accelerated Coordinate Encoding}}
+- {{TetraSphere: A Neural Descriptor for O(3)-Invariant Point Cloud Analysis}}
+- {{SPU-PMD: Self-Supervised Point Cloud Upsampling via Progressive Mesh Deformation}}
+- {{UDiFF: Generating Conditional Unsigned Distance Fields with Optimal Wavelet Diffusion}}
+- {{Space-time Diffusion Features for Zero-shot Text-driven Motion Transfer}}
+- {{BEVSpread: Spread Voxel Pooling for Bird’s-Eye-View Representation in Vision-based Roadside 3D Object Detection}}
+- {{Learning to Remove Wrinkled Transparent Film with Polarized Prior}}
+- {{EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling}}
+- {{Dr.Hair: Reconstructing Scalp-Connected Hair Strands without Pre-training via Differentiable Rendering of Line Segments}}
+- {{Digital Life Project: Autonomous 3D Characters with Social Intelligence}}
+- {{LeGO: Leveraging a Surface Deformation Network for Animatable Stylized Face Generation with One Example}}
+- {{DIOD: Self-Distillation Meets Object Discovery}}
+- {{Image-Text Co-Decomposition for Text-Supervised Semantic Segmentation}}
+- {{An Asymmetric Augmented Self-Supervised Learning Method for Unsupervised Fine-Grained Image Hashing}}
+- {{Your Image is My Video: Reshaping the Receptive Field via Image-To-Video Differentiable AutoAugmentation and Fusion}}
+- {{OneLLM: One Framework to Align All Modalities with Language}}
+- {{Improve Transformers with Irrelevant Data from Other Modalities}}
+- {{UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition}}
+- {{Distilling Semantic Priors from SAM to Efficient Image Restoration Models}}
+- {{ReGenNet: Towards Human Action-Reaction Synthesis}}
+- {{Privacy-Preserving Face Recognition Using Trainable Feature Subtraction}}
+- {{DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving}}
+- {{ImageNet-D: Benchmarking Neural Network Robustness on Diffusion Synthetic Object}}
+- {{TACO: Benchmarking Generalizable Bimanual Tool-ACtion-Object Understanding}}
+- {{RTMO: Towards High-Performance One-Stage Real-Time Multi-Person Pose Estimation}}
+- {{Unsupervised Blind Image Deblurring Based on Self-Enhancement}}
+- {{Seeing Unseen: Discover Novel Biomedical Concepts via Geometry-Constrained Probabilistic Modeling}}
+- {{RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception}}
+- {{TeMO: Towards Text-Driven 3D Stylization for Multi-Object Meshes}}
+- {{MVBench: A Comprehensive Multi-modal Video Understanding Benchmark}}
+- {{Coherent Temporal Synthesis for Incremental Action Segmentation}}
+- {{Attention Calibration for Disentangled Text-to-Image Personalization}}
+- {{CustomListener: Text-guided Responsive Interaction for User-friendly Listening Head Generation}}
+- {{Robust Synthetic-to-Real Transfer for Stereo Matching}}
+- {{LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching}}
+- {{Open3DIS: Open-vocabulary 3D Instance Segmentation with 2D Mask Guidance}}
+- {{FedSOL: Stabilized Orthogonal Learning in Federated Learning}}
+- {{4SAVED - Four Seasons Autonomous Vehicle Environment Dataset}}
+- {{CA-Jaccard: Camera-aware Jaccard Distance for Person Re-identification}}
+- {{Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images}}
+- {{MindBridge: A Cross-Subject Brain Decoding Framework}}
+- {{Distilled Datamodel with Reverse Gradient Matching}}
+- {{Unsegment Anything by Simulating Deformation}}
+- {{Relation Rectification in Diffusion Model}}
+- {{Neural Lineage}}
+- {{Ungeneralizable Examples}}
+- {{PromptKD: Unsupervised Prompt Distillation for Vision-Language Models}}
+- {{Split to Merge: Unifying Separated Modalities for Unsupervised Domain Adaptation}}
+- {{OpenBias: Open-set Bias Detection in Generative Models}}
+- {{Contrasting intra-modal and ranking cross-modal hard negatives to enhance visio-linguistic compositional understanding}}
+- {{Grounding Everything: Emerging Localization Properties in Vision-Language Transformers}}
+- {{A Closer Look at the Few-Shot Adaptation of Large Vision-Language Models}}
+- {{Distilling Vision-Language Models on Millions of Videos}}
+- {{DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback}}
+- {{HoloVIC: Large-scale Dataset and Benchmark for Multi-Sensor Holographic Intersection and Vehicle-Infrastructure Cooperative}}
+- {{SatSynth: Augmenting Image-Mask Pairs through Diffusion Models for Aerial Semantic Segmentation}}
+- {{HiPose: Hierarchical Binary Surface Encoding and Correspondence Pruning for RGB-D 6DoF Object Pose Estimation}}
+- {{ArtAdapter: Text-to-Image Style Transfer using Multi-Level Style Encoder and Explicit Adaptation}}
+- {{Forecasting of 3D Whole-body Human Poses with Grasping Objects}}
+- {{GSNeRF: Generalizable Semantic Neural Radiance Fields with Enhanced 3D Scene Understanding}}
+- {{LTA-PCS: Learnable Task-Agnostic Point Cloud Sampling}}
+- {{Learning from Synthetic Human Group Activities}}
+- {{Confronting Ambiguity in 6D Object Pose Estimation via Score-Based Diffusion on $SE(3)$}}
+- {{FISBe: A real-world benchmark dataset for instance segmentation of long-range thin filamentous structures}}
+- {{A Novel Two-stage UDF Learning Method for Robust Non-watertight Model Reconstruction from Multi-view Images}}
+- {{Garment Recovery with Shape and Deformation Priors}}
+- {{PortraitBooth: A Versatile Portrait Model for Fast Identity-preserved Personalization}}
+- {{Towards Progressive Multi-Frequency Representation for Image Warping}}
+- {{Enhancing Visual Document Understanding with Contrastive Learning in Large Visual-Language Models}}
+- {{AttriHuman-3D: Editable 3D Human Avatar Generation with Attribute Decomposition and Indexing}}
+- {{InitNO: Boosting Text-to-Image Diffusion Models via Initial Noise Optimization}}
+- {{Generalizing 6-DoF Grasp Detection via Domain Prior Knowledge}}
+- {{UFineBench: Towards Text-based Person Retrieval with Ultra-fine Granularity}}
+- {{SLICE: Stabilized LIME for Consistent Explanations for Image Classification}}
+- {{Language-only Training of Zero-shot Composed Image Retrieval}}
+- {{Magic Tokens: Select Diverse Tokens for Multi-modal Object Re-Identification}}
+- {{NB-GTR: Narrow-Band Guided Turbulence Removal}}
+- {{Density-guided Translator Boosts Synthetic-to-Real Unsupervised Domain Adaptive Segmentation of 3D Point Clouds}}
+- {{EVS-assisted joint Deblurring, Rolling-Shutter Correction and Video Frame Interpolation through Sensor Inverse Modeling}}
+- {{T4P: Test-Time Training of Trajectory Prediction via Masked Autoencoder and Actor-specific Token Memory}}
+- {{Why Not Use Your Textbook? Knowledge-Enhanced Procedure Planning of Instructional Videos}}
+- {{FC-GNN: Recovering Reliable and Accurate Correspondences from Interferences}}
+- {{DifFlow3D: Toward Robust Uncertainty-Aware Scene Flow Estimation with Iterative Diffusion-Based Refinement}}
+- {{3DSFLabelling: Boosting 3D Scene Flow Estimation by Pseudo Auto-labelling}}
+- {{LLM4SGG: Large Language Model for Weakly Supervised Scene Graph Generation}}
+- {{Relaxed Contrastive Learning for Federated Learning}}
+- {{DiVa-360: The Dynamic Visual Dataset for Immersive Neural Fields}}
+- {{MANUS: Markerless Grasp Capture using Articulated 3D Gaussians}}
+- {{Efficient Privacy-Preserving Visual Localization Using 3D Ray Clouds}}
+- {{SVDTree: Semantic Voxel Diffusion for Single Image Tree Reconstruction}}
+- {{UniVS: Unified and Universal Video Segmentation with Prompts as Queries}}
+- {{Towards Detailed and Robust 3D Clothed Human Reconstruction with High-Frequency and Low-Frequency Information of Parametric Body Models}}
+- {{SHINOBI: SHape and Illumination using Neural Object decomposition via BRDF optimization and Inverse rendering from unconstrained Image collections}}
+- {{Telling Left from Right: Identifying Geometry-Aware Semantic Correspondence}}
+- {{One-Shot Open Affordance Learning with Foundation Models}}
+- {{Instance-Aware Group Quantization for Vision Transformers}}
+- {{Infrared Adversarial Car Stickers}}
+- {{Named Entity Driven Zero-Shot Image Manipulation}}
+- {{Towards Accurate and Robust Architectures via Neural Architecture Search}}
+- {{Region-Based Representations Revisited}}
+- {{Making Vision Transformers Truly Shift-Equivariant}}
+- {{Efficient Deformable ConvNets: Rethinking Dynamic and Sparse Operator for Vision Applications}}
+- {{AlignMiF: Geometry-Aligned Multimodal Implicit Field for Enhanced LiDAR-Camera Joint Synthesis}}
+- {{Multi-Scale Video Anomaly Detection by Multi-Grained Spatio-Temporal Representation Learning}}
+- {{Ink Dot-Oriented Differentiable Optimization for Neural Image Halftoning}}
+- {{Differentiable Display Photometric Stereo}}
+- {{When StyleGAN Meets Stable Diffusion: a ${\mathcal{W}_+}$ Adapter for Personalized Image Generation}}
+- {{RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback}}
+- {{Super-Resolution Reconstruction from Bayer-Pattern Spike Streams}}
+- {{GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians}}
+- {{Lodge: A Coarse to Fine Diffusion Network for Long Dance Generation guided by the Characteristic Dance Primitives}}
+- {{360Loc: A Dataset and Benchmark for Omnidirectional Visual Localization with Cross-device Queries}}
+- {{Passive Snapshot Coded Aperture Dual-Pixel RGB-D Imaging}}
+- {{Blur-aware Spatio-temporal Sparse Transformer for Video Deblurring}}
+- {{OCAI: Improving Optical Flow Estimation by Occlusion and Consistency Aware Interpolation}}
+- {{AssistGUI: Task-Oriented Desktop Graphical User Interface Automation}}
+- {{SceneTextGen: Layout-Agnostic Scene Text Image Synthesis with Integrated Character-Level Diffusion and Contextual Consistency}}
+- {{DREAM: Diffusion Rectification and Estimation-Adaptive Models}}
+- {{Low-power, Continuous Remote Behavioral Localization with Event Cameras}}
+- {{VBench: Comprehensive Benchmark Suite for Video Generative Models}}
+- {{Stationary Representations: Optimally Approximating Compatibility and Implications for Improved Model Replacements}}
+- {{ShapeWalk: A Benchmark for Compositional Shape Editing through Language-Guided Chains}}
+- {{Self-Adaptive Reality-Guided Diffusion for Artifact-Free Super-Resolution}}
+- {{Neural Sign Actors: A diffusion model for 3D sign language production from text}}
+- {{G3DR: Generative 3D Reconstruction in ImageNet}}
+- {{Boosting Object Detection with Zero-Shot Day-Night Domain Adaptation}}
+- {{$V_kD:$ Improving knowledge distillation using orthogonal projections}}
+- {{WaveFace: Authentic Face Restoration with Efficient Frequency Recovery}}
+- {{GALA: Generating Animatable Layered Assets from a Single Scan}}
+- {{Guess The Unseen: Dynamic 3D Scene Reconstruction from Partial 2D Glimpses}}
+- {{PEGASUS: Personalized Generative 3D Avatars with Composable Attributes}}
+- {{Transfer CLIP for Generalizable Image Denoising}}
+- {{Cross-dimension Affinity Distillation for 3D EM Neuron Segmentation}}
+- {{Generalized Predictive Model for Autonomous Driving}}
+- {{Physical Property Understanding from Language-Embedded Feature Fields}}
+- {{3D Face Reconstruction with the Geometric Guidance of Facial Part Segmentation}}
+- {{3D Geomery-aware Deformable Gaussian Splatting for Dynamic View Synthesis}}
+- {{Content-Style Decoupling for Unsupervised Makeup Transfer without Generating Pseudo Ground Truth}}
+- {{ControlRoom3D: Room Generation using Semantic Controls}}
+- {{One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion}}
+- {{ZeroRF: Fast Sparse View 360° Reconstruction with Zero Pretraining}}
+- {{URHand: Universal Relightable Hands}}
+- {{HouseCat6D - A Large-Scale Multi-Modal Category Level 6D Object Pose Dataset with Household Objects in Realistic Scenarios}}
+- {{Material Palette: Extraction of Materials from a Single Image}}
+- {{Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle}}
+- {{6-DoF Pose Estimation with MultiScale Residual Correlation}}
+- {{OpenStreetView-5M: The Many Roads to Global Visual Geolocation}}
+- {{The Neglected Tails in Vision-Language Models}}
+- {{Alpha-CLIP: A CLIP Model Focusing on Wherever You Want}}
+- {{Instance Tracking in 3D Scenes from Egocentric Videos}}
+- {{Boosting Image Restoration via Priors from Pre-trained Models}}
+- {{Image Sculpting: Precise Object Editing with 3D Geometry Control}}
+- {{Interactive3D: Create What You Want by Interactive 3D Generation}}
+- {{RoHM: Robust Human Motion Reconstruction via Diffusion}}
+- {{Doodle Your 3D: From Abstract Freehand Sketches to Precise 3D Shapes}}
+- {{SNIFFER: Multimodal Large Language Model for Explainable Out-of-Context Misinformation Detection}}
+- {{Improving Unsupervised Hierarchical Representation with Reinforcement Learning}}
+- {{UniPT: Universal Parallel Tuning for Transfer Learning with Efficient Parameter and Memory}}
+- {{Meta-Point Learning and Refining for Category-Agnostic Pose Estimation}}
+- {{Referring Image Editing: Object-level Image Editing via Referring Expressions}}
+- {{Seg2Reg: Differentiable 2D Segmentation to 1D Regression Rendering for 360 Room Layout Reconstruction}}
+- {{A Unified Framework for Human-centric Point Cloud Video Understanding}}
+- {{SynFog: A Photo-realistic Synthetic Fog Dataset based on End-to-end Imaging Simulation for Advancing Real-World Defogging in Autonomous Driving}}
+- {{CAD-SIGNet: CAD Language Inference from Point Clouds using Layer-wise Sketch Instance Guided Attention}}
+- {{Dancing with Still Images: Video Distillation via Static-Dynamic Disentanglement}}
+- {{From Isolated Islands to Pangea: Unifying Semantic Space for Human Action Understanding}}
+- {{NeLF-Pro: Neural Light Field Probes}}
+- {{Uncovering What, Why and How:  A Comprehensive Benchmark for Causation Understanding of Video Anomaly}}
+- {{Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding}}
+- {{UVEB: A Large-scale Benchmark and Baseline Towards Real-World Underwater Video Enhancement}}
+- {{vid-TLDR: Training Free Token merging for Light-weight Video Transformer}}
+- {{Breathing Life Into Sketches Using Text-to-Video Priors}}
+- {{MiKASA: Multi-Key-Anchor Scene-Aware Transformer for 3D Visual Grounding}}
+- {{SG-PGM: Partial Graph Matching Network with Semantic Geometric Fusion for 3D Scene Graph Alignment and Its Downstream Tasks}}
+- {{Simple but Effective Text-to-Video Generation with Grid Diffusion Models}}
+- {{JDEC: JPEG Decoding via Enhanced Continuous Cosine Coefficients}}
+- {{GenFlow: Generalizable Recurrent Flow for 6D Pose Refinement of Novel Objects}}
+- {{Panacea: Panoramic and Controllable Video Generation for Autonomous Driving}}
+- {{MicroCinema: A Divide-and-Conquer Approach for Text-to-Video Generation}}
+- {{CCEdit: Creative and Controllable Video Editing via Diffusion Models}}
+- {{SeD: Semantic-Aware Discriminator for Image Super-Resolution}}
+- {{DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization}}
+- {{HRVDA: High-Resolution Visual Document Assistant}}
+- {{Control4D: Efficient 4D Portrait  Editing with Text}}
+- {{HumanNorm: Learning Normal Diffusion Model for High-quality and Realistic 3D Human Generation}}
+- {{Gaussian Head Avatar: Ultra High-fidelity Head Avatar via Dynamic Gaussians}}
+- {{HHMR: Holistic Hand Mesh Recovery by Enhancing the Multimodal Controllability of Graph Diffusion Models}}
+- {{ProxyCap: Real-time Monocular Full-body Capture in World Space via Human-Centric Proxy-to-Motion Learning}}
+- {{Unmixing before Fusion: A Generalized Paradigm for Multi-modality-based Hyperspectral Image Synthesis}}
+- {{Dispel Darkness for Better Fusion: A Controllable Visual Enhancer based on Cross-modal Conditional Adversarial Learning}}
+- {{DeMatch: Deep Decomposition of Motion Field for Two-View Correspondence Learning}}
+- {{Learning the 3D Fauna of the Web}}
+- {{OED: Towards One-stage End-to-End Dynamic Scene Graph Generation}}
+- {{Bring Event into RGB and LiDAR: Hierarchical Visual-Motion Fusion for Scene Flow}}
+- {{RTracker: Recoverable Tracking via PN Tree Structured Memory}}
+- {{Once for Both: Single Stage of Importance and Sparsity Search for Vision Transformer Compression}}
+- {{CORE-MPI: Consistency Object Removal with Embedding MultiPlane Image}}
+- {{Neural Visibility Field for Active Mapping}}
+- {{MART: Masked Affective RepresenTation Learning via Masked Temporal Distribution Distillation}}
+- {{LAKE-RED: Camouflaged Images Generation by Latent Background Knowledge Retrieval-Augmented Diffusion}}
+- {{CyberDemo: Augmenting Simulated Human Demonstration for Real-World Dexterous Manipulation}}
+- {{Single Mesh Diffusion Models with Field Latents for Texture Generation}}
+- {{MoST: Multi-modality Scene Tokenization for Motion Prediction}}
+- {{Cross-view and Cross-pose Completion for 3D Human Understanding}}
+- {{CoralSCOP: Segment any COral Image on this Planet}}
+- {{MaskPLAN: Masked Generative Layout Planning from Partial Input}}
+- {{Initialization Matters for Adversarial Transfer Learning}}
+- {{Self-Discovering Interpretable Diffusion Latent Directions for Responsible Text-to-Image Generation}}
+- {{BA-SAM: Scalable Bias-Mode Attention Mask for Segment Anything Model}}
+- {{Test-Time Domain Generalization for Face Anti-Spoofing}}
+- {{HIG: Hierarchical Interlacement Graph Approach to Scene Graph Generation in Video Understanding}}
+- {{DiffAvatar: Simulation-Ready Garment Optimization with Differentiable Simulation}}
+- {{Text-guided Explorable Image Super-resolution}}
+- {{Probabilistic Sampling of Balanced K-Means using Adiabatic Quantum Computing}}
+- {{NRDF: Neural Riemannian Distance Fields for Learning Articulated Pose Priors}}
+- {{Open-Vocabulary Attention Maps with Token Optimization for Semantic Segmentation in Diffusion Models}}
+- {{Style Aligned Image Generation via Shared Attention}}
+- {{Label Propagation for Zero-shot Classification with Vision-Language Models}}
+- {{SIGNeRF: Scene Integrated Generation for Neural Radiance Fields}}
+- {{REACTO: Reconstructing Articulated Objects from a Single Video}}
+- {{Revisiting Counterfactual Problems in Referring Expression Comprehension}}
+- {{A Little Trust Goes a Long Way: What Sketch Explainability Really Means for Downstream Tasks}}
+- {{SketchINR: A First Look into Sketches as Implicit Neural Representations}}
+- {{Seeing Motion During Nighttime with Event Camera}}
+- {{LIVE: Online Large Video-Language Model for Streaming Video}}
+- {{MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model}}
+- {{VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence}}
+- {{Adding Universal Compatibility of Plugins for Upgraded Diffusion Model}}
+- {{SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes}}
+- {{Class Incremental Learning with Multi-Teacher Distillation}}
+- {{LAA-Net: Localized Artifact Attention Network for High-Quality Deepfakes Detection}}
+- {{Modality-Collaborative Test-Time Adaptation for Action Recognition}}
+- {{JoAPR: Cleaning the Lens of Prompt Learning for Visual-Language Models}}
+- {{Depth-Aware Concealed Crop Detection in Dense Agricultural Scenes}}
+- {{Unmixing Diffusion for Self-Supervised Hyperspectral Image Denoising}}
+- {{PTM-VQA: Efficient Video Quality Assessment Leveraging Diverse PreTrained Models from the Wild}}
+- {{Universal Segmentation at Arbitrary Granularity with Language Instruction}}
+- {{NeRSP: Neural 3D Reconstruction for Reflective Objects with Sparse Polarized Images}}
+- {{Generalizable Whole Slide Image Classification with Fine-Grained Visual-Semantic Interaction}}
+- {{Residual Denoising Diffusion Models}}
+- {{C$^2$KD: Bridging the Modality Gap for Cross-Modal Knowledge Distillation}}
+- {{Question Aware Vision Transformer for Multimodal Reasoning}}
+- {{Consistent Prompting for Rehearsal-Free Continual Learning}}
+- {{Real-Time Exposure Correction via Collaborative Transformations and Adaptive Sampling}}
+- {{Video Harmonization with Triplet Spatio-Temporal Variation Patterns}}
+- {{Pseudo Label Refinery for Unsupervised Domain Adaptation on Cross-dataset 3D Object Detection}}
+- {{Modality-agnostic Domain Generalizable Medical Image Segmentation by Multi-Frequency in Multi-Scale Attention}}
+- {{Frequency-aware Event-based Video Deblurring for Real-World Motion Blur}}
+- {{TTA-EVF: Test-Time Adaptation for Event-based Video Frame Interpolation via Reliable Pixel and Sample Estimation}}
+- {{Resurrecting Old Classes with New Data for Exemplar-Free Continual Learning}}
+- {{Class Tokens Infusion for Weakly Supervised Semantic Segmentation}}
+- {{Scene-adaptive and Region-aware Multi-modal Prompt for Open Vocabulary Object Detection}}
+- {{OHTA: One-shot Hand Avatar via Data-driven Implicit Priors}}
+- {{Unexplored Faces of Robustness and Out-of-Distribution: Covariate Shifts in Environment and Sensor Domains}}
+- {{Exploiting Inter-sample and Inter-feature Relations in Dataset Distillation}}
+- {{Quantifying Task Priority for Multi-Task Optimization}}
+- {{Multi-agent Long-term 3D Human Pose Forecasting via Interaction-aware Trajectory Conditioning}}
+- {{On the Diversity and Realism of Distilled Dataset: An Efficient Dataset Distillation Paradigm}}
+- {{Soften to Defend: Towards Adversarial Robustness via Self-Guided Label Refinement}}
+- {{Weakly Supervised Point Cloud Semantic Segmentation via Artificial Oracle}}
+- {{Learning Equi-angular Representations for Online Continual Learning}}
+- {{DART: Implicit Doppler Tomography for Radar Novel View Synthesis}}
+- {{D3T: Distinctive Dual-Domain Teacher Zigzagging Across RGB-Thermal Gap for Domain-Adaptive Object Detection}}
+- {{$M^3$-UDA: A New Benchmark for Unsupervised Domain Adaptive Fetal Cardiac Structure Detection}}
+- {{CLOAF: CoLlisiOn-Aware Human Flow}}
+- {{Distortion-Guided Domain Generalization for Blind Image Quality Assessment}}
+- {{CoDi: Conditional Diffusion Distillation for Higher-Fidelity and Faster Image Generation}}
+- {{Diff-BGM: A Diffusion Model for Video Background Music Generation}}
+- {{In-distribution Public Data Synthesis with Diffusion Models for Differentially Private Image Classification}}
+- {{Error Detection in Egocentric Procedural Task Videos}}
+- {{FACT: Frame-Action Cross-Attention Temporal Modeling for Efficient Fully-Supervised Action Segmentation}}
+- {{Self-Supervised Multi-Object Tracking with Path Consistency}}
+- {{Efficient Detection of Long Consistent Cycles and its Application to Distributed Synchronization}}
+- {{Any-Shift Prompting for Generalization over Distributions}}
+- {{Don't Look into the Dark: Latent Codes for Pluralistic Image Inpainting}}
+- {{ExtraNeRF: Visibility-Aware View Extrapolation of Neural Radiance Fields with Diffusion Models}}
+- {{Multiagent Multitraversal Multimodal Self-Driving: Open MARS Dataset}}
+- {{TraffiX - A V2X Dataset for Multi-Modal Cooperative 3D Object Detection of Traffic Participants Using Onboard and Roadside Sensors}}
+- {{Visual-Augmented Dynamic Semantic Prototype for Generative Zero-Shot Learning}}
+- {{VSCode: General Visual Salient and Camouflaged Object Detection with 2D Prompt Learning}}
+- {{Self-Distilled Masked Auto-Encoders are Efficient  Video Anomaly Detectors}}
+- {{Progressive Semantic-Guided Vision Transformer for Zero-Shot Learning}}
+- {{Learning to Predict Task Progress by Self-Supervised Video Alignment}}
+- {{4D-DRESS: A 4D Dataset of Real-World Human Clothing With Semantic Annotations}}
+- {{OneFormer3D: One Transformer for Unified Point Cloud Segmentation}}
+- {{Personalized Residuals for Concept-Driven Text-to-Image Generation}}
+- {{Unsupervised 3D Structure Inference from Category-Specific Image Collections}}
+- {{Spectral Meets Spatial: Harmonising 3D Shape Matching and Interpolation}}
+- {{Rethinking Multi-view Representation Learning via Distilled Disentangling}}
+- {{CLIP-Driven Open-Vocabulary 3D Scene Graph Generation via Cross-Modality Contrastive Learning}}
+- {{Misalignment-Robust Frequency Distribution Loss for Image Transformation}}
+- {{DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing}}
+- {{Visual Objectification in Films: Towards a New AI Task for Video Interpretation}}
+- {{MULTIFLOW: Shifting Towards Task-Agnostic Vision-Language Pruning}}
+- {{Exploring Efficient Asymmetric Blind-Spots for Self-supervised Denoising in Real-World Scenarios}}
+- {{Spike-guided Motion Deblurring with Unknown Modal Spatiotemporal Alignment}}
+- {{Finsler-Laplace-Beltrami Operators with Application to Shape Analysis}}
+- {{Zero-Painter: Training-Free Layout Control for Text-to-Image Synthesis}}
+- {{Exploiting Style Latent Flows for Generalizing Video Deepfake Detection}}
+- {{EASE-DETR: Easing the Competition among Object Queries}}
+- {{MS-DETR: Efficient DETR Training  with Mixed Supervision}}
+- {{DiffAssemble: A Unified Graph-Diffusion Model for 2D and 3D Reassembly}}
+- {{Can Vision-Language Models Think from a First-person Perspective?}}
+- {{DAP: A Dynamic Adversarial Patch for Evading Person Detectors}}
+- {{Referring Expression Counting}}
+- {{D3still: Decoupled Differential Distillation for Asymmetric Image Retrieval}}
+- {{Beyond Textual Constraints: Learning Novel Diffusion Conditions with Fewer Examples}}
+- {{Towards Calibrated Multi-label Deep Neural Networks}}
+- {{DAVE -- A Detect-and-Verify Paradigm for Low-Shot Counting}}
+- {{Boosting Diffusion Models with Moving Average Sampling in Frequency Domain}}
+- {{Person in Place: Generating Associative Skeleton-Guidance Maps for Human-Object Interaction Image Editing}}
+- {{Multi-Object Tracking in the Dark}}
+- {{Weakly Supervised Video Individual Counting}}
+- {{Drag Your Noise: Interactive Point-based Editing via Diffusion Semantic Propagation}}
+- {{Learning with Unreliability: Fast Few-shot Voxel Radiance Fields with Relative Geometric Consistency}}
+- {{SkillDiffuser: Interpretable Hierarchical Planning via Skill Abstractions in Diffusion-Based Task Execution}}
+- {{An Aggregation-Free Federated Learning for Tackling Data Heterogeneity}}
+- {{Non-rigid Structure-from-Motion: Temporally-smooth Procrustean Alignment and Spatially-variant Deformation Modeling}}
+- {{HDR and HFR Video from Rolling-Mixed-Bit Spikings}}
+- {{Defense Against Adversarial Attacks on No-Reference Image Quality Models with Gradient Norm Regularization}}
+- {{SNI-SLAM: Semantic Neural Implicit SLAM}}
+- {{Towards Efficient Replay in Federated Incremental Learning}}
+- {{UnScene3D: Unsupervised 3D Instance Segmentation for Indoor Scenes}}
+- {{HDRFlow: Real-Time HDR Video Reconstruction with Large Motions}}
+- {{Open-Vocabulary Video Anomaly Detection}}
+- {{High-Fidelity Hair Modeling from a Monocular Video}}
+- {{MCD: Diverse Large-Scale Multi-Campus Dataset for Robot Perception}}
+- {{Efficient Model Stealing Defense with Noise Transition Matrix}}
+- {{Rethinking Generalizable Face Anti-spoofing via Hierarchical Prototype-guided Distribution Refinement in Hyperbolic Space}}
+- {{SmartRefine: An Scenario-Adaptive Refinement Framework for Efficient Motion Prediction}}
+- {{Dual Memory Networks: A Versatile Adaptation Approach for Vision-Language Models}}
+- {{Compositional Video Understanding with Spatiotemporal Structure-based Transformers}}
+- {{Deformable One-shot Face Stylization via DINO Semantic Guidance}}
+- {{Dual-consistency Model Inversion for Non-exemplar Class Incremental Learning}}
+- {{PerAda: Parameter-Efficient Federated Learning Personalization with Generalization Guarantees}}
+- {{FedSelect: Personalized Federated Learning with Customized Selection of Parameters for Fine-Tuning}}
+- {{OMG: Towards Open-vocabulary Motion Generation via Mixture of Controllers}}
+- {{HiFi4G: High-Fidelity Human Performance Rendering via Compact Gaussian Splatting}}
+- {{Feature Re-Embedding: Towards Foundation Model-Level Performance in Computational Pathology}}
+- {{Lane2Seq: Towards Unified Lane Detection via Sequence Generation}}
+- {{Re-thinking Data Availablity Attacks Against Deep Neural Networks}}
+- {{Text-Driven Image Editing via Learnable Regions}}
+- {{PRDP: Proximal Reward Difference Prediction\\for Large-Scale Reward Finetuning of Diffusion Models}}
+- {{Dr. Bokeh: DiffeRentiable Occlusion-aware Bokeh Rendering}}
+- {{Diversified and Personalized Multi-rater Medical Image Segmentation}}
+- {{Amodal Completion via Progressive Mixed Context Diffusion}}
+- {{Laplacian-guided Entropy Model in Neural Codec with Blur-dissipated Synthesis}}
+- {{BrainWash: A Poisoning Attack to Forget in Continual Learning}}
+- {{InNeRF360: Text-Guided 3D-Consistent Object Inpainting on Unbounded Neural Radiance Fields}}
+- {{Improving Bird’s Eye View Semantic Segmentation by Task Decomposition}}
+- {{Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles}}
+- {{Dual-View Visual Contextualization for Web Navigation}}
+- {{Hierarchical Histogram Threshold Segmentation – Auto-terminating High-detail Oversegmentation}}
+- {{BiPer: Binary Neural Networks using a Periodic Function}}
+- {{Privacy-preserving Optics for Enhancing Protection in Face De-identification}}
+- {{One More Step: A Versatile Plug-and-Play Module for Rectifying Diffusion Schedule Flaws and Enhancing Low-Frequency Controls}}
+- {{BEHAVIOR Vision Suite: Customizable Dataset Generation via Simulation}}
+- {{Close Imitation of Expert Retouching for Black-and-White Photography}}
+- {{Learning CNN on ViT: A Hybrid Model to Explicitly Class-specific Boundaries for Domain Adaptation}}
+- {{Depth Prompting for Sensor-agnostic Depth Estimation}}
+- {{Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction}}
+- {{SingularTrajectory: Universal Trajectory Predictor using Diffusion Model}}
+- {{Human Gaussian Splatting : Real-time Rendering of Animatable Avatars}}
+- {{Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representation for Weakly Supervised Semantic Segmentation}}
+- {{Accurate Training Data for Occupancy Map Prediction in Automated Driving using Evidence Theory}}
+- {{Grounding and Enhancing Grid-based Models for Neural Fields}}
+- {{Plug-and-Play, Dense-Label-Free Extraction of Open-Vocabulary Semantic Segmentation from Vision-Language Models}}
+- {{Multimodal Industrial Anomaly Detection by Crossmodal Feature Mapping}}
+- {{ChAda-ViT : Channel Adaptive Attention for Joint Representation Learning of Heterogeneous Microscopy Images}}
+- {{Modular Blind Video Quality Assessment}}
+- {{VidToMe: Video Token Merging for Zero-Shot Video Editing}}
+- {{Dual-Enhanced Coreset Selection with Class-wise Collaboration for Online Blurry Class Incremental Learning}}
+- {{SonicVisionLM: Playing Sound with Vision Language Models}}
+- {{Sparse views, Near light: A practical paradigm for uncalibrated point-light photometric stereo}}
+- {{BlockGCN: Redefine Topology Awareness for Skeleton-Based Action Recognition}}
+- {{SocialCircle: Learning the Angle-based Social Interaction Representation for Pedestrian Trajectory Prediction}}
+- {{Neural Point Cloud Diffusion for Disentangled 3D Shape and Appearance Generation}}
+- {{DiverGen: Improving Instance Segmentation by Learning Wider Data Distribution with More Diverse Generative Data}}
+- {{Language Model Guided Interpretable Video Action Reasoning}}
+- {{Rethinking Visual Feature Extraction: Modeling Representatives from A Neural Clustering View}}
+- {{Leveraging Camera Triplets for Efficient and Accurate Structure-from-Motion}}
+- {{PeLK: Parameter-efficient Large Kernel ConvNets with Peripheral Convolution}}
+- {{MaxQ: Multi-Axis Query for N:M Sparsity Network}}
+- {{Accelerating Diffusion Sampling with Optimized Time Steps}}
+- {{DeiT-LT: Distillation Strikes Back for Vision Transformer training on Long-Tailed Datasets}}
+- {{Scaling Up Dynamic 3D Human-Scene Interaction Modelling}}
+- {{OMG-Seg: Is One Model Good Enough For All Segmentation?}}
+- {{Ranking Distillation for Open-Ended Video Question Answering with Insufficient Labels}}
+- {{MotionEditor: Editing Video Motion via Content-Aware Diffusion}}
+- {{Unbiased Estimator for Distorted Conic in Camera Calibration}}
+- {{Construct to Associate: Cooperative Context Learning for Domain Adaptive Point Cloud Segmentation}}
+- {{GLiDR: Topologically Regularized Graph Generative Network for Sparse LiDAR Point Clouds}}
+- {{HOIST-Former: Hand-held Objects Identification, Segmentation, and Tracking in the Wild}}
+- {{HanDiffuser: Text-to-Image Generation With Realistic Hand Appearances}}
+- {{LayoutFormer: Hierarchical Text Detection Towards Scene Text Understanding}}
+- {{MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception}}
+- {{Improving Plasticity in Online Continual Learning via Collaborative Learning}}
+- {{Curriculum Point Prompting for Weakly-Supervised Referring Segmentation}}
+- {{CDFormer: When Degradation Prediction Embraces Diffusion Model for Blind Image Super-Resolution}}
+- {{LocLLM: Exploiting Generalizable Human Keypoint Localization via Large Language Model}}
+- {{MimicDiffusion: Purifying Adversarial Perturbation via Mimicking Clean Diffusion Model}}
+- {{Learning Dense Visual Correspondence for Category-level  Garment Manipulation}}
+- {{Rethinking the Up-Sampling Operations in CNN-based Generative Network for Generalizable Deepfake Detection}}
+- {{PixelLM: Pixel Reasoning with Large Multimodal Model}}
+- {{Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation}}
+- {{PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization}}
+- {{Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving}}
+- {{C$^\text{2}$RV: Cross-Regional and Cross-View Learning for Sparse-View CBCT Reconstruction}}
+- {{Multi-View Attentive Contextualization for Multi-View 3D Object Detection}}
+- {{JRDB-PanoTrack: An Open-world Panoptic Segmentation and Tracking Robotic Dataset in Crowded Human Environments}}
+- {{MatSynth: A Modern PBR Materials Dataset}}
+- {{L-MAGIC: Language Model Assisted Generation of Images with Consistency}}
+- {{YolOOD: Utilizing Object Detection Concepts for Multi-Label Out-of-Distribution Detection}}
+- {{AVID: Any-Length Video Inpainting with Diffusion Model}}
+- {{Quilt-LLaVA: Visual Instruction Tuning by Extracting Localized Narratives from Open-Source Histopathology Videos}}
+- {{HDQMF: Holographic Feature Decomposition Using Quantum Algorithms}}
+- {{Taming Self-Training for Open-Vocabulary Object Detection}}
+- {{Towards 3D Vision with Low-Cost Single-Photon Cameras}}
+- {{AVFF: Audio-Visual Feature Fusion for Video Deepfake Detection}}
+- {{Shadow-Enlightened Image Outpainting}}
+- {{PAIR Diffusion: A Comprehensive Multimodal Object-Level Image Editor}}
+- {{Smooth Diffusion: Crafting Smooth Latent Spaces in Diffusion Models}}
+- {{Brush2Prompt: Contextual Prompt Generator for Object Inpainting}}
+- {{Prompt-Free Diffusion: Taking “Text” out of Text-to-Image Diffusion Models}}
+- {{Modeling Dense Multimodal Interactions Between Biological Pathways and Histology for Survival Prediction}}
+- {{SelfPose3d: Self-Supervised Multi-Person Multi-View 3d Pose Estimation}}
+- {{Adversarial Backdoor Attack by Naturalistic Data Poisoning on Trajectory Prediction in Autonomous Driving}}
+- {{CaDeT: a Causal Disentanglement Approach for Robust Trajectory Prediction in Autonomous Driving}}
+- {{Learning to Count without Annotations}}
+- {{PartDistill: 3D Shape Part Segmentation by Vision-Language Model Distillation}}
+- {{A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution}}
+- {{How to Train Neural Field Representations: A Comprehensive Study and Benchmark}}
+- {{FairVLMed Dataset: Harnessing Fairness in Vision-and-Language Learning via FairCLIP}}
+- {{Low-Resource Vision Challenges for Foundation Models}}
+- {{ViewDiff: 3D-Consistent Image Generation with Text-To-Image Models}}
+- {{A Simple Baseline for Efficient Hand Mesh Reconstruction}}
+- {{ViT-CoMer: Vision Transformer with Convolutional Multi-scale Feature Interaction for Dense Predictions}}
+- {{Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework}}
+- {{Spatial-Aware Regression for Keypoint Localization}}
+- {{NC-SDF: Enhancing Indoor Scene Reconstruction Using Neural SDFs with View-Dependent Normal Compensation}}
+- {{Harnessing Meta-Learning for Improving Full-Frame Video Stabilization}}
+- {{LAN: Learning to Adapt Noise for Image Denoising}}
+- {{Learning Triangular Distribution in Visual World}}
+- {{Learning Vision from Generative Models Rivals Learning Vision from Data}}
+- {{Building Bridges across Spatial and Temporal Resolutions: Reference-Based Super-Resolution via Change Priors and Conditional Diffusion Model}}
+- {{Adaptive Bidirectional Displacement for Semi-Supervised Medical Image Segmentation}}
+- {{UniBind: LLM-Augmented Unified and Balanced Representation Space to Bind Them All}}
+- {{ExACT: Language-guided Conceptual Reasoning and Uncertainty Estimation for Event-based Action Recognition and More}}
+- {{Semantics, Distortion, and Style Matter: Towards Source-free UDA for Panoramic Segmentation}}
+- {{MorpheuS: Neural Dynamic 360$\degree{}$ Surface Reconstruction from Monocular RGB-D Video}}
+- {{SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery}}
+- {{Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation}}
+- {{Point Cloud Pre-training with Diffusion Models}}
+- {{Geometrically-informed aggregation for zero-shot point cloud understanding}}
+- {{Neural Exposure Fusion for High-Dynamic Range Object Detection}}
+- {{CycleINR: Cycle Implicit Neural Representation for Arbitrary-Scale Volumetric Super-Resolution of Medical Data}}
+- {{Towards a Simultaneous and Granular Identity-Expression Control in Personalized Face Generation}}
+- {{Holoported Characters: Real-time Free-viewpoint Rendering of Humans from Sparse RGB Cameras}}
+- {{Kandinsky Conformal Prediction: Efficient Calibration of Image Segmentation Algorithms}}
+- {{FineSports: A Multi-person Hierarchical Sports Video Dataset for Fine-grained Action Understanding}}
+- {{FineParser: A Fine-grained Spatio-temporal Action Parser for Human-centric Action Quality Assessment}}
+- {{Enhancing Quality of Compressed Images by Mitigating Enhancement Bias Towards Compression Domain}}
+- {{Unsupervised Semantic Segmentation Through Depth-Guided Feature Correlation and Sampling}}
+- {{SOAC: Spatio-Temporal Overlap-Aware Multi-Sensor Calibration using Neural Radiance Fields}}
+- {{E-GPS: Explainable Geometry Problem Solving via Top-Down Solver and Bottom-Up Generator}}
+- {{Segment and Caption Anything}}
+- {{ES$^3$: Evolving Self-Supervised Learning of Robust Audio-Visual Speech Representations}}
+- {{Object Pose Estimation via the Aggregation of Diffusion Features}}
+- {{Prompting Vision Foundation Models for Pathology Image Analysis}}
+- {{VOODOO 3D: VOlumetric pOrtrait Disentanglement fOr Online 3D head reenactment}}
+- {{EFHQ: Multi-purpose ExtremePose-Face-HQ dataset}}
+- {{SwiftBrush: One-Step Text-to-Image Diffusion Model with Variational Score Distillation}}
+- {{CORES: Convolutional Response-based Score for Out-of-distribution Detection}}
+- {{DiffusionRegPose: Enhancing Multi-Person Pose Estimation using a Diffusion-Based End-to-End Regression Approach}}
+- {{LORS: Low-rank Residual Structure for Parameter-Efficient Network Stacking}}
+- {{Dispersed Structured Light for Hyperspectral 3D Imaging}}
+- {{Multi-Task Dense Prediction via Mixture of Low-Rank Experts}}
+- {{VA3: Virtually Assured Amplification Attack on Probabilistic Copyright Protection for Text-to-Image Generative Models}}
+- {{Universal Semi-Supervised Domain Adaptation by Mitigating Common-Class Bias}}
+- {{Real-IAD: A Real-World Multi-View Dataset for Benchmarking Versatile Industrial Anomaly Detection}}
+- {{Self-Calibrating Vicinal Risk Minimisation for Model Calibration}}
+- {{Modality-Agnostic Structural Image Representation Learning for Deformable Multi-Modality Medical Image Registration}}
+- {{Loose Inertial Poser: Motion Capture with IMU-attached Loose-Wear Jacket}}
+- {{ESCAPE: Encoding Super-keypoints for Category-Agnostic Pose Estimation}}
+- {{3D Building Reconstruction from Monocular Remote Sensing Images with Multi-level Supervisions}}
+- {{Generative 3D Part Assembly via Part-Whole-Hierarchy Message Passing}}
+- {{Task-Customized Mixture of Adapters for General Image Fusion}}
+- {{Bayesian Differentiable Physics for Cloth Digitalization}}
+- {{Time-Efficient Light-Field Acquisition Using Coded Aperture and Events}}
+- {{DiffSHEG: A Diffusion-Based Approach for Real-Time Speech-driven Holistic 3D Expression and Gesture Generation}}
+- {{Language-driven Grasp Detection}}
+- {{Neural Implicit Morphing of Face Images}}
+- {{MMA-Diffusion: MultiModal Attack on Diffusion Models}}
+- {{Audio-Visual Segmentation via Unlabeled Frame Exploitation}}
+- {{Fine-grained Bipartite Concept Factorization for Clustering}}
+- {{Unsigned Orthogonal Distance Fields: An Accurate Neural Implicit Representation for Diverse 3D Shapes}}
+- {{Learning Occupancy for Monocular 3D Object Detection}}
+- {{Mudslide: A Universal Nuclear Instance Segmentation Method}}
+- {{DEADiff: An Efficient Stylization Diffusion Model with Disentangled Representations}}
+- {{EvalCrafter: Benchmarking and Evaluating Large Video Generation Models}}
+- {{Evidential Active Recognition: Intelligent and Prudent Open-World Embodied Perception}}
+- {{OmniMotionGPT: Animal Motion Generation with Limited Data}}
+- {{DIMAT: Decentralized Iterative Merging-And-Training for Deep Learning Models}}
+- {{Selective nonlinearities removal from digital signals}}
+- {{How Far Can We Compress Instant NGP-Based NeRF?}}
+- {{Fully Convolutional Slice-to-Volume Reconstruction for Single-Stack MRI}}
+- {{Intraoperative 2D/3D Image Registration via Differentiable X-ray Rendering}}
+- {{Patch2Self2: Self-supervised Denoising on Coresets via Matrix Sketching}}
+- {{Building Optimal Neural Architectures using Interpretable Knowledge}}
+- {{Gaussian Splatting SLAM}}
+- {{SNED: Superposition Network Architecture Search for Efficient Video Diffusion Model}}
+- {{Visual Layout Composer: Image-Vector Dual Diffusion Model for Design Layout Generation}}
+- {{NIVeL: Neural Implicit Vector Layers for Text-to-Vector Generation}}
+- {{Attention-Driven Training-Free Efficiency Enhancement of Diffusion Models}}
+- {{Rich Human Feedback for Text-to-Image Generation}}
+- {{C3: High-performance and low-complexity neural compression from a single image or video}}
+- {{G-FARS: Gradient-Field-based Auto-Regressive Sampling for 3D Part Grouping}}
+- {{Deep Generative Model based Rate-Distortion for Image Downscaling Assessment}}
+- {{Deep Single Image Camera Calibration by Heatmap Regression to Recover Fisheye Images Under Manhattan World Assumption}}
+- {{Text-Guided Variational Image Generation \\for Industrial Anomaly Detection and Segmentation}}
+- {{Enhancing 3D Object Detection with 2D Detection-Guided Query Anchors}}
+- {{Collaborating Foundation models for Domain Generalized Semantic Segmentation}}
+- {{Don’t drop your samples! Coherence-aware training benefits Conditional diffusion}}
+- {{Towards Understanding Cross and Self-Attention in Stable Diffusion for Text-Guided Image Editing}}
+- {{CAMixerSR: Only Details Need More "Attention"}}
+- {{G-NeRF: Geometry-enhanced Novel View Synthesis from Single-View Images}}
+- {{Learned Lossless Image Compression based on Bit Plane Slicing}}
+- {{Mosaic-SDF for 3D Generative Models}}
+- {{CARZero: Cross-Attention Alignment for Radiology Zero-Shot Classification}}
+- {{Doubly Abductive Counterfactual Inference for Text-based Image Editing}}
+- {{You Only Need Less Attention Each Stage in Vision Transformers}}
+- {{SurMo: Surface-based 4D Motion Modeling for Dynamic Human Rendering}}
+- {{CPLIP: Zero-Shot Learning for Histopathology with Comprehensive Vision-Language Alignment}}
+- {{Photo-SLAM: Real-time Simultaneous Localization and Photorealistic Mapping for Monocular, Stereo, and RGB-D Cameras}}
+- {{Targeted Representation Alignment for Open-World Semi-Supervised Learning}}
+- {{Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling}}
+- {{TexVocab: Texture Vocabulary-conditioned Human Avatars}}
+- {{StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On}}
+- {{Holistic Features are almost Sufficient for Text-to-Video Retrieval}}
+- {{OrthCaps: An Orthogonal CapsNet with Sparse Attention Routing and Pruning}}
+- {{Domain-Rectifying Adapter for Cross-domain Few-Shot Segmentation}}
+- {{Learning Degradation-unaware Representation with Prior-based Latent Transformations for Blind Face Restoration}}
+- {{GenH2R: Learning Generalizable Human-to-Robot Handover via Scalable Simulation, Demonstration, and Imitation}}
+- {{GenN2N: Generative NeRF2NeRF Translation}}
+- {{Can’t make an Omelette without Breaking some Eggs: Plausible Action Anticipation using Large Video-Language Models}}
+- {{Uncertainty-aware Action Decoupling Transformer for Action Anticipation}}
+- {{FairRAG: Fair Human Generation via Fair Retrieval Augmentation}}
+- {{Discover and Mitigate Multiple Biased Subgroups in Image Classifiers}}
+- {{DiaLoc: An Iterative Approach to Embodied Dialog Localization}}
+- {{PREGO: online mistake detection in PRocedural EGOcentric videos}}
+- {{Action Scene Graphs for Long-Form Understanding of Egocentric Videos}}
+- {{Estimating Extreme 3D Image Rotations using Cascaded Attention}}
+- {{FAR: Flexible, Accurate and Robust 6DoF Relative Camera Pose Estimation}}
+- {{NIFTY: Neural Object Interaction Fields for Guided Human Motion Synthesis}}
+- {{Reconstructing Hands in 3D with Transformers}}
+- {{3DFIRES: Few Image 3D REconstruction for Scenes with Hidden Surfaces}}
+- {{Fooling Polarization-based Vision using Locally Controllable Polarizing Projection}}
+- {{SPIDeRS: Structured Polarization for Invisible Depth and Reflectance Sensing}}
+- {{Delving Deep into Diffusion Transformers for Image and Video Generation}}
+- {{SEAS: ShapE-Aligned Supervision for Person Re-Identification}}
+- {{Large Language Models are Good Prompt Learners for Low-Shot Image Classification}}
+- {{CRKD: Enhanced Camera-Radar Object Detection with Cross-modality Knowledge Distillation}}
+- {{4D-fy: Text-to-4D Generation Using Hybrid Score Distillation Sampling}}
+- {{Unsupervised Keypoints from Pretrained Diffusion Models}}
+- {{Accelerating Neural Field Training via Soft Mining}}
+- {{Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields}}
+- {{Neural Fields as Distributions: Signal Processing Beyond Euclidean Space}}
+- {{TokenCompose: Grounding Diffusion with Token-level Supervision}}
+- {{HOIDiffusion: Generating Realistic 3D Hand-Object Interaction Data}}
+- {{Restoration by Generation with Constrained Priors}}
+- {{Behind the Veil: Enhanced Indoor 3D Scene Reconstruction with Occluded Surfaces Completion}}
+- {{NeRFDeformer: NeRF Transformation from a Single View via 3D Scene Flows}}
+- {{FreeControl: Training-Free Spatial Control of Any Text-to-Image Diffusion Model with Any Condition}}
+- {{SnAG: Scalable and Accurate Video Grounding}}
+- {{Language-Driven Anchors for Zero-Shot Adversarial Robustness}}
+- {{BIVDiff: A Training-free Framework for General-Purpose Video Synthesis via Bridging Image and Video Diffusion Models}}
+- {{Real Acoustic Fields: An Audio-Visual Room Acoustics Dataset and Benchmark}}
+- {{Fitting Flats to Flats}}
+- {{Masked Autoencoders for Microscopy are Scalable Learners of Cellular Biology}}
+- {{GP-NeRF: Generalized Perception NeRF for Context-Aware 3D Scene Understanding}}
+- {{VideoCutLER: Surprisingly Simple Unsupervised Video Instance Segmentation}}
+- {{Depth-aware Test-Time Training for Zero-shot Video Object Segmentation}}
+- {{SmartEdit: Exploring Complex Instruction-based Image Editing with Large Language Models}}
+- {{Color Shift Estimation-and-Correction for Image Enhancement}}
+- {{QN-Mixer: A Quasi-Newton MLP-Mixer Model for Sparse-View CT Reconstruction}}
+- {{Tackling the Singularities at the Endpoints of Time Intervals in Diffusion Models}}
+- {{ID-Blau: Image Deblurring by Implicit Diffusion-based reBLurring AUgmentation}}
+- {{Affine Equivariant Networks Based on Differential Invariants}}
+- {{ID-like Prompt Learning for Few-Shot Out-of-Distribution Detection}}
+- {{A Novel Transformer based Network for Large Scale Multimodal and Multitask Learning}}
+- {{Consistent3D: Towards Consistent High-Fidelity Text-to-3D Generation with Deterministic Sampling Prior}}
+- {{Diffusion Time-step Curriculum for One Image to 3D Generation}}
+- {{ToNNO: Tomographic Reconstruction of a Neural Network’s Output for Weakly Supervised Segmentation of 3D Medical Images}}
+- {{Producing and Leveraging Online Map Uncertainty in Trajectory Prediction}}
+- {{Model Adaptation for Time Constrained Embodied Control}}
+- {{Characteristics Matching Based Hash Codes Generation for Efficient Fine-grained Image Retrieval}}
+- {{Robust Image Denoising through Adversarial Frequency Mixup}}
+- {{Cyclic Learning for Binaural Audio Generation and Localization}}
+- {{Visual Anagrams: Synthesizing Multi-View Optical Illusions with Diffusion Models}}
+- {{MVHumanNet: A Large-scale Dataset of Multi-view Daily Dressing Human Captures}}
+- {{GAFusion: Adaptive Fusing LiDAR and Camera with Multiple Guidance for 3D Object Detection}}
+- {{A General and Efficient Training for Transformer via Token Expansion}}
+- {{In Search of a Data Transformation That Accelerates Neural Field Training}}
+- {{PeVL: Pose-Enhanced Vision-Language Model for Fine-Grained Human Action Recognition}}
+- {{AiOS: All-in-One-Stage 3D Wholebody Mesh Recovery}}
+- {{GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting}}
+- {{S-DyRF: Reference-Based Stylized Radiance Fields for Dynamic Scenes}}
+- {{Self-Supervised Class-Agnostic Motion Prediction with Spatial and Temporal Consistency Regularizations}}
+- {{DiffPortrait3D: Single-Portrait Novel View Synthesis with 3D-Aware Diffusion}}
+- {{Multi-Modal Proxy Learning Towards Personalized Visual Multiple Clustering}}
+- {{X-3D: Explicit 3D Structure Modeling for Point Cloud Recognition}}
+- {{Putting the Object Back into Video Object Segmentation}}
+- {{All Rivers Run to the Sea: Private Learning with Asymmetric Flows}}
+- {{A Simple Recipe for Contrastively Pre-training Video-First Encoders Beyond 16 Frames}}
+- {{Light the Night: A Multi-Condition Diffusion Framework for Unpaired Low-Light Enhancement in Autonomous Driving}}
+- {{Beyond Average: Individualized Visual Scanpath Prediction}}
+- {{On the Robustness of Language Guidance for Low-Level Vision Tasks: Findings from Depth Estimation}}
+- {{Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis}}
+- {{Beyond First-Order Tweedie: Solving Inverse Problems using Latent Diffusion}}
+- {{Video Interpolation with Diffusion Models}}
+- {{DiVAS: Video and Audio Synchronization with Dynamic Frame Rates}}
+- {{Diffusion Models Without Attention}}
+- {{Deep-TROJ: An Inference Stage Trojan Insertion Algorithm through Efficient Weight Replacement Attack}}
+- {{Balancing Act: Distribution-Guided Debiasing in Diffusion Models}}
+- {{TULIP: A Multi-camera 3D Dataset for Precision Assessment of Parkinson's Disease}}
+- {{Torwards Open-Vocabulary HOI Detection via Conditional Multi-level Decoding and Fine-grained Semantic Enhancement}}
+- {{Resolution Limit of Single-Photon LIDAR}}
+- {{Rotation-Agnostic Image Representation Learning for Digital Pathology}}
+- {{Diffusion-EDFs: Bi-equivariant Denoising Generative Modeling on SE(3) for Visual Robotic Manipulation}}
+- {{CFAT: Unleashing Triangular Windows for Image Super-resolution}}
+- {{Learnable Earth Parser: Discovering 3D Prototypes in Aerial Scans}}
+- {{EMOPortraits: Emotion-enhanced Multimodal One-shot Head Avatars}}
+- {{Infinigen Indoors: Photorealistic Indoor Scenes using Procedural Generation}}
+- {{Desigen: A Pipeline for Controllable Design Template Generation}}
+- {{DualAD: Disentangling the Dynamic and Static World for End-to-End Driving}}
+- {{ADA-Track: End-to-End Multi-Camera 3D Multi-Object Tracking with Alternating Detection and Association}}
+- {{GenZI: Zero-Shot 3D Human-Scene Interaction Generation}}
+- {{MoReVQA: Exploring Modular Reasoning Models for Video Question Answering}}
+- {{Streaming dense video captioning}}
+- {{Entity-NeRF: Detecting and Removing Moving Entities in Urban Scenes}}
+- {{Multiscale Vision Transformers meet Bipartite Matching for efficient single-stage Action Localization}}
+- {{Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion}}
+- {{Learning Diffusion Texture Priors for Image Restoration}}
+- {{FSC: Few-point Shape Completion}}
+- {{HallusionBench: An Advanced Diagnostic Suite for Entangled Language Hallucination & Visual Illusion in Large Vision-Language Models}}
+- {{Towards Generalizable Tumor Synthesis}}
+- {{Lift3D: Zero-Shot Lifting of Any 2D Vision Model to 3D}}
+- {{NeISF: Neural Incident Stokes Field for Geometry and Material Estimation}}
+- {{Causal Mode Multiplexer: A Novel Framework for Unbiased Multispectral Pedestrian Detection}}
+- {{MULAN: A Multi Layer Annotated Dataset for Controllable Text-to-Image Generation}}
+- {{FlashEval: Towards Fast and Accurate Evaluation of Text-to-image Diffusion Generative Models}}
+- {{Learning Intra-view and Cross-view Geometric Knowledge for Stereo Matching}}
+- {{Lookahead Exploration with Neural Radiance Representation for Continuous Vision-Language Navigation}}
+- {{MeshPose: Unifying DensePose and 3D Body Mesh reconstruction}}
+- {{MTLoRA: Low-Rank Adaptation Approach for Efficient Multi-Task Learning}}
+- {{PikeLPN: Mitigating Overlooked Inefficiencies of Low-Precision Neural Networks}}
+- {{SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation}}
+- {{FedHCA$^2$: Towards Hetero-Client Federated Multi-Task Learning}}
+- {{Preserving Fairness Generalization in Deepfake Detection}}
+- {{Test-Time Zero-Shot Temporal Action Localization}}
+- {{Edge-Aware 3D Instance Segmentation Network with Intelligent Semantic Prior}}
+- {{Communication-Efficient Federated Learning with Accelerated Client Gradient}}
+- {{LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry}}
+- {{EgoGen: An Egocentric Synthetic Data Generator}}
+- {{A Unified Framework for Microscopy Defocus Deblur with Multi-Pyramid Transformer and Contrastive Learning}}
+- {{PaSCo: Urban 3D Panoptic Scene Completion with Uncertainty Awareness}}
+- {{ViLa-MIL: Dual-scale Vision-Language Multiple Instance Learning for Whole Slide Image Classification}}
+- {{In2SET: Inner-Inter Similarity Exploiting Transformer for  Dual-Camera Compressive Hyperspectral Imaging}}
+- {{VideoMAC: Video Masked Autoencoders Meet ConvNets}}
+- {{MicroDiffusion: Implicit Representation-Guided Diffusion for 3D Reconstruction from Limited 2D Microscopy Projections}}
+- {{Mining Supervision for Dynamic Regions in Self-Supervised Monocular Depth Estimation}}
+- {{A Conditional Denoising Diffusion Probabilistic Model for Point Cloud Upsampling}}
+- {{From-Ground-To-Objects: Coarse-to-Fine Self-supervised Monocular Depth Estimation of Dynamic Objects with Ground Contact Prior}}
+- {{Continuous Optical Zooming: A Benchmark for Arbitrary-Scale Image Super-Resolution in Real World}}
+- {{Task2Box: Box Embeddings for Modeling Asymmetric Task Relationships}}
+- {{Dynamic Inertial Poser (DynaIP): Part-Based Motion Dynamics Learning for Enhanced Human Pose Estimation with Sparse Inertial Sensors}}
+- {{$CrowdDiff$: Multi-hypothesis Crowd Density Estimation using Diffusion Models}}
+- {{$MonoDiff$: Monocular 3D Object Detection and Pose Estimation with Diffusion Models}}
+- {{A Dual-Augmentor Framework for Domain Generalization in 3D Human Pose Estimation}}
+- {{CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition}}
+- {{From a Bird’s Eye View to See: Joint Camera and Subject Registration without the Camera Calibration}}
+- {{SplattingAvatar: Realistic Real-Time Human Avatars with Mesh-Embedded Gaussian Splatting}}
+- {{UniPAD: A Universal Pre-training Paradigm for Autonomous Driving}}
+- {{Generating Handwritten Mathematical Expressions From Symbol Graphs: An End-to-End Pipeline}}
+- {{Stratified Avatar Generation from Sparse Observations}}
+- {{Diffusion-ES: Generative Evolutionary Search with Diffusion Models for Trajectory Optimization}}
+- {{Exploring Vision Transformers for 3D Human Motion-Language Models with Motion Patches}}
+- {{Towards Robust 3D Object Detection with LiDAR and 4D Radar Fusion in Various Weather Conditions}}
+- {{Snapshot Lidar: Fourier embedding of phasors for single-image depth reconstruction}}
+- {{Cross-spectral Gated-RGB Stereo Depth Estimation}}
+- {{Turb-Seg-Res: A Segment-then-Restore Pipeline for Dynamic Videos with Atmospheric Turbulence}}
+- {{Hearing Anything Anywhere}}
+- {{IBD-SLAM: Learning Image-Based Depth Fusion for Generalizable SLAM}}
+- {{UltrAvatar: A Realistic Animatable 3D Avatar Diffusion Model with Authenticity Guided Textures}}
+- {{MaskINT: Video Editing via Interpolative Non-autoregressive Masked Transformers}}
+- {{Single-view Scene Point Cloud Human Grasp Generation}}
+- {{Seeing the World through Your Eyes}}
+- {{Grounded Text-to-Image Synthesis with Attention Refocusing}}
+- {{TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion}}
+- {{Modeling Multimodal Social Interactions: New Challenges and Baselines with Densely Aligned Representations}}
+- {{DUDF: Differentiable Unsigned Distance Fields with Hyperbolic Scaling}}
+- {{Describing Differences in Image Sets with Natural Language}}
+- {{SwitchLight: Co-design of Physics-driven Architecture and Pre-training Framework for Human Portrait Relighting}}
+- {{ReCoRe: Regularized Contrastive Representation Learning of World Model}}
+- {{See, Say, and Segment: Correcting False Premises with LMMs}}
+- {{Versatile Medical Image Segmentation Learned from Multi-Source Datasets via Model Self-Disambiguation}}
+- {{Making Large Multimodal Models Understand Arbitrary Visual Prompts}}
+- {{PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics}}
+- {{Looking Similar, Sounding Different: Leveraging Counterfactual Cross-Modal Pairs for Audiovisual Representation Learning}}
+- {{Restricted Memory Banks Improve Video Object Segmentation: A Revisit}}
+- {{Zero-TPrune: Zero-Shot Token Pruning through Leveraging of the Attention Graph in Pre-Trained Transformers}}
+- {{ViVid-1-to-3: Novel View Synthesis with Video Diffusion Models}}
+- {{Advancing Saliency Ranking with Human Fixations: Dataset, Models and Benchmarks}}
+- {{Single-View Refractive Index Tomography with Neural Fields}}
+- {{ProMotion: Prototypes As Motion Learners}}
+- {{Make Pixels Dance: High-Dynamic Video Generation}}
+- {{Synthesize Step-by-Step: Tools, Templates and LLMs as Data Generators for Reasoning-Based Chart VQA}}
+- {{SyncMask: Synchronized Attentional Masking for Fashion-centric Vision-Language Pretraining}}
+- {{TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding}}
+- {{PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding}}
+- {{SuperPrimitive: Scene Reconstruction at a Primitive Level}}
+- {{Multi-modal In-Context Learning Makes an Ego-evolving Scene Text Recognizer}}
+- {{Building a Strong Pre-Training Baseline for Universal 3D Large-Scale Perception}}
+- {{BodyMAP - Jointly Predicting Body Mesh and 3D Applied Pressure Map for People in Bed}}
+- {{PeerAiD: Improving Adversarial Distillation from a Specialized Peer Tutor}}
+- {{Dexterous Grasp Transformer}}
+- {{CuVLER: Enhanced Unsupervised Object Discoveries through Exhaustive Self-Supervised Transformers}}
+- {{Beyond Text: Frozen Large Language Models in Visual Signal Comprehension}}
+- {{Adaptive Random Feature Regularization on Fine-tuning Deep Neural Networks}}
+- {{InteractDiffusion: Interaction Control in Text-to-Image Diffusion Models}}
+- {{A Vision Check-up for Language Models}}
+- {{Analyzing and Improving the Training Dynamics of Diffusion Models}}
+- {{Adaptive Dilated Convolution from Frequency View}}
+- {{Evaluating Transferability in Retrieval Tasks: An Approach Using MMD and Kernel Methods}}
+- {{CodedEvents: Optimal Point-Spread-Function Engineering for 3D-Tracking with Event Cameras}}
+- {{Binding Touch to Everything: Learning Unified Multimodal Tactile Representations}}
+- {{DyBluRF: Dynamic Neural Radiance Fields from Blurry Monocular Video}}
+- {{ViewFusion: Towards Multi-View Consistency via Interpolated Denoising}}
+- {{CAT-Seg: Cost Aggregation for Open-vocabulary Semantic Segmentation}}
+- {{Source-Free Domain Adaptation with Frozen Multimodal Foundation Model}}
+- {{Correspondence-Free Non-Rigid Point Set Registration Using Unsupervised Clustering Analysis}}
+- {{Improving Training Efficiency of Diffusion Models via Multi-Stage Framework and Tailored Multi-Decoder Architectures}}
+- {{Cooperation Does Matter: Exploring Multi-Order Bilateral Relations for Audio-Visual Segmentation}}
+- {{LEDITS++: Limitless Image Editing using Text-to-Image Models}}
+- {{Viewpoint-Aware Visual Grounding in 3D Scenes}}
+- {{Uncertainty-Aware Source-Free Adaptive Image Super-Resolution with Wavelet Augmentation Transformer}}
+- {{Multimodal Prompt Perceiver: Empower Adaptiveness, Generalizability and Fidelity for All-in-One Image Restoration}}
+- {{Task-Driven Exploration: Decoupling and Inter-Task Feedback for Joint Moment Retrieval and Highlight Detection}}
+- {{UniGS: Unified Representation for Image Generation and Segmentation}}
+- {{When Visual Grounding Meets Gigapixel-level Large-scale Scenes: Benchmark and Approach}}
+- {{Scaling Up Video Summarization Pretraining with Large Language Models}}
+- {{Move Anything with Layered Scene Diffusion}}
+- {{One-Class Face Anti-spoofing via Spoof Cue Map-Guided Feature Learning}}
+- {{Open-World Semantic Segmentation Including Class Similarity}}
+- {{The Manga Whisperer: Automatically Generating Transcriptions for Comics}}
+- {{KPConvX: Modernizing Kernel Point Convolution with Kernel Attention}}
+- {{Probing and Mitigating Intersectional Social Biases in Vision-Language Models with Counterfactual Examples}}
+- {{Equivariant plug-and-play image reconstruction}}
+- {{QUADify: Extracting Meshes with Pixel-level Details and Materials from Images}}
+- {{APISR: Anime Production Inspired Real-World Anime Super-Resolution}}
+- {{Selective, Interpretable and Motion Consistent Privacy Attribute Obfuscation for Action Recognition}}
+- {{On the Estimation of Image-matching Uncertainty in Visual Place Recognition}}
+- {{MULDE: Multiscale Log-Density Estimation via Denoising Score Matching for Video Anomaly Detection}}
+- {{Pose-Transformed Equivariant Network for  3D Point Trajectory Prediction}}
+- {{StyleCineGAN: Landscape Cinemagraph Generation using a Pre-trained StyleGAN}}
+- {{Open-vocabulary object 6D pose estimation}}
+- {{Amodal Ground Truth and Completion in the Wild}}
+- {{HUNTER: Unsupervised Human-centric 3D Detection via Transferring Knowledge from Synthetic Instances to Real Scenes}}
+- {{Time-, Memory- and Parameter-Efficient Visual Adaptation}}
+- {{LAENeRF: Local Appearance Editing for Neural Radiance Fields}}
+- {{ZONE: Zero-Shot Instruction-Guided Local Editing}}
+- {{SceneTex: High-Quality Texture Synthesis for Indoor Scenes via Diffusion Priors}}
+- {{CADTalk: An Algorithm and Benchmark for Semantic Commenting of CAD Programs}}
+- {{Looking 3D: Anomaly Detection with 2D-3D Alignment}}
+- {{Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers}}
+- {{SemCity: Semantic Scene Generation with Triplane Diffusion}}
+- {{Improving Depth Completion via Depth Feature Upsampling}}
+- {{Decompose-and-Compose: A Compositional Approach to Mitigating Spurious Correlation}}
+- {{WildlifeMapper:  Aerial Image Analysis for Multi-Species Detection and Identification}}
+- {{The devil is in the fine-grained details: Evaluating open-vocabulary object detectors for fine-grained understanding}}
+- {{OpticalDR: A Deep Optical Imaging Model for Privacy-Protective Depression Recognition}}
+- {{Optimizing Diffusion Noise Can Serve As Universal Motion Priors}}
+- {{RankED: Addressing Imbalance and Uncertainty in Edge Detection Using Ranking-based Losses}}
+- {{Learning Group Activity Features Through Person Attribute Prediction}}
+- {{Neural Directional Encoding for Efficient and Accurate View-Dependent Appearance Modeling}}
+- {{Rethinking FID: Towards a Better Evaluation Metric for Image Generation}}
+- {{MarkovGen: Structured Prediction for Efficient Text-to-Image Generation}}
+- {{Partial-to-Partial Shape Matching with Geometric Consistency}}
+- {{Learning from One Continuous Video Stream}}
+- {{Parameter Efficient Self-Supervised Geospatial Domain Adaptation}}
+- {{TiNO-Edit: Timestep and Noise Optimization for Robust Diffusion-Based Image Editing}}
+- {{Improving Semantic Correspondence with Viewpoint-Guided Spherical Maps}}
+- {{DetDiffusion: Synergizing Generative and Perceptive Models for Enhanced Data Generation and Perception}}
+- {{RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D}}
+- {{GPLD3D: Latent Diffusion of 3D Shape Generative Models by Enforcing Geometric and Physical Priors}}
+- {{IPoD: Implicit Field Learning with Point Diffusion for Generalizable 3D Object Reconstruction from Single RGB-D Images}}
+- {{RCBEVDet: Radar-camera Fusion in Bird’s Eye View for 3D Object Detection}}
+- {{HMD-Poser: On-Device Realtime Human Motion Tracking from Scalable Sparse Observations}}
+- {{Inversion-Free Image Editing with Natural Language}}
+- {{Make Me a BNN: A Simple Strategy for Estimating Bayesian Uncertainty from Pre-trained Models}}
+- {{GaussianAvatar: Efficient Animatable Human Modeling from Monocular Video Using Gaussians-on-Mesh}}
+- {{Frequency Decoupling for Motion Magnification via Multi-Level Isomorphic Architecture}}
+- {{Convolutional Prompting meets Language Models for Continual Learning}}
+- {{TeTriRF: Temporal Tri-Plane Radiance Fields for Efficient Free-Viewpoint Video}}
+- {{Universal Robustness via Median Random Smoothing for Real-World Super-Resolution}}
+- {{CAGE: Controllable Articulation GEneration}}
+- {{IIRP-Net: Iterative Inference Residual Pyramid Network for Enhanced Image Registration}}
+- {{What Moves Together Belongs Together}}
+- {{HPL-ESS: Hybrid Pseudo-Labeling for Unsupervised Event-based Semantic Segmentation}}
+- {{Accurate Spatial Gene Expression Prediction by integrating Multi-resolution features}}
+- {{Adaptive Fusion of Single-View and Multi-View Depth for Autonomous Driving}}
+- {{EpiDiff: Enhancing Multi-View Synthesis via Localized Epipolar-Constrained Diffusion}}
+- {{Transferable Structural Sparse Adversarial Attack Via Exact Group Sparsity Training}}
+- {{$\textbf{LaRE}^2$: Latent Reconstruction Error Based Method for Diffusion-Generated Image Detection}}
+- {{Groupwise Query Specialization and Quality-Aware Multi-Assignment for Transformer-based Visual Relationship Detection}}
+- {{Adaptive Softassign via Hadamard-Equipped Sinkhorn}}
+- {{FreeMan: Towards benchmarking 3D human pose estimation under Real-World Conditions}}
+- {{Not All Prompts Are Secure: A Switchable Backdoor Attack against Pre-trained Models}}
+- {{VTQA: Visual Text Question Answering via Entity Alignment and Cross-Media Reasoning}}
+- {{Text Grouping Adapter: Adapting Pre-trained Text Detector for Layout Analysis}}
+- {{ULIP-2: Towards Scalable Multimodal Pre-training for 3D Understanding}}
+- {{Learning by Correction: Efficient Tuning Task for Zero-Shot Generative Vision-Language Reasoning}}
+- {{Test-Time Backdoor Defense via Detecting and Repairing}}
+- {{Improving Generalized Zero-Shot Learning by Exploring the Diverse Semantics from  External Class Names}}
+- {{Flow-Guided Online Stereo Rectification for Wide Baseline Stereo}}
+- {{PDF: A Probability-Driven Framework for Open World 3D Point Cloud Semantic Segmentation}}
+- {{Circuit Design and Efficient Simulation of Quantum Inner Product and Empirical Studies of Its Effect on Near-Term Hybrid Quantum-Classic Machine Learning}}
+- {{WateRF: Robust Watermarks in Radiance Fields for Protection of Copyrights}}
+- {{Learning Continuous 3D Words for Text-to-Image Generation}}
+- {{NOPE: Novel Object Pose Estimation from a Single Image}}
+- {{ModaVerse: Efficiently Transforming Modalities with LLMs}}
+- {{ProTeCt: Prompt Tuning for Taxonomic Open Set Classification}}
+- {{3D-SceneDreamer: Text-Driven 3D-Consistent Scene Generation}}
+- {{Self-correcting LLM-controlled Diffusion}}
+- {{Real-time 3D-aware Portrait Video Relighting}}
+- {{OakInk2: A Dataset of Embodied Hands-Object Manipulation in Long-Horizon Complex Task Completion}}
+- {{EmoVIT: Revolutionizing Emotion Insights with Visual Instruction Tuning}}
+- {{Investigating and Mitigating the Side Effects of Noisy Views for Self-Supervised Clustering Algorithms in Practical Multi-View Scenarios}}
+- {{SCEdit: Efficient and Controllable Image Diffusion Generation via Skip Connection Editing}}
+- {{Continual Motion Prediction Learning Framework via Meta-Representation Learning and Optimal Memory Buffer Retention Strategy}}
+- {{Watermark-embedded Adversarial Examples for Copyright Protection against Diffusion Models}}
+- {{Task-conditioned adaptation of visual features in multi-task policy learning}}
+- {{Know Your Neighbors: Improving Single-View Reconstruction via Spatial Vision-Language Reasoning}}
+- {{Multi-Level Neural Scene Graphs for Dynamic Urban Environments}}
+- {{CoDe: An Explicit Content Decoupling Framework for Image Restoration}}
+- {{CN-RMA: Combined Network with Ray Marching Aggregation for 3D Indoor Object Detection from Multi-view Images}}
+- {{EarthLoc: Astronaut Photography Localization by Indexing Earth from Space}}
+- {{The Unreasonable Effectiveness of Pre-Trained Features for Camera Pose Refinement}}
+- {{AEROBLAD²E: Training-Free Detection of Latent Diffusion Images Using Autoencoder Reconstruction Error}}
+- {{Mitigating Motion Blur in Neural Radiance Fields with Events and Frames}}
+- {{Hunting Attributes:  Context Prototype-Aware Learning for Weakly Supervised Semantic Segmentation}}
+- {{Coupled Laplacian Eigenmaps for Locally-Aware 3D Rigid Point Cloud Matching}}
+- {{Integrating Efficient Optimal Transport and Functional Maps For Unsupervised Shape Correspondence Learning}}
+- {{IDGuard: Robust, General, Identity-centric POI Proactive Defense Against Face Editing Abuse}}
+- {{NeRF Director: Revisiting View Selection in Neural Volume Rendering}}
+- {{MedBN: Robust Test Time Adaptation against Malicious Test Samples}}
+- {{DiffuseMix: An Effective Image Augmentation Approach Driven by Vision-Language Diffusion Models}}
+- {{NECA: Neural Customizable Human Avatar}}
+- {{MovieChat: From Dense Token to Sparse Memory for Long Video Understanding}}
+- {{Dynamic Support Information Mining for Category-Agnostic Pose Estimation}}
+- {{Batch Normalization Alleviates the Spectral Bias in Coordinate Networks}}
+- {{FINER: Flexible spectral-bias tuning in Implicit NEural Representation by Variable-periodic Activation Functions}}
+- {{DyMVHumans: A Multi-View Video Benchmark for High-Fidelity Dynamic Human Modeling}}
+- {{Contrastive Learning for DeepFake Classification and Localization via Multi-Label Ranking}}
+- {{FMA-Net: Flow Guided Dynamic Filtering and Iterative Feature Refinement with Multi-Attention for Joint Video Super-Resolution and Deblurring}}
+- {{Data-Free Quantization via Pseudo-label Filtering}}
+- {{Pre-training Vision Models with Mandelbulb Variations}}
+- {{Active Domain Adaptation with False Negative Prediction for Object Detection}}
+- {{Teeth-SEG: An Efficient Instance Segmentation Framework for Orthodontic Treatment based on Anthropic Prior Knowledge}}
+- {{LLaMA-Excitor: General Instruction Tuning via Indirect Feature Interaction}}
+- {{Event-based Structure-from-Orbit}}
+- {{Perturbing Attention Gives You More Bang for the Buck: Subtle Imaging Perturbations That Efficiently Fool Customized Diffusion Models}}
+- {{DemoFusion: Democratising High-Resolution Image Generation With No $$$}}
+- {{Cinematic Behavior Transfer via NeRF-based Differentiable Filming}}
+- {{Delving into the Trajectory Long-tail Distribution for Muti-object Tracking}}
+- {{NC-TTT: A Noise Constrastive Approach for Test-Time Training}}
+- {{FreeKD: Knowledge Distillation via Semantic Frequency Prompt}}
+- {{Cloud-Device Collaborative Learning for Multimodal Large Language Models}}
+- {{Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation}}
+- {{On Exact Inversion of DPM-Solvers}}
+- {{Enhancing Visual Continual Learning with Language-Guided Supervision}}
+- {{On The Vulnerability of Efficient Vision Transformers to Adversarial Computation Attacks}}
+- {{ATTA: Label-Free Accuracy Estimation for Test-Time Adaptation}}
+- {{Spurious Generalization Indicators - A Sanity Check on Shape Bias, Spectral Bias, and the Critical Band}}
+- {{Enhancing the Power of OOD Detection via Sample-Aware Model Selection}}
+- {{Anomaly Score: Evaluating Generative Models and Individual Generated Images based on Complexity and Vulnerability}}
+- {{LUWA Dataset: Learning Lithic Use-Wear Analysis on Microscopic Images}}
+- {{Dynamic LiDAR Re-simulation using Compositional Neural Fields}}
+- {{Deep Imbalanced Regression via Hierarchical Classification Adjustment}}
+- {{OmniMedVQA: A New Large-Scale Comprehensive  Evaluation Benchmark for Medical LVLM}}
+- {{SVDinsTN: A Tensor Network Paradigm for Efficient Structure Search from Regularized Modeling Perspective}}
+- {{Sketch in VR, Make it Real: Rapid 3D Model Generation using VR 3D Sketching}}
+- {{Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks}}
+- {{BEM: Balanced and Entropy-based Mix for Long-Tailed Semi-Supervised Learning}}
+- {{Intelligent Grimm - Open-ended Visual Storytelling via Latent Diffusion Models}}
+- {{Visual Programming for Zero-shot Open-Vocabulary 3D Visual Grounding}}
+- {{Active Open-Vocabulary Recognition: Let Intelligent Moving Mitigate CLIP Limitations}}
+- {{ShapeMaker: Self-Supervised Joint Shape Canonicalization, Segmentation, Retrieval and Deformation}}
+- {{MAP: MAsk-Pruning for Source-Free Model Intellectual Property Protection}}
+- {{Effective Video Mirror Detection with Inconsistent Motion Cues}}
+- {{Unsupervised Salient Instance Detection}}
+- {{RepKPU: Point Cloud Upsampling with Kernel Point Representation and KernelPoint-to-Displacement Generation}}
+- {{PanoContext-Former: Panoramic Total Scene Understanding with a Transformer}}
+- {{OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning}}
+- {{Zero-Shot Structure-Preserving Diffusion Model for  High Dynamic Range Tone Mapping}}
+- {{Structured Gradient-based Interpretations via Norm-Regularized Adversarial Training}}
+- {{Segment Any Events via Weighted Adaptation of Pivotal Tokens}}
+- {{Correcting Diffusion Generation through Resampling}}
+- {{Random Entangled Tokens for Adversarially Robust Vision Transformer}}
+- {{PIE-NeRF: Physics-based Interactive Elastodynamics with NeRF}}
+- {{VideoCon: Robust Video-Language Alignment via Contrast Captions}}
+- {{MOHO: Learning Single-view Hand-held Object Reconstruction with Multi-view Occlusion-Aware Supervision}}
+- {{KP-RED: Exploiting Semantic Keypoints for Joint 3D Shape Retrieval and Deformation}}
+- {{HumMUSS: Human Motion Understanding using State Space Models}}
+- {{LayoutLLM: Layout Instruction Tuning with Large Language Models for Document Understanding}}
+- {{Byzantine-robust Decentralized Federated Learning via Dual-domain Clustering and Trust Bootstrapping}}
+- {{AvatarGPT: All-in-One Framework for Motion Understanding, Planning, Generation and Beyond}}
+- {{Object Recognition as Next Token Prediction}}
+- {{GigaTraj: Predicting Long-term Trajectories of Hundreds of Pedestrians in Gigapixel Complex Scenes}}
+- {{CMA: A Chromaticity Map Adapter for Robust Detection of Screen-Recapture Document Images}}
+- {{3D Feature Tracking at 250 FPS via Event Camera}}
+- {{CoDi-2: Interleaved and In-Context Any-to-Any Generation}}
+- {{Real-World Efficient Blind Motion Deblurring via Blur Pixel Discretization}}
+- {{OmniLocalRF: Omnidirectional Local Radiance Fields from Dynamic Videos}}
+- {{MAGICK: A Large-scale Captioned Dataset from Matting Generated Images using Chroma Keying}}
+- {{Hyper-MD: Mesh Denoising with Customized Parameters Aware of Noise Intensity and Geometric Characteristics}}
+- {{SPECAT: SPatial-spEctral Cumulative-Attention Transformer for High-Resolution Hyperspectral Image Reconstruction}}
+- {{Dual-scale Transformer for Large-scale Single-Pixel Imaging}}
+- {{ExtDM: Dual Distribution Extrapolation Diffusion Model for Video Prediction}}
+- {{SCoFT: Self-Contrastive Fine-Tuning for Equitable Image Generation}}
+- {{Promptable Behaviors: Personalizing Multi-Objective Rewards from Human Preferences}}
+- {{LaMPilot: An Open Benchmark Dataset for Autonomous Driving with Language Model Programs}}
+- {{Generating Human Motion in 3D Scenes from Text Descriptions}}
+- {{Online Task-Free Continual Generative and Discriminative Learning via Dynamic Cluster Memory}}
+- {{MoDE: CLIP Data Experts via Clustering}}
+- {{MESA: Matching Everything by Segmenting Anything}}
+- {{ContextSeg: Sketch Semantic Segmentation by Querying the Context with Attention}}
+- {{PolarRec: Radio Interferometric Data Reconstruction with Polar Coordinate Representation}}
+- {{Text-to-3D Generation with Bidirectional Diffusion using both 3D and 2D priors}}
+- {{Sculpt3D: Multi-View Consistent Text-to-3D Generation with Sparse 3D Prior}}
+- {{A Study of Dropout-Induced Modality Bias on Robustness to Missing Video Frames for Audio-Visual Speech Recognition}}
+- {{MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI}}
+- {{Unsupervised Learning of Category-Level 3D Pose from Object-Centric Videos}}
+- {{Atlantis: Enabling Underwater Depth Estimation with Stable Diffusion}}
+- {{Robust Self-calibration of Focal Lengths from the Fundamental Matrix}}
+- {{Towards Robust Audiovisual Segmentation in Complex Environments with Quantization-based Semantic Decomposition}}
+- {{One-Shot Structure-Aware Stylized Image Synthesis}}
+- {{VTimeLLM: Empower LLM to Grasp Video Moments}}
+- {{Self-supervised debiasing using low rank regularization}}
+- {{ERMVP: Communication-Efficient and Collaboration-Robust Multi-Vehicle Perception in Challenging Environments}}
+- {{3D Neural Edge Reconstruction}}
+- {{Mitigating Noisy Correspondence by Geometrical Structure Consistency Learning}}
+- {{SURE: SUrvey REcipes for building reliable and robust deep networks}}
+- {{One Prompt Word is Enough to Boost Adversarial Robustness for Pre-trained Vision-Language Models}}
+- {{Rethinking Prior Information Generation with CLIP for Few-Shot Segmentation}}
+- {{Semantic-Aware Multi-Label Adversarial Attacks}}
+- {{CaKDP: Category-aware Knowledge Distillation and Pruning Framework for Lightweight 3D Object Detection}}
+- {{UnSAMFlow: Unsupervised Optical Flow Guided by Segment Anything Model}}
+- {{Fusing Personal and Environmental Cues for Identification and Segmentation of First-Person Camera Wearers in Third-Person View}}
+- {{Mask Grounding for Referring Image Segmentation}}
+- {{Temperature-based Backdoor Attacks on Thermal Infrared Object Detection}}
+- {{Training Generative Image Super-Resolution Models by Wavelet-Domain Losses Enables Better Control of Artifacts}}
+- {{Diffusion-driven GAN Inversion for Multi-Modal Facial Image Generation}}
+- {{Posterior Distillation Sampling}}
+- {{AIDE: An Automatic Data Engine for Object Detection in Autonomous Driving}}
+- {{SDPose: Tokenized Pose Estimation via Circulation-Guide Self-Distillation}}
+- {{A Closer Look at Audio-Visual Segmentation}}
+- {{Efficient Hyperparameter Optimization with Adaptive Fidelity Identification}}
+- {{GPT-4V(ision) is a Versatile and Human-Aligned Evaluator for Text-to-3D Generation}}
+- {{Auto MC-Reward: Automated Dense Reward Design with Large Language Models for Minecraft}}
+- {{Weakly-Supervised Emotion Transition Learning for Diverse 3D Co-speech Gesture Generation}}
+- {{MuseChat: A Conversational Music Recommendation System for Videos}}
+- {{Revamping Federated Learning Security from a Defender's Perspective: A Unified Defense with Homomorphic Encrypted Data Space}}
+- {{iToF-flow-based High Frame Rate Depth Imaging}}
+- {{Theoretically Achieving Continuous Representation of Oriented Bounding Boxes}}
+- {{Point2RBox: Combine Knowledge from Synthetic Visual Patterns for End-to-end Oriented Object Detection with Single Point Supervision}}
+- {{PointOBB: Learning Oriented Object Detection via Single Point Supervision}}
+- {{Practical Measurements of Translucent Materials with Inter-Pixel Translucency Prior}}
+- {{Cross Initialization for Personalized Text-to-Image Generation}}
+- {{MultiPLY: A Multisensory Object-Centric Embodied Large Language Model in 3D World}}
+- {{Listening and Imagining: Freely Crafting High-Fidelity Diverse Talking Faces from Disentangled Audio}}
+- {{LPSNet: End-to-End Human Pose and Shape Estimation with Lensless Imaging}}
+- {{SeeSR: Towards Semantics-Aware Real-World Image Super-Resolution}}
+- {{InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks}}
+- {{Multimodal Representation Learning by Alternating Unimodal Adaptation}}
+- {{CrossKD: Cross-Head Knowledge Distillation for Dense Object Detection}}
+- {{A Simple and Effective Point-based Network for Event Camera 6-DOFs Pose Relocalization}}
+- {{OmniParser: A Unified Framework for Text Spotting, Key Information Extraction and Table Recognition}}
+- {{Adapt or Perish: Adaptive Sparse Transformer with Attentive Feature Refinement for Image Restoration}}
+- {{DreamControl: Control-Based Text-to-3D Generation with 3D Self-Prior}}
+- {{FedMef: Towards Memory-efficient Federated Dynamic Pruning}}
+- {{Depth  Information Assisted Collaborative Mutual Promotion Network for Single Image Dehazing}}
+- {{Text-Enhanced Data-free Approach for Federated Class-Incremental Learning}}
+- {{NAYER: Noisy Layer Data Generation for Efficient and Effective Data-free Knowledge Distillation}}
+- {{Synergistic Global-space Camera and Human Reconstruction from Videos}}
+- {{PLACE: Adaptive Layout-Semantic Fusion for Semantic Image Synthesis}}
+- {{iKUN: Speak to Trackers without Retraining}}
+- {{ACT: Adversarial Consistency Models}}
+- {{PI3D: Efficient Text-to-3D Generation with Pseudo-Image Diffusion}}
+- {{Exact Fusion via Feature Distribution Matching for Few-shot Image Generation}}
+- {{WorDepth: Variational Language Prior for Monocular Depth Estimation}}
+- {{Test-Time Adaptation for Depth Completion}}
+- {{Generating Enhanced Negatives for Training Language-Based Object Detectors}}
+- {{IS-Fusion: Instance-Scene Collaborative Fusion for Multimodal 3D Object Detection}}
+- {{An Empirical Study of Scaling Law for OCR}}
+- {{Video-Based Human Pose Regression via Decoupled Space-Time Aggregation}}
+- {{Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs}}
+- {{Learning to Localize Objects Improves Spatial Reasoning in Visual-LLMs}}
+- {{Virtual Immunohistochemistry Staining for Histological Images Assisted by Weakly-supervised Learning}}
+- {{TEA: Test-time Energy Adaptation}}
+- {{Makeup Prior Models for 3D Facial Makeup Estimation and Applications}}
+- {{Video-conditioned Text Representations for Activity Recognition}}
+- {{Multimodal autoregressive learning for time-aligned and contextual modalities}}
+- {{MMCert: Provable Defense against Adversarial Attacks to Multi-modal Models}}
+- {{Data Poisoning based Backdoor Attacks to Contrastive Learning}}
+- {{Intriguing Properties of Diffusion Models: An Empirical Study of the Natural Attack Capability in Text-to-Image Generative Models}}
+- {{Video2Game: Real-time, Interactive, Realistic and Browser-Compatible Environment from a Single Video}}
+- {{A Picture is Worth More Than 77 Text Tokens: Evaluating CLIP-Style Models on Dense Captions}}
+- {{ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization}}
+- {{LP++: A Surprisingly Strong Linear Probe for Few-Shot CLIP}}
+- {{Tyche: Stochastic in Context Learning for Universal Medical Image Segmentation}}
+- {{Calibrating Multi-modal Representations: A Pursuit of Group Robustness without Annotations}}
+- {{Fairy: Fast Parallellized Instruction-Guided Video-to-Video Synthesis}}
+- {{BioCLIP: A Vision Foundation Model for the Tree of Life}}
+- {{PhysPT: Physics-aware Pretrained Transformer for Estimating Human Dynamics from Monocular Videos}}
+- {{Learning to Segment Referred Objects from Narrated Egocentric Videos}}
+- {{Progress-Aware Online Action Segmentation for Egocentric Procedural Task Videos}}
+- {{TRINS: Towards Multimodal Language Models That Can Read}}
+- {{Customization Assistant for Text-to-image Generation}}
+- {{DriveTrack: A Benchmark for Long-Range Point Tracking in Real-World Videos}}
+- {{LLSS: Low-Latency Neural Stereo Streaming}}
+- {{Motion-adaptive Separable Collaborative Filters for Blind Motion Deblurring}}
+- {{Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model}}
+- {{MeLFusion: Synthesizing Music from Image and Language Cues using Diffusion Models}}
+- {{MAPLM: A Real-World Large-Scale Vision-Language Dataset for Map and Traffic Scene Understanding}}
+- {{NARUTO: Neural Active Reconstruction from Uncertain Target Observations}}
+- {{The Mirrored Influence Hypothesis: Efficient Data Influence Estimation by Harnessing Forward Passes}}
+- {{3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting}}
+- {{Alpha Invariance: On Inverse Scaling Between Distance and Volume Density in a Neural Radiance Field}}
+- {{Object Dynamics Modeling with Hierarchical Point Cloud-based Representations}}
+- {{Tactile-Augmented Radiance Fields}}
+- {{Exploring Region-Word Alignment in Built-in Detector for Open-Vocabulary Object Detection}}
+- {{Learning Discriminative Dynamics with Label Corruption for Noisy Label Detection}}
+- {{FairDeDup: Detecting and Mitigating Vision-Language Fairness Disparities in Semantic Dataset Deduplication}}
+- {{Label-Efficient Group Robustness via Out-of-Distribution Concept Curation}}
+- {{HybridNeRF: Efficient Neural Rendering via Adaptive Volumetric Surfaces}}
+- {{SpecNeRF: Gaussian Directional Encoding for Specular Reflections}}
+- {{BoQ: A Place is Worth a Bag of learnable Queries}}
+- {{Solving Masked Jigsaw Puzzles with Diffusion Transformers}}
+- {{One-Prompt to Segment All Medical Images}}
+- {{Neural Refinement for Absolute Pose Regression with Feature Synthesis}}
+- {{Map-Relative Pose Regression for Visual Re-Localization}}
+- {{Patch Diffusion: Parallel Inference for High-Resolution Diffusion Models}}
+- {{Condition-Aware Neural Network for Controlled Image Generation}}
+- {{DeCoTR: Enhancing Depth Completion with 2D and 3D Attentions}}
+- {{GlitchBench: Can large multimodal models detect video game glitches?}}
+- {{Spectrum AUC Difference (SAUCD): Human Aligned 3D Shape Evaluation}}
+- {{Fair-VPT: Fair Visual Prompt Tuning for Image Classification}}
+- {{3D Face Tracking from 2D Video through Iterative Dense UV to Image Flow}}
+- {{Diff-Plugin: Revitalizing Details for Diffusion-based Low-level Tasks}}
+- {{Masking Clusters in Vision-language Pretraining}}
+- {{Hierarchical Spatio-temporal Decoupling for Text-to-Video Generation}}
+- {{DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes}}
+- {{SeNM-VAE: Semi-Supervised Noise Modeling with Hierarchical Variational Autoencoder}}
+- {{FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition}}
+- {{SC-Tune: Unleashing Self-Consistent Referential Comprehension  in Large Vision Language Models}}
+- {{Align before Adapt: Leveraging Entity-to-Region Alignments for Generalizable Video Action Recognition}}
+- {{Video Prediction by Modeling Videos as Continuous Multi-Dimensional Processes}}
+- {{DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning}}
+- {{AZ-NAS: Assembling Zero-Cost Proxies for Network Architecture Search}}
+- {{Outdoor Scene Extrapolation with Hierarchical Generative Cellular Automata}}
+- {{Bi-SSC: Geometric-Semantic Bidirectional Fusion for Camera-based 3D Semantic Scene Completion}}
+- {{A theory of volumetric representations for opaque solids}}
+- {{Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications}}
+- {{Learning Correlation Structures for Vision Transformers}}
+- {{CDMAD: Class-Distribution-Mismatch-Aware Debiasing for Class-Imbalanced Semi-Supervised Learning}}
+- {{AUEditNet: Dual-Branch Facial Action Unit Intensity Manipulation with Implicit Disentanglement}}
+- {{Link-Context Learning for Multimodal LLMs}}
+- {{Shadows Don’t Lie and Lines Can't Bend! Generative Models don't know Projective Geometry...for now}}
+- {{LCD: Towards Hierarchical Embeddings with Localizability, Composability, and Decomposability Learned from Anatomy}}
+- {{DIEM: Decomposition-Integration Enhancing Multimodal Insights}}
+- {{Interpretable Measures of Conceptual Similarity by  Complexity-Constrained Descriptive Auto-Encoding}}
+- {{Variance-guided and Parameter-Efficient Feature Space Adaptation for Cross-domain Few-Shot Learning}}
+- {{Improving Subject-Driven Image Synthesis with Context-Agnostic Guidance}}
+- {{StyLitGAN: Image-based Relighting via Latent Control}}
+- {{Relightable Gaussian Avatars}}
+- {{Utility-Fairness Trade-Offs and How to Find Them}}
+- {{GeneAvatar: Generic Expression-Aware Volumetric Head Avatar Editing from a Single Image}}
+- {{SceneFun3D: Fine-Grained Functionality and Affordance Understanding in 3D Scenes}}
+- {{NeRF On-the-go: Exploiting Uncertainty for Distractor-free NeRFs in the Wild}}
+- {{F$^3$Loc: Fusion and Filtering for Floorplan Localization}}
+- {{Multiway Point Cloud Mosaicking with Diffusion and Global Optimization}}
+- {{Structure-from-Motion from Pixel-wise Correspondences}}
+- {{Efficient Solution of Point-Line Absolute Pose}}
+- {{AV-RIR: Audio-Visual Room Impulse Response Estimation}}
+- {{Finding Lottery Tickets in Vision Models via Data-driven Spectral Foresight Pruning}}
+- {{Classification-Free 3D Object Grounding with Regularized Concept Learners}}
+- {{Taming the Tail in Class-Conditional GANs: Knowledge Sharing via Unconditional Training at Lower Resolutions}}
+- {{Real-Time Simulated Avatar from Head-Mounted Sensors}}
+- {{CONFORM: Contrast is All You Need for High-Fidelity Text-to-Image Diffusion Models}}
+- {{PairAug: What Can Augmented Image-Text Pairs Do for Radiology?}}
+- {{Context-based and Diversity-driven Specificity in Compositional Zero-Shot Learning}}
+- {{Self-Supervised Facial Representation Learning with Facial Region Awareness}}
+- {{SeaBird: Segmentation in Bird’s View with Dice Loss Improves Monocular 3D Detection of Large Objects}}
+- {{Learning to Transform Dynamically for Better Adversarial Transferability}}
+- {{Noise-free Out-of-Sight Trajectory Prediction With Vision-Positioning Denoising}}
+- {{TIM: A Time Interval Machine for Audio-Visual Video Understand}}
+- {{Splat-SLAM: Dense RGB-D SLAM via 3D Gaussian Splatting}}
+- {{BadCLIP: Trigger-Aware Prompt Learning for Backdoor Attacks on CLIP}}
+- {{LOTUS: Evasive and Resilient Backdoor Attacks through Sub-Partitioning}}
+- {{Quantifying Uncertainty in Motion Prediction with Variational Bayesian Mixture}}
+- {{Bridging Sources in Geospatial Sensing with Cross Sensor Pretraining}}
+- {{Correlation-aware Coarse-to-fine MLPs for Deformable Medical Image Registration}}
+- {{Improved Visual Grounding through Self-Consistent Explanations}}
+- {{Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models}}
+- {{Instruct-Imagen: Image Generation with Multi-modal Instruction}}
+- {{Attention-Propagation Network for Egocentric Heatmap to 3D Pose Lifting}}
+- {{Modeling Collaborator: Enabling Subjective Vision Classification With Minimal Human Effort via LLM Tool-Use}}
+- {{ManiFPT: Defining and Analyzing Fingerprints of Generative Models}}
+- {{Advancing Chemical Structure Recognition in Hand-Drawn Images by Atom-Level Entity Localization}}
+- {{Scalable 3D Registration via Truncated Entry-wise Absolute Residuals}}
+- {{Asymmetric Masked Distillation for Pre-Training Small Foundation Models}}
+- {{Faces that Speak: Jointly Synthesising Talking Face and Speech from Text}}
+- {{Generative Image Dynamics}}
+- {{Continual Forgetting for Pre-trained Vision Models}}
+- {{Distributionally Generative Augmentation for Fair Facial Attribute Classification}}
+- {{CVT-xRF: Contrastive In-Voxel Transformer for 3D Consistent Radiance Fields from Sparse Inputs}}
+- {{Learning Adaptive Spatial Coherent Correlations for Speech-Preserving Facial Expression Manipulation}}
+- {{A Semi-supervised Nighttime Dehazing Baseline with Spatial-Frequency Aware and Realistic Brightness Constraint}}
+- {{Bootstrapping Chest CT Image Understanding by Distilling Knowledge from X-ray Expert Models}}
+- {{Bootstrapping SparseFormers from Vision Foundation Models}}
+- {{THRONE: A Hallucination Benchmark for the Free-form Generations of Large Vision-Language Models}}
+- {{Text-Guided 3D Face Synthesis - From Generation to Editing}}
+- {{Clockwork Diffusion: Efficient Generation With Model-Step Distillation}}
+- {{Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models}}
+- {{Inlier Confidence Calibration for Point Cloud Registration}}
+- {{Scalable and Simplified Functional Map Learning}}
+- {{ADFactory: An Effective Framework for Generalizing Optical Flow with Nerf}}
+- {{IReNe: Instant Recoloring of Neural Radiance Fields}}
+- {{HardMo:A Large-scale Hardcase Dataset for Motion Capture}}
+- {{HandBooster: Boosting 3D Hand-Mesh Reconstruction by Conditional Synthesis and Sampling of Hand-Object Interactions}}
+- {{Improving Physics-Augmented Continuum Neural Radiance Fields-Based Geometry-Agnostic System Identification with Lagrangian Particle Optimization}}
+- {{An Empirical Study of the Generalization Ability of Lidar 3D Object Detectors to Unseen Domains}}
+- {{Constrained Layout Design with Factor Graphs}}
+- {{FastMAC: Stochastic Spectral Sampling of Correspondence Graph}}
+- {{Improved Zero-Shot Classification by Adapting VLMs with Text Descriptions}}
+- {{Harnessing the Power of MLLMs for Transferable Text-to-Image Person ReID}}
+- {{Focus on Your Instruction: Fine-grained and Multi-instruction Image Editing by Attention Modulation}}
+- {{Omni-SMoLA: Boosting Generalist Multimodal Models with Soft Mixture of Low-rank Experts}}
+- {{Distilling CLIP with Dual Guidance for  Learning Discriminative Human Body Shape Representation}}
+- {{Observation-Guided Diffusion Probabilistic Models}}
+- {{Rotated Multi-Scale Interaction Network for Referring Remote Sensing Image Segmentation}}
+- {{GroupContrast: Semantic-aware Self-supervised Representation Learning for 3D Understanding}}
+- {{Fully Exploiting Every Real Sample: Super-Pixel Sample Gradient Model Stealing}}
+- {{LED: A Large-scale Real-world Paired Dataset for Event Camera Denoising}}
+- {{MedM2G: Unifying Medical Multi-Modal Generation via Cross-Guided Diffusion with Visual Invariant}}
+- {{DePT: Decoupled Prompt Tuning}}
+- {{A Subspace-Constrained Tyler's Estimator and its Applications to Structure from Motion}}
+- {{Bi-level Learning of Task-Specific Decoders for Joint Registration and One-Shot Segmentation}}
+- {{Osprey: Pixel Understanding with Visual Instruction Tuning}}
+- {{NeRFCodec: Neural Feature Compression Meets Neural Radiance Fields for Memory-efficient Scene Representation}}
+- {{Diffusion Reflectance Map: Single-Image Stochastic Inverse Rendering of Illumination and Reflectance}}
+- {{Contrastive Denoising Score for Text-guided Latent Diffusion Image Editing}}
+- {{Domain Prompt Learning with Quaternion Networks}}
+- {{Towards More Unified In-context Visual Understanding}}
+- {{Long-Tailed Anomaly Detection with Learnable Class Names}}
+- {{DetCLIPv3: Towards Versatile Generative Open-vocabulary Object Detection}}
+- {{Uncertainty-Driven Continual Learning for Autonomous Driving}}
+- {{PlatoNeRF: 3D Reconstruction in Plato’s Cave via Single-View Two-Bounce Lidar}}
+- {{VideoMosaic: Connecting the Temporal Dots in Long Videos for LLMs}}
+- {{Improving Single Domain-Generalized Object Detection: A Focus on Diversification and Alignment}}
+- {{DiffusionGAN3D: Boosting Text-guided 3D Generation and Domain Adaption by Combining 3D GANs and Diffusion Priors}}
+- {{ZeroShape: Regression-based Zero-shot Shape Reconstruction}}
+- {{Your Transferability Barrier is Fragile: Free-Lunch for Transferring the Non-Transferable Learning}}
+- {{ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe}}
+- {{DPHMs: Diffusion Parametric Head Models for Depth-based Tracking}}
+- {{CNC-Net: Self-Supervised Learning for CNC Machining Operations}}
+- {{High-Quality Facial Geometry and Appearance Capture at Home}}
+- {{mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration}}
+- {{Learning One-Shot 4D Head Avatar Synthesis using Synthetic Data}}
+- {{Efficient Scene Recovery Using Luminous Flux Prior}}
+- {{Insect-Foundation: A Foundation Model and Large-scale 1M Dataset for Visual Insect Understanding}}
+- {{IMPRINT: Generative Object Compositing by Learning Identity-Preserving Representation}}
+- {{Learning Without Exact Guidance: Updating Large-scale High-resolution Land Cover Maps from Low-resolution Historical Labels}}
+- {{Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning}}
+- {{Hyperbolic Anomaly Detection}}
+- {{Multiple View Geometry Transformers for 3D Human Pose Estimation}}
+- {{H-ViT: A Hierarchical Vision Transformer for Deformable Image Registration}}
+- {{Rethinking the Representation in Federated Unsupervised Learning with Non-IID Data}}
+- {{SCULPT: Shape-Conditioned Unpaired Learning of Pose-dependent Clothed and Textured Human Meshes}}
+- {{Contrastive Pre-Training with Multi-View Fusion for No-Reference Point Cloud Quality Assessment}}
+- {{Training-free Pretrained Model Merging}}
+- {{Anatomically Constrained Implicit Face Models}}
+- {{Revisiting Global Translation Estimation with Feature Tracks}}
+- {{LoCoNet: Long-Short Context Network for Active Speaker Detection}}
+- {{WinSyn: A High Resolution Testbed for Synthetic Data}}
+- {{Forgery-aware Adaptive Transformer for Generalizable Synthetic Image Detection}}
+- {{Flatten Long-Range Loss Landscapes for Cross-Domain Few-Shot Learning}}
+- {{Neural Super-Resolution for Real-time Rendering with Radiance Demodulation}}
+- {{Noisy One Point Homographies are Surprisingly Good}}
+- {{Alchemist: Parametric Control of Material Properties with Diffusion Models}}
+- {{DisCo: Disentangled Control for Realistic Human Dance Generation}}
+- {{PaReNeRF: Toward Fast Large-scale Dynamic NeRF with Patch-based Reference}}
+- {{Validating Privacy-Preserving Face Recognition under a Minimum Assumption}}
+- {{FLHetBench: Benchmarking Device and State Heterogeneity in Federated Learning}}
+- {{Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval}}
+- {{JRDB-Social: A Multifaceted Robotic Dataset for Understanding of Context and Dynamics of Human Interactions Within Social Groups}}
+- {{Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding}}
+- {{Suppress and Balance: Towards Generalized Multi-Modal Face Anti-Spoofing}}
+- {{Constructing and Exploring Intermediate Domains in Mixed Domain Semi-supervised Medical Image Segmentation}}
+- {{Universal Novelty Detection through Adaptive Contrastive Learning}}
+- {{LAMP: Learn A Motion Pattern for Few-Shot Video Generation}}
+- {{CLiC: Concept Learning in Context}}
+- {{Dynamic Graph Representation with Knowledge-aware Attention for Histopathology Whole Slide Image Analysis}}
+- {{Empowering Dynamics-aware Text-to-Video Diffusion with LLMs}}
+- {{LEAD: Exploring Logit Space Evolution for Model Selection}}
+- {{Towards CLIP-driven Language-free 3D Visual Grounding via 2D-3D Relational Enhancement and Consistency}}
+- {{MR-VNet: Media Restoration using Volterra Networks}}
+- {{Single-Model and Any-Modality for Video Object Tracking}}
+- {{WonderJourney: Going from Anywhere to Everywhere}}
+- {{UFORecon: Generalizable Sparse-View Surface Reconstruction from Arbitrary and Unfavorable Data Pairs}}
+- {{SSR-Encoder: Selective Subject Representation Encoder for Subject-Driven Generation}}
+- {{Few-shot Learner Parameterization by Diffusion Time-steps}}
+- {{Global and Hierarchical Geometry Consistency Priors for Few-shot NeRFs in Indoor Scenes}}
+- {{Compressed 3D Gaussian Splatting for Accelerated Novel View Synthesis}}
+- {{The STVchrono Dataset: Towards Continuous Change Recognition in Time}}
+- {{SPIN: Simultaneous Perception, Interaction and Navigation}}
+- {{SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation}}
+- {{Unleashing Channel Potential: Space-Frequency Selection Convolution for SAR Object Detection}}
+- {{Motion Blur Decomposition with Cross-shutter Guidance}}
+- {{Real-time Acquisition and Reconstruction of Dynamic Volumes with Neural Structured Illumination}}
+- {{MV-Adapter: Exploring Parameter Efficient Learning for Video Text Retrieval}}
+- {{Mind marginal non-crack regions: Clustering-inspired representation learning for crack segmentation}}
+- {{SpatialTracker: Tracking Any 2D Pixels in 3D Space}}
+- {{FreePoint: Unsupervised Point Cloud Instance Segmentation}}
+- {{Perceptual Assessment and Optimization of HDR Image Rendering}}
+- {{Programmable Motion Generation for Open-set Motion Control Tasks}}
+- {{Learning Degradation Independent Representations for Camera ISP Pipelines}}
+- {{Projecting Trackable Thermal Patterns for Dynamic Computer Vision}}
+- {{MMVP: A Multimodal MoCap Dataset with Vision and Pressure Sensors}}
+- {{Overcoming Generic Knowledge Loss with Selective Parameter Update}}
+- {{EventPS: Real-Time Photometric Stereo Using an Event Camera}}
+- {{Kernel Adaptive Convolution for Scene Text Detection via Distance Map Prediction}}
+- {{Open-Vocabulary 3D Semantic Segmentation with Foundation Models}}
+- {{Pick-or-Mix: Dynamic Channel Sampling for ConvNets}}
+- {{Zero-shot Referring Expression Comprehension via Structural Similarity Between Images and Captions}}
+- {{Triplane Meets Gaussian Splatting: Fast and Generalizable Single-View 3D Reconstruction with Transformers}}
+- {{CAMEL: CAusal Motion Enhancement tailored for Lifting Text-driven Video Editing}}
+- {{Rethinking Transformers Pre-training for Multi-Spectral Satellite Imagery}}
+- {{Towards Real-World HDR Video Reconstruction: A Large-Scale Benchmark Dataset and A Two-Stage Alignment Network}}
+- {{Designing Scalable Vision Models in the Vision-Language Era}}
+- {{SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control}}
+- {{HandDiff: 3D Hand Pose Estimation with Diffusion on Image-Point Cloud}}
+- {{GraCo: Granularity-Controllable Interactive Segmentation}}
+- {{Mocap Everyone Everywhere: Lightweight Motion Capture With Smartwatches and a Head-Mounted Camera}}
+- {{DuPL: Dual Student with Trustworthy Progressive Learning for Robust Weakly Supervised Semantic Segmentation}}
+- {{Image Neural Field Diffusion Models}}
+- {{Segment Every Out-of-Distribution Object}}
+- {{Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution}}
+- {{Scaling Up to Excellence: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild}}
+- {{A Physics-informed Low-rank Deep Neural Network for Blind and Universal Lens Aberration Correction}}
+- {{DIRECT-3D: Learning Direct Text-to-3D Generation on Massive Noisy 3D Data}}
+- {{An Interactive Navigation Method with Effect-oriented Affordance}}
+- {{NAPGuard: Towards Detecting Naturalistic Adversarial Patches}}
+- {{Descriptor and Word Soups: Overcoming the Parameter Efficiency Accuracy Tradeoff for Out-of-Distribution Few-shot Learning}}
+- {{A Stealthy Wrongdoer: Feature-Oriented Reconstruction Attack against Split Learning}}
+- {{Masked and Shuffled Blind Spot Denoising for Real-World Images}}
+- {{Flattening the Parent Bias: Hierarchical Semantic Segmentation in the Poincaré Ball}}
+- {{Splatter Image: Ultra-Fast Single-View 3D Reconstruction}}
+- {{DreamPropeller: Supercharge Text-to-3D Generation with Parallel Sampling}}
+- {{Generative Region-Language Pretraining for Open-Ended Object Detection}}
+- {{ConsistDreamer: 3D-Consistent 2D Diffusion for High-Fidelity Scene Editing}}
+- {{Psychometry: An Omnifit Model for Image Reconstruction from Human Brain Activity}}
+- {{Rethinking Multi-domain Generalization with A General Learning Objective}}
+- {{A Theory of Joint Light and Heat Transport for Lambertian Scenes}}
+- {{Paint-it: Text-to-Texture Synthesis via Deep Convolutional Texture Map Optimization and Physically-Based Rendering}}
+- {{Spectral and Polarization Vision: Spectro-polarimetric Real-world Dataset}}
+- {{Towards Text-guided 3D Scene Composition}}
+- {{Efficient Stitchable Task Adaptation}}
+- {{MeaCap: Memory-Augmented Zero-shot Image Captioning}}
+- {{MuGE: Multiple Granularity Edge Detection}}
+- {{Efficient Multitask Dense Predictor via Binarization}}
+- {{Novel View Synthesis with View-Dependent Effects from a Single Image}}
+- {{Wired Perspectives: Multi-View Wire Art Embraces Generative AI}}
+- {{Orchestrate Latent Expertise: Advancing Online Continual Learning with Multi-Level Supervision and Reverse Self-Distillation}}
+- {{Small Scale Data-Free Knowledge Distillation}}
+- {{Open-World Human-Object Interaction Detection via Multi-modal Prompts}}
+- {{FSRT: Facial Scene Representation Transformer for Face Reenactment from Factorized Appearance, Head-pose, and Facial Expression Features}}
+- {{Text-image Alignment for Diffusion-based Perception}}
+- {{PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation}}
+- {{AdaBM: On-the-Fly Adaptive Bit Mapping for Image Super-Resolution}}
+- {{SHViT: Single-Head Vision Transformer with Memory Efficient Macro Design}}
+- {{Domain Separation Graph Neural Networks for Saliency Object Ranking}}
+- {{Solving the Catastrophic Forgetting Problem in Generalized Category Discovery}}
+- {{Improving Image Restoration through Removing Degradations in Textual Representations}}
+- {{Activity-Biometrics: Person Identification from Daily Activities}}
+- {{Temporally Consistent Unbalanced Optimal Transport for Unsupervised Action Segmentation}}
+- {{Masked Spatial Propagation Network for Sparsity-Adaptive Depth Refinement}}
+- {{Instance-level Expert Knowledge and Aggregate Discriminative Attention for Radiology Report Generation}}
+- {{HyperSDFusion: Bridging Hierarchical Structures in Language and Geometry for Enhanced 3D Text2Shape Generation}}
+- {{MatchU: Matching Unseen Objects for 6D Pose Estimation from RGB-D Images}}
+- {{Resource-Efficient Transformer Pruning for Finetuning of Large Models}}
+- {{Towards Variable and Coordinated Holistic Co-Speech Motion Generation}}
+- {{Fast ODE-based Sampling for Diffusion Models in Around 5 Steps}}
+- {{HOIAnimator: Text-Prompt Human-Object Animations Generation with Perceptive Diffusion Models}}
+- {{Going Beyond Multi-Task Dense Prediction with Synergy Embedding Models}}
+- {{WWW: A Unified Framework for Explaining What, Where and Why of Neural Networks by Interpretation of Neuron Concept}}
+- {{ToonerGAN: Reinforcing GANs for Obfuscating Automated Facial Indexing}}
+- {{Hybrid Functional Maps for Crease-Aware Non-Isometric Shape Matching}}
+- {{LowRankOcc: Tensor Decomposition and Low-Rank Recovery for Vision-based 3D Semantic Occupancy Prediction}}
+- {{Unveiling Parts Beyond Objects: Towards Finer-Granularity Referring Expression Segmentation}}
+- {{Text2HOI: Text-guided 3D Motion Generation for Hand-Object Interaction}}
+- {{BT-Adapter: Video Conversation is Feasible Without Video Instruction Tuning}}
+- {{Video Frame Interpolation via Direct Synthesis with the Event-based Reference}}
+- {{Instance-Adaptive and Geometric-Aware Keypoint Learning for Category-Level 6D Object Pose Estimation}}
+- {{CorrMatch: Label Propagation via Correlation Matching for Semi-Supervised Semantic Segmentation}}
+- {{MCNet: Rethinking the Core Ingredients for Accurate and Efficient Homography Estimation}}
+- {{MMSum: A Dataset for Multimodal Summarization and Thumbnail Generation of Videos}}
+- {{Open Set Domain Adaptation for Semantic Segmentation}}
+- {{LION: Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge}}
+- {{From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations}}
+- {{SIRA: Scalable Inter-frame Relation and Association for Radar Perception}}
+- {{The More You See in 2D, the More You Perceive in 3D}}
+- {{Pixel Aligned Language Models}}
+- {{Transcending Forgery Specificity with Latent Space Augmentation for Generalizable Deepfake Detection}}
+- {{Rethinking the Evaluation Protocol of Domain Generalization}}
+- {{PFStorer: Personalized Face Restoration and Super-Resolution}}
+- {{Make Adapters Great Again}}
+- {{Eclipse: Disambiguating Illumination and Materials using Unintended Shadows}}
+- {{ASAM: Boosting Segment Anything Model with Adversarial Tuning}}
+- {{ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture Synthesis}}
+- {{FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects}}
+- {{Boosting Order-Preserving and Transferability for Neural Architecture Search: a Joint Architecture Refined Search and Fine-tuning Approach}}
+- {{Texture-Preserving Diffusion Models for High-Fidelity Virtual Try-On}}
+- {{ScanFormer: Referring Expression Comprehension by Iteratively Scanning}}
+- {{Make-It-Vivid: Dressing Your Animatable Biped Cartoon Characters from Text}}
+- {{Exploiting Diffusion Prior for Generalizable Pixel-Level Semantic Prediction}}
+- {{GSVA: Generalized Segmentation via Multimodal Large Language Models}}
+- {{ElasticDiffusion: Training-free Arbitrary Size Image Generation}}
+- {{General Point Model Pretraining with Autoencoding and Autoregressive}}
+- {{Learning Instance-Aware Correspondences for Robust Multi-Instance Point Cloud Registration in Cluttered Scenes}}
+- {{Fine-grained Prototypical Voting with Heterogeneous Mixup for Semi-supervised 2D-3D Cross-modal Retrieval}}
+- {{Uncertainty Visualization via Low-Dimensional Posterior Projections}}
+- {{Visual Delta Generator for Semi-supervised Composed Image Retrieval}}
+- {{Show, Search, and Tell: Exploring Guided Visual Search as a Core Mechanism in Multimodal LLMs}}
+- {{Real-Time Neural BRDF with Spherically Distributed Primitives}}
+- {{PatchFD: Reliable Model Patching for Unified Failure Detection}}
+- {{Correlation-Decoupled Knowledge Distillation for Multimodal Sentiment Analysis with Incomplete Modalities}}
+- {{RAVE: Randomized Noise Shuffling for Fast and Consistent Video Editing with Diffusion Models}}
+- {{Geometry Transfer for Stylizing Radiance Fields}}
+- {{UniDepth: Universal Monocular Metric Depth Estimation}}
+- {{Diffusion Model Alignment Using Direct Preference Optimization}}
+- {{CSTA: CNN-based Spatiotemporal Attention for Video Summarization}}
+- {{Towards Robust Emotion Recognition in Context Debiasing}}
+- {{Multimodal Dataset Pruning using Image-Captioning Models}}
+- {{AMU-Tuning: Learning Effective Bias for CLIP-based Few-shot Classification}}
+- {{Not All Voxels Are Equal: Hardness-Aware Semantic Scene Completion with Self-Distillation}}
+- {{Towards Fairness-Aware Adversarial Learning}}
+- {{Hide in Thicket: Generating Imperceptible and Rational Adversarial Perturbations on 3D Point Clouds}}
+- {{Retrieval-Augmented Egocentric Video Captioning}}
+- {{Low-Rank Knowledge Decomposition for Medical Foundation Models}}
+- {{FaceTalk: Audio-Driven Motion Diffusion for Neural Parametric Head Models}}
+- {{Pixel-level Semantic Correspondence through Layout-aware Representation Learning and Multi-scale Matching Integration}}
+- {{Understanding Video Transfomers via Universal Concept Discovery}}
+- {{CPR: Retrieval Augmented Generation for Copyright Protection}}
+- {{Generative Proxemics: A Prior for 3D Social Interaction from Images}}
+- {{Event-assisted Low-Light Video Object Segmentation}}
+- {{3DToonify: Creating Your High-Fidelity 3D Stylized Avatar Easily from 2D Portrait Images}}
+- {{Synthesize, Diagnose, and Optimize: Towards Fine-Grained Vision-Language Understanding}}
+- {{Animating General Image with Large Visual Motion Model}}
+- {{DeIl: Direct and Inverse CLIP for Open-World Few-Shot Learning}}
+- {{FedAS: Bridging Inconsistency in Personalized Federated Learning}}
+- {{GPT4Point: A Unified Framework for Point-Language Understanding and Generation}}
+- {{Scene Adaptive Sparse Transformer for Event-based Object Detection}}
+- {{Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary}}
+- {{Rendering Every Pixel for High-Fidelity Geometry in 3D GANs}}
+- {{SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities}}
+- {{Residual Learning in Diffusion Models}}
+- {{Blur2Blur: Blur Conversion for Unsupervised Image Deblurring on Unknown Domains}}
+- {{PromptCoT: Align Prompt Distribution via Adapted Chain-of-Thought}}
+- {{FreGS: 3D Gaussian Splatting with Progressive Frequency Regularization}}
+- {{PICTURE: PhotorealistIC virtual Try-on from UnconstRained dEsigns}}
+- {{Stable Neighbor Denoising for Source-free Domain Adaptive Segmentation.}}
+- {{Revisiting Sampson Approximations for Geometric Estimation Problems}}
+- {{PaintNeSF: Artistic Creation of Stylized Scenes with Vectorized 3D Strokes}}
+- {{Multi-modal Instruction Tuned LLMs with Fine-grained Visual Perception}}
+- {{Text-to-Image Diffusion Models are Great Sketch-Photo Matchmakers}}
+- {{Flexible Depth Completion for Sparse and Varying Point Densities}}
+- {{Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion Latent Aligners}}
+- {{Sparse Global Matching for Video Frame Interpolation with Large Motion}}
+- {{Back to 3D: Few-Shot 3D Keypoint Detection with Back-Projected 2D Features}}
+- {{PIGEON: Predicting Image Geolocations}}
+- {{Discriminability-Driven Channel Selection for Out-of-Distribution Detection}}
+- {{Improving Generalization via Meta-Learning on Hard Samples}}
+- {{Action-slot: Visual Action-centric Representations for Multi-label Atomic Activity Recognition in Traffic Scenes}}
+- {{CLIP as RNN:  Segment Countless Visual Concepts without Training Endeavor}}
+- {{M&M VTO: Multi-Garment Virtual Try-On and Editing}}
+- {{LAFS: Landmark-based Facial Self-supervised Learning for Face Recognition}}
+- {{SinSR: Diffusion-Based Image Super-Resolution in a Single Step}}
+- {{Tuning Stable Rank Shrinkage: Aiming at the Overlooked Structural Risk in Fine-tuning}}
+- {{DiSR-NeRF: Diffusion-Guided View-Consistent Super-Resolution NeRF}}
+- {{Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation}}
+- {{Taming Mode Collapse in Score Distillation for Text-to-3D Generation}}
+- {{Relightable and Animatable Neural Avatar from Sparse-View Video}}
+- {{DVMNet: Computing Relative Pose for Unseen Objects Beyond Hypotheses}}
+- {{Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields}}
+- {{PostureHMR: Posture Transformation for 3D Human Mesh Recovery}}
+- {{VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction}}
+- {{WANDR: Wrist-driven Autonomous Navigation for Data-based Goal Reaching}}
+- {{Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering}}
+- {{SimDA: Simple Diffusion Adapter for Efficient Video Generation}}
+- {{GART: Gaussian Articulated Template Models}}
+- {{Learning from Observer Gaze: Zero-shot Attention Prediction Oriented by Human-Object Interaction Recognition}}
+- {{Spatio-Temporal Turbulence Mitigation: A Translational Perspective}}
+- {{Anchor-based Robust Finetuning of Vision-Language Models}}
+- {{Denoising Point Cloud in Latent Space via Graph Convolution and Invertible Neural Network}}
+- {{Composing Object Relations and Attributes for Image-Text Matching}}
+- {{Diffusion Handles: Enabling 3D Edits for Diffusion Models by Lifting Activations to 3D}}
+- {{PSDPM: Prototype-based Secondary Discriminative Pixels Mining for Weakly Supervised Semantic Segmentation}}
+- {{DreamMatcher: Appearance Matching Self-Attention for Semantically-Consistent Text-to-Image Personalization}}
+- {{COTR: Compact Occupancy TRansformer for Vision-based 3D Occupancy Prediction}}
+- {{Leveraging Stereo Prior for Generalizable Novel-View Synthesis}}
+- {{Prompt3D: Random Prompt Assisted Weakly-Supervised 3D Object Detection}}
+- {{Language-driven All-in-one Adverse Weather Removal}}
+- {{Efficient Meshflow and Optical Flow Estimation from Event Cameras}}
+- {{Volumetric Environment Representation for Vision-Language Navigation}}
+- {{LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis}}
+- {{LEAD: Learning Decomposition for Source-free Universal Domain Adaptation}}
+- {{CG-HOI: Contact-Guided 3D Human-Object Interaction Generation}}
+- {{Contrastive Mean-Shift Learning for Generalized Category Discovery}}
+- {{Federated Generalized Category Discovery}}
+- {{Is Vanilla MLP in Neural Radiance Field Enough for Few-shot View Synthesis?}}
+- {{Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters}}
+- {{How to Handle Sketch-Abstraction in Sketch-Based Image Retrieval?}}
+- {{DiffEditor: Boosting Accuracy and Flexibility on Diffusion-based Image Editing}}
+- {{Iterated Learning Improves Compositionality in Large Vision-Language Models}}
+- {{Detours for Navigating Instructional Videos}}
+- {{Domain Gap Embeddings for Generative Dataset Augmentation}}
+- {{Domain-Agnostic Mutual Prompting for Unsupervised Domain Adaptation}}
+- {{TransLoc4D: Transformer-based 4D-Radar Place Recognition}}
+- {{Higher-order Relational Reasoning for Pedestrian Trajectory Prediction}}
+- {{Learn to Rectify the Bias of CLIP for Unsupervised Semantic Segmentation}}
+- {{Leveraging Vision-Language Models for Improving Domain Generalization in Image Classification}}
+- {{Towards Learning a Generalist Model for Embodied Navigation}}
+- {{Small Steps and Level Sets: Fitting Neural Surface Models with Point Guidance}}
+- {{Absolute Pose from One or Two Scaled and Oriented Features}}
+- {{DSGG: Dense Relation Transformer for an End-to-end Scene Graph Generation}}
+- {{\emph{RealCustom}: Narrowing Real Text Word for Real-Time Open-Domain Text-to-Image Customization}}
+- {{Driving Everywhere with Large Language Model Policy Adaptation}}
+- {{SANeRF-HQ: Segment Anything for NeRF in High Quality}}
+- {{APSeg: Auto-Prompt Network for Cross-Domain Few-Shot Semantic Segmentation}}
+- {{ECLIPSE: Efficient Continual Learning in Panoptic Segmentation with Visual Prompt Tuning}}
+- {{Differentiable Point-based Inverse Rendering}}
+- {{InstanceDiffusion: Instance-level Control for Image Generation}}
+- {{Shadow Generation for Composite Image Using Diffusion Model}}
+- {{DS-NeRV: Implicit Neural Video Representation with Decomposed Static and Dynamic Codes}}
+- {{OVER-NAV: Elevating Iterative Vision-and-Language Navigation with Open-Vocabulary Detection and StructurEd Representation}}
+- {{Rolling Shutter Correction with Intermediate Distortion Flow Estimation}}
+- {{Towards Transferable Targeted 3D Adversarial Attack in the Physical World}}
+- {{AnyDoor: Zero-shot Object-level Image Customization}}
+- {{GraphDreamer: Compositional 3D Scene Synthesis from Scene Graphs}}
+- {{Revisiting Spatial-Frequency Information Integration from a Hierarchical Perspective for Panchromatic and Multi-Spectral Image Fusion}}
+- {{Physics-guided Shape-from-Template: Monocular Video Perception through Neural Surrogate Models}}
+- {{On Train-Test Class Overlap and Detection for Image Retrieval}}
+- {{3D Facial Expressions through Analysis-by-Neural-Synthesis}}
+- {{Exploring the Transferability of Visual Prompting for Multimodal Large Language Models}}
+- {{Unified Language-driven Zero-shot Domain Adaptation}}
+- {{Aligning Logits Generatively for Principled Black-Box Knowledge Distillation}}
+- {{HomoFormer: Homogenized Transformer for Image Shadow Removal}}
+- {{ALGM: Adaptive Local-then-Global Token Merging for Efficient Semantic Segmentation with Plain Vision Transformers}}
+- {{Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed}}
+- {{Language-guided Image Reflection Separation}}
+- {{Beyond Seen Primitive Concepts and Attribute-Object Compositional Learning}}
+- {{Transductive Zero-Shot $\&$ Few-Shot CLIP}}
+- {{PIA: Your Personalized Image Animator via Plug-and-Play Modules in Text-to-Image Models}}
+- {{Motion Diversification Networks}}
+- {{On the Scalability of Diffusion-based Text-to-Image Generation}}
+- {{FaceLift: Semi-supervised 3D Facial Landmark Localization}}
+- {{BSNet: Box-Supervised Simulation-assisted Mean Teacher for 3D Instance Segmentation}}
+- {{Unlocking Pretrained Image Backbones for Semantic Image Synthesis}}
+- {{HarmonyView: Harmonizing Consistency and Diversity in One-Image-to-3D}}
+- {{Infer from What You Have Seen Before: Temporally-dependent Classifier for Semi-supervised Video Semantic Segmentation}}
+- {{Adapt Before Comparison: A New Perspective on Cross-Domain Few-Shot Segmentation}}
+- {{FreeU: Free Lunch in Diffusion U-Net}}
+- {{From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers}}
+- {{Image Restoration by Denoising Diffusion Models With Iteratively Preconditioned Guidance}}
+- {{No More Ambiguity in 360$^\circ$ Room Layout via Bi-Layout Estimation}}
+- {{Mean-Shift Feature Transformer}}
+- {{SFOD: Spiking Fusion Object Detector}}
+- {{RegionGPT: Towards Region Understanding Vision Language Model}}
+- {{Unlocking the Potential of Pre-trained Vision Transformers for Few-Shot Semantic Segmentation through Relationship Descriptors}}
+- {{Relational Matching for Weakly Semi-Supervised Oriented Object Detection}}
+- {{JointSQ: Joint Sparsification-Quantization for Distributed Learning}}
+- {{Endow SAM with Keen Eyes: Temporal-spatial Prompt Learning for Video Camouflaged Object Detection}}
+- {{NICE: Neurogenesis Inspired Contextual Encoding for Replay-free Class Incremental Learning}}
+- {{Matching 2D Images in 3D: Metric Relative Pose from Metric Correspondences}}
+- {{Learning for Transductive Threshold Calibration in Open-World Recognition}}
+- {{FocusMAE: Gallbladder Cancer Detection from Ultrasound Videos with Focused Masked Autoencoders}}
+- {{LightOctree: Lightweight 3D Spatially-Coherent Indoor Lighting Estimation}}
+- {{Segmenting Whole Objects by Synthesizing Them}}
+- {{ChatScene: Knowledge-Enabled Safety-Critical Scenario Generation for Autonomous Vehicles}}
+- {{Navigate Beyond Shortcuts: Debiased Learning through the Lens of Neural Collapse}}
+- {{SD4Match: Learning to Prompt Stable Diffusion Model for Semantic Matching}}
+- {{3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos}}
+- {{VCoder: Versatile Visual Encoder for Accurate Object-Level Perception with Large Language Models}}
+- {{TextCraft: Your Text Encoder Can be Image Quality Controller}}
+- {{3D Human Pose Perception from Egocentric Stereo Videos}}
+- {{Generalized Large-Scale Data Condensation via Various Backbone and Statistical Matching}}
+- {{AAMDM: Accelerated Auto-regressive Motion Diffusion Model}}
+- {{TexOct: Generating Textures of 3D Models with Octree-based Diffusion}}
+- {{OTE: Exploring Accurate Scene Text Recognition Using One Token}}
+- {{OmniVid: A Generative Framework for Universal Video Understanding}}
+- {{Check, Locate, Rectify: A Training-Free Layout Calibration System for Text-to-Image Generation}}
+- {{$\mathsf{LQMFormer}$:~Language-aware Query Mask Transformer for Referring Image Segmentation}}
+- {{Latent Modulated Function for Computational Optimal Continuous Image Representation}}
+- {{Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation}}
+- {{LiDAR-based Person Re-identification}}
+- {{Shallow-Deep Collaborative Learning for Unsupervised Visible-Infrared Person Re-Identification}}
+- {{Spherical Mask: Coarse-to-Fine 3D Point Cloud Instance Segmentation with Spherical Representation}}
+- {{Neural Spline Fields for Burst Image Fusion and Layer Separation}}
+- {{L2B: Learning to Bootstrap Robust Models for Combating Label Noise}}
+- {{Deep Video Inverse Tone Mapping Based on Temporal Clues}}
+- {{SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis}}
+- {{Attack To Defend: Exploiting Adversarial Attacks for Detecting Poisoned Models}}
+- {{Few-Shot Object Detection with Foundation Models}}
+- {{Non-autoregressive Sequence-to-Sequence Vision-Language Models}}
+- {{Seeing the Unseen: Visual Common Sense for Semantic Placement}}
+- {{Inverse Rendering of Glossy Objects via the Neural Plenoptic Function and Radiance Fields}}
+- {{3D LiDAR Mapping in Dynamic Environments using a 4D Implicit Neural Representation}}
+- {{SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction}}
+- {{SUGAR: Pre-training 3D Visual Representation for Robotics}}
+- {{GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models}}
+- {{Active Generalized Category Discovery}}
+- {{CoG-DQA: Chain-of-Guiding Learning with Large Language Models for Diagram Question Answering}}
+- {{ArGue: Attribute-Guided Prompt Tuning for Vision-Language Models}}
+- {{Coherence As Texture -- Passive Textureless 3D Reconstruction by Self-interference}}
+- {{A Backpack Full of Skills: Egocentric Video Understanding with Diverse Task Perspectives}}
+- {{Compact 3D Gaussian Representation for Radiance Field}}
+- {{Unsupervised Universal Image Segmentation}}
+- {{FutureHuman3D: Forecasting Complex Long-Term 3D Human Behavior from Video Observations}}
+- {{FlowIE：Efficient Image Enhancement via Rectified Flow}}
+- {{Combining Frame and GOP Embeddings for Neural Video Representation}}
+- {{OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation}}
+- {{TFMQ-DM: Temporal Feature Maintenance Quantization for Diffusion Models}}
+- {{Not All Classes Stand on Same Embeddings: Calibrating a Semantic Distance with Metric Tensor}}
+- {{Pose Adapted Shape Learning for Large-Pose Face Reenactment}}
+- {{Generative Rendering: Controllable 4D-Guided Video Generation with 2D Diffusion Models}}
+- {{Improving Out-of-Distribution Generalization in Graphs via Hierarchical Semantic Environments}}
+- {{Towards Understanding and Improving Adversarial Robustness of Vision Transformers}}
+- {{ProG: Prompting-to-simulate Generalized knowledge for Universal Cross-Domain Retrieval}}
+- {{ZePT: Zero-Shot Pan-Tumor Segmentation via Query-Disentangling and Self-Prompting}}
+- {{Dynamic Cues-Assisted Transformer for Robust Point Cloud Registration}}
+- {{Improved Self-Training for Test-Time Adaptation}}
+- {{Retrieval-Augmented Open-Vocabulary Object Detection}}
+- {{NTO3D: Neural Target Object 3D Reconstruction with Segment Anything}}
+- {{Structure-Aware Sparse-View X-ray 3D Reconstruction}}
+- {{LangSplat: 3D Language Gaussian Splatting}}
+- {{Retrieval-Augmented Embodied Agents}}
+- {{Long-Tail Class Incremental Learning via Independent Sub-prototype Construction}}
+- {{Bidirectional Multi-Scale Implicit Neural Representations for Image Deraining}}
+- {{Positive-Unlabeled Learning by Latent Group-Aware Meta Disambiguation}}
+- {{Contextrast: Contextual Contrastive Learning for Semantic Segmentation}}
+- {{DiffusionMTL: Learning Multi-Task Denoising Diffusion Model from Partially Annotated Data}}
+- {{Text-conditional Attribute Alignment across Latent Spaces for 3D Controllable Face Image Synthesis}}
+- {{MonoCD: Monocular 3D Object Detection with Complementary Depths}}
+- {{JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation}}
+- {{A Linear N-Point Solver for Line and Motion Estimation with Event Cameras}}
+- {{Training on Synthetic Data Beats Real Data in Multimodal Relation Extraction}}
+- {{HAVE-FUN: Human Avatar Reconstruction from Few-Shot Unconstrained Images}}
+- {{4D Gaussian Splatting for Real-Time Dynamic Scene Rendering}}
+- {{Differentiable Information Bottleneck for Deterministic Multi-view Clustering}}
+- {{SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering}}
+- {{R-Cyclic Diffuser: Reductive and Cyclic Latent Diffusion for 3D Clothed Human Digitalization}}
+- {{Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models}}
+- {{Zero-Reference Low-Light Enhancement via Physical Quadruple Priors}}
+- {{Hybrid Proposal Refiner: Revisiting DETR Series from the Faster R-CNN Perspective}}
+- {{DiffusionPoser: Real-time Human Motion Reconstruction From Arbitrary Sparse Sensors Using Autoregressive Diffusion}}
+- {{HumanRef: Single Image to 3D Human Generation via Reference-Guided Diffusion}}
+- {{CurveCloudNet: Processing Point Clouds with 1D Structure}}
+- {{Towards Robust Event-guided Low-Light Image Enhancement: A Large-Scale Real-World Event-Image Dataset and Novel Approach}}
+- {{Learning Visual Prompt for Gait Recognition}}
+- {{FCS: Feature Calibration and Separation for Non-Exemplar Class Incremental Learning}}
+- {{Boosting Adversarial Transferability by Block Shuffle and Rotation}}
+- {{Physical 3D Adversarial Attacks against Monocular Depth Estimation in Autonomous Driving}}
+- {{Discovering and Mitigating Visual Biases through Keyword Explanation}}
+- {{XFibrosis: Explicit Vessel-Fiber Modeling for Fibrosis Staging from Liver Pathology Images}}
+- {{MM-Narrator: Narrating Long-form Videos with Multimodal In-Context Learning}}
+- {{GreedyViG: Dynamic Axial Graph Construction for Efficient Vision GNNs}}
+- {{MoML: Online Meta Adaptation for 3D Human Motion Prediction}}
+- {{Move as You Say, Interact as You Can: Language-guided Human Motion Generation with Scene Affordance}}
+- {{Exploring Regional Clues in CLIP for Zero-Shot Semantic Segmentation}}
+- {{Improving Graph Contrastive Learning via Adaptive Positive Sampling}}
+- {{Unveiling the Power of Audio-Visual Early Fusion Transformers with Dense Interactions through Masked Modeling}}
+- {{PEM: Prototype-based Efficient MaskFormer for Image Segmentation}}
+- {{VILA: On Pre-training for Visual Language Models}}
+- {{Dr2Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning}}
+- {{Vision-and-Language Navigation via Causal Learning}}
+- {{BOTH2Hands: Inferring 3D Hands from Both Text Prompts and Body Dynamics}}
+- {{A noisy elephant in the room: Is your out-of-distribution detector robust to label noise?}}
+- {{Learning with Structural Labels for Learning with Noisy Labels}}
+- {{What If the TV Was Off? Examining Counterfactual Reasoning Abilities of Multi-modal Language Models}}
+- {{Rethinking Diffusion Model for Multi-Contrast MRI Super-Resolution}}
+- {{Bayesian Exploration of Pre-trained Models for Low-shot Image Classification}}
+- {{PLGSLAM: Progressive Neural Scene Represenation with Local to Global Bundle Adjustment}}
+- {{Rectangling for Image Stitching with Diffusion Models}}
+- {{Incremental Nuclei Segmentation from Histopathological Images via Future-class Awareness and Compatibility-inspired Distillation}}
+- {{Arbitrary-Scale Image Generation and Upsampling using Latent Diffusion Model and Implicit Neural Decoder}}
+- {{HashPoint: Accelerated Point Searching and Sampling for Neural Rendering}}
+- {{Three Pillars improving Vision Foundation Model Distillation for Lidar}}
+- {{Retraining-free Model Quantization via One-Shot Weight-Coupling Learning}}
+- {{Less is More: Towards Efficient Few-shot 3D Semantic Segmentation via Training-free Networks}}
+- {{Model Inversion Robustness: Can Transfer Learning Help?}}
+- {{Seamless Human Motion Composition with Blended Positional Encodings}}
+- {{Single Domain Generalization for Crowd Counting}}
+- {{Motion2VecSets: 4D Latent Vector Set Diffusion for Non-rigid Shape Reconstruction and Tracking}}
+- {{Collaborative Learning of Anomalies with Privacy (CLAP) for Unsupervised Video Anomaly Detection: A New Baseline}}
+- {{SG-BEV: Satellite-Guided BEV Fusion for Cross-View Semantic Segmentation}}
+- {{GLaMM: Grounding Large Multimodal Model}}
+- {{Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners}}
+- {{SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection}}
+- {{Learning Large-Factor EM Image Super-Resolution with Generative Priors}}
+- {{Knowledge-Enhanced Dual-stream Zero-shot Composed Image Retrieval}}
+- {{PatchFusion: An End-to-End Tile-Based Framework for High-Resolution Monocular Metric Depth Estimation}}
+- {{Functional Diffusion}}
+- {{VideoRF: Rendering Dynamic Radiance Fields as 2D Feature Video Streams}}
+- {{HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models}}
+- {{Novel Class Discovery for Ultra-Fine-Grained Visual Categorization}}
+- {{S2VNet: Universal Multi-Class Medical Image Segmentation via Clustering-based Slice-to-Volume Propagation}}
+- {{Content-Adaptive Non-Local Convolution for Remote Sensing Pansharpening}}
+- {{Capture Now and Embrace Future: A Versatile Framework for Continual Test-Time Domain Adaptation}}
+- {{Gradient Reweighting: Towards Imbalanced Class-Incremental Learning}}
+- {{Can I Trust Your Answer? Visually Grounded Video Question Answering}}
+- {{Device-Wise Federated Network Pruning}}
+- {{SPOT: Self-Training with Patch-Order Permutation for Object-Centric Learning with Autoregressive Transformers}}
+- {{D$^4$M: Dataset Distillation via Disentangled Diffusion Model}}
+- {{Face2Diffusion for More Editable Face Personalization}}
+- {{Logarithmic Lenses: Exploring Log RGB Data for Image Classification}}
+- {{Disentangled Pre-training for Human-Object Interaction Detection}}
+- {{DIBS: Enhancing Dense Video Captioning with Unlabeled Videos via Pseudo Boundary Enrichment and Online Refinement}}
+- {{Score-Guided Diffusion for 3D Human Recovery}}
+- {{Draw Step by Step Like Human: Reconstructing CAD Construction Sequences from Point Clouds via Multimodal Diffusion.}}
+- {{StreamingFlow: Streaming Occupancy Forecasting with Asynchronous Multi-modal Data Streams via Neural Ordinary Differential Equation}}
+- {{Morphological Prototyping for Unsupervised Slide Representation Learning in Computational Pathology}}
+- {{Specularity Factorization for Low Light Enhancement}}
+- {{CLIP-KD: A Comprehensive Study of Distilling CLIP Models}}
+- {{Enhance Image Classification Via Inter-Class Image Mixup With Diffusion Model}}
+- {{SignGraph: A Sign Sequence is Worth Graphs of Nodes}}
+- {{CroSel: Cross Selection of Confident Pseudo Labels for Partial-Label Learning}}
+- {{HIMap: HybrId Representation Learning for End-to-end Vectorized HD Map Construction}}
+- {{Just Add $\pi$! Pose Induced Video Transformers for Understanding Activities of Daily Living}}
+- {{3DInAction: Understanding Human Actions in 3D Point Clouds}}
+- {{VideoDistill: Language-aware Vision Distillation for Video Question Answering}}
+- {{Decoupling Static and Hierarchical Motion Perception for Referring Video Segmentation}}
+- {{Embracing Unimodal Aleatoric Uncertainty for Robust Multimodal Fusion}}
+- {{DiLiGenRT: A Photometric Stereo Dataset with Quantified Roughness and Translucency}}
+- {{DGC-GNN: Leveraging Geometry and Color Cues for Visual Descriptor-Free 2D-3D Matching}}
+- {{FreeDrag: Feature Dragging for Reliable Point-based Image Editing}}
+- {{Multiplane Prior Guided Few-Shot Aerial Scene Rendering}}
+- {{4K4D: Real-Time 4D View Synthesis at 4K Resolution}}
+- {{MCPNet: An Interpretable Classifier via Multi-Level Concept Prototypes}}
+- {{PELA: Learning Parameter-Efficient Models with Low-Rank Approximation}}
+- {{Context-Guided Spatio-Temporal Video Grounding}}
+- {{Dynamic Adapter Meets Prompt Tuning: Parameter-Efficient Transfer Learning for Point Cloud Analysis}}
+- {{Reconstruction-free Cascaded Adaptive Compressive Sensing}}
+- {{Progressive Divide-and-Conquer via Subsampling Decomposition for Accelerated MRI}}
+- {{A Unified Approach for Text- and Image-guided 4D Scene Generation}}
+- {{Intrinsic Image Diffusion for Single-view Material Estimation}}
+- {{RealNet: A Feature Selection Network with Realistic Synthetic Anomaly for Anomaly Detection}}
+- {{Arbitrary Motion Style Transfer with Multi-condition Motion Latent Diffusion Model}}
+- {{Sequential Modeling Enables Scalable Learning for Large Vision Models}}
+- {{Can Protective Perturbation Safeguard Personal Data from Being Exploited by Stable Diffusion?}}
+- {{NetTrack: Tracking Highly Dynamic Objects with a Net}}
+- {{CLIPtone: Unsupervised Learning for Text-based Image Tone Adjustment}}
+- {{Visual Geometry Grounded Deep Structure From Motion}}
+- {{CPP-Net: Embracing Multi-Scale Feature Fusion into Deep Unfolding CP-PPA Network for Compressive Sensing}}
+- {{Video Recognition in Portrait Mode}}
+- {{FADES: Fair Disentanglement with Sensitive Relevance}}
+- {{Versatile Navigation under Partial Observability via Value-Guided Diffusion Policy}}
+- {{Point, Segment and Count: A Generalized Framework for Object Counting}}
+- {{CPR-Coach: Recognizing Composite Error Actions based on Single-class Training}}
+- {{A Generative Approach for Wikipedia-Scale Visual Entity Recognition}}
+- {{Normalizing Flows on the Product Space of SO(3) Manifolds for Probabilistic Human Pose Modeling}}
+- {{DiffCast: A Unified Framework via Residual Diffusion for Precipitation Nowcasting}}
+- {{GEARS: Local Geometry-aware Hand-object Interaction Synthesis}}
+- {{GaussianEditor: Editing 3D Gaussians Delicately with Text Instructions}}
+- {{MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers}}
+- {{3D-Aware Face Editing via Warping-Guided Latent Direction Learning}}
+- {{RadarDistill: Boosting Radar-based Object Detection Performance via Knowledge Distillation from LiDAR Features}}
+- {{MatFuse: Controllable Material Generation with Diffusion Models}}
+- {{Global Latent Neural Rendering}}
+- {{Token Transformation Matters: Towards Faithful Post-hoc Explanation for Vision Transformer}}
+- {{Cache Me if You Can: Accelerating Diffusion Models through Block Caching}}
+- {{It's All About Your Sketch: Democratising Sketch Control in Diffusion Models}}
+- {{ESR-NeRF: Emissive Source Reconstruction Using LDR Multi-view Images}}
+- {{Epistemic Uncertainty Quantification For Pre-trained Neural Networks}}
+- {{OmniSeg3D: Omniversal 3D Segmentation via Hierarchical Contrastive Learning}}
+- {{MRFS: Mutually Reinforcing Image Fusion and Segmentation}}
+- {{EditGuard: Versatile Image Watermarking for Tamper Localization and Copyright Protection}}
+- {{VidLA: Video-Language Alignment at Scale}}
+- {{3D Paintbrush: Local Stylization of 3D Shapes with Cascaded Score Distillation}}
+- {{OrCo: Towards Better Generalization via Orthogonality and Contrast for Few-Shot Class-Incremental Learning}}
+- {{Design2Cloth: 3D Cloth Generation from 2D Masks}}
+- {{3D-LFM: Lifting Foundation Model}}
+- {{Localization Is All You Evaluate: Data Leakage in Online Mapping Datasets and How to Fix It}}
+- {{USE: Universal Segment Embeddings for Open-Vocabulary Image Segmentation}}
+- {{Masked AutoDecoder is Effective Multi-Task Vision Generalist}}
+- {{UniMix: Towards Domain Adaptive and Generalizable LiDAR Semantic Segmentation in Adverse Weather}}
+- {{Fourier-basis functions to bridge augmentation gap: Rethinking frequency augmentation in image classification}}
+- {{Dynamic Policy-Driven Adaptive Multi-Instance Learning for Whole Slide Image Classification}}
+- {{PerceptionGPT: Effectively Fusing Visual Perception into LLM}}
+- {{Probing the 3D Awareness of Visual Foundation Models}}
+- {{View-Category Interactive Sharing Transformer for Incomplete Multi-View Multi-Label Learning}}
+- {{Editable Scene Simulation for Autonomous Driving via LLM-Agent Collaboration}}
+- {{PAD: Patch-Agnostic Defense against Adversarial Patch Attacks}}
+- {{Unleashing Unlabeled Data: A Paradigm for Cross-View Geo-Localization}}
+- {{CLOVA: A Closed-Loop Visual Assistant with Tool Usage and Update}}
+- {{EasyDrag: Efficient Point-based Manipulation on Diffusion Models}}
+- {{Generating Illustrated Instructions}}
+- {{LASIL: Learner-Aware Supervised Imitation Learning For Long-term Microscopic Traffic Simulation}}
+- {{Rethinking the Spatial Inconsistency in Classifier-Free Diffusion Guidance}}
+- {{GAvatar: Animatable 3D Gaussian Avatars with Implicit Mesh Learning}}
+- {{TexTile: A Differentiable Metric for Texture Tileability}}
+- {{Image Processing GNN: Breaking Rigidity in Super-Resolution}}
+- {{RegionPLC: Regional Point-Language Contrastive Learning for Open-World 3D Scene Understanding}}
+- {{LDP: Language-driven Dual-Pixel Image Defocus Deblurring Network}}
+- {{Toward Robust Imperceptible Perturbation against Unauthorized Text-to-image Diffusion-based Synthesis}}
+- {{X-MIC: Cross-Modal Instance Conditioning for Egocentric Action Generalization}}
+- {{Morphable Diffusion: 3D-Consistent Diffusion for Single-image Avatar Creation}}
+- {{Prompt-Driven Referring Image Segmentation with Instance Contrasting}}
+- {{CosmicMan: A Text-to-Image Foundation Model for Humans}}
+- {{MTMMC: A Large-Scale Real-World Multi-Modal Camera Tracking Benchmark}}
+- {{LTGC: Long-Tail Recognition via leveraging Generated Content}}
+- {{Language-conditioned Detection Transformer}}
+- {{Riemannian Multiclass Logistics Regression for SPD Neural Networks}}
+- {{Joint Reconstruction of 3D Human and Object via Contact-Based Refinement Transformer}}
+- {{Learned Scanpaths Aid Blind Panoramic Video Quality Assessment}}
+- {{S$^2$MVTC: a Simple yet Efficient Scalable Multi-View Tensor Clustering}}
+- {{Continual Self-supervised Learning: Towards Universal Multi-modal Medical Data Representation Learning}}
+- {{A Call to Reflect on Evaluation Practices for Age Estimation: Comparative Analysis of the State-of-the-Art and a Unified Benchmark}}
+- {{Smart Help: Strategic Opponent Modeling for Proactive and Adaptive Robot Assistance in Households}}
+- {{Adapting Short-Term Transformers for Action Detection in Untrimmed Videos}}
+- {{COSMO: Converting and Smoothing False Negatives for Vision-Language Pre-training}}
+- {{Efficiently Assemble Normalization Layers and Regularization for Federated Domain Generalization}}
+- {{Unsupervised Gaze Representation Learning from Multi-view Face Images}}
+- {{PEEKABOO: Interactive Video Generation via Masked-Diffusion}}
+- {{Align and Aggregate: Compositional Reasoning with Video Alignment and Answer Aggregation for Video Question-Answering}}
+- {{Summarize the Past to Predict the Future: Natural Language Descriptions of Context Boost Multimodal Object Interaction Anticipation}}
+- {{MAS: Multi-view Ancestral Sampling for 3D motion generation using 2D diffusion}}
+- {{Reg-PTQ: Regression-specialized Post-training Quantization for Fully Quantized Object Detector}}
+- {{From Coarse to Fine-Grained Open-Set Recognition}}
+- {{DSL-FIQA: Assessing Facial Image Quality via Dual-Set Degradation Learning and Landmark-Guided Transformer}}
+- {{Discriminative Pattern Calibration Mechanism for Source-Free Domain Adaptation}}
+- {{RAM-Avatar: Real-time Photo-Realistic Avatar from Monocular Videos with Full-body Control}}
+- {{Towards Generalizable Multi-Object Tracking}}
+- {{One-step Diffusion with Distribution Matching Distillation}}
+- {{EMCAD: Efficient Multi-scale Convolutional Attention Decoding for Medical Image Segmentation}}
+- {{Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction}}
+- {{TokenHMR: Advancing Human Mesh Recovery with a Tokenized Pose Representation}}
+- {{Generate Like Experts: Multi-Stage Font Generation by Incorporating Font Transfer Process into Diffusion Models}}
+- {{$\text{S}^2$Fusion: A Unified Diffusion Framework for Scene-aware Human Motion Estimation from Sparse Signals}}
+- {{Towards Surveillance Video-and-Language Understanding: New Dataset, Baselines, and Challenges}}
+- {{How to Make Cross Encoder a Good Teacher for Efficient Image-Text Retrieval?}}
+- {{Locally Adaptive Neural 3D Morphable Models}}
+- {{AdvScale: Exploring the Limits of Adversarial Training at Scale}}
+- {{Benchmarking Segmentation Models with Mask-Preserved Attribute Editing}}
+- {{MaskCLR: Attention-Guided Contrastive Learning for Robust Action Representation Learning}}
+- {{Logit Standardization in Knowledge Distillation}}
+- {{HOLD: Category-agnostic 3D Reconstruction of Interacting Hands and Objects from Video}}
+- {{Fair Federated Learning under Domain Skew with Local Consistency and Domain Diversity}}
+- {{Learn from View Correlation: An Anchor Enhancement Strategy for Multi-view Clustering}}
+- {{Visual In-Context Prompting}}
+- {{Overload: Latency Attacks on Object Detection}}
+- {{MonoNPHM: Dynamic Head Reconstruction from Monocular Videos}}
+- {{Dual DETRs for Multi-Label Temporal Action Detection}}
+- {{UFC-Net: Unrolling Fixed-point Continuous Network for Deep Compressive Sensing}}
+- {{Symphonize 3D Semantic Scene Completion with Contextual Instance Queries}}
+- {{GenesisTex: Adapting Image Denoising Diffusion to Texture Space}}
+- {{End-to-End Temporal Action Detection with 1B Parameters Across 1000 Frames}}
+- {{Comparing the Decision-Making Mechanisms by Transformers and CNNs via Explanation Methods}}
+- {{Unbiased Faster R-CNN for Single-source Domain Generalized Object Detection}}
+- {{KD-DETR: Knowledge Distillation for Detection Transformer with Consistent Distillation Points Sampling}}
+- {{AlignSAM: Aligning Segment Anything Model to Open Context via Reinforcement Learning}}
+- {{Adaptive VIO: Deep Visual-Inertial Odometry with Online Continual Learning}}
+- {{Tri-Modal Motion Retrieval by Learning a Joint Embedding Space}}
+- {{Continual Segmentation with Disentangled Objectness Learning and Class Recognition}}
+- {{Supervised Anomaly Detection for Complex Industrial Images}}
+- {{The Devil is in the Details: StyleFeatureEditor for Detail-Rich StyleGAN Inversion and High Quality Image Editing}}
+- {{Interactive Continual Learning: Fast and Slow Thinking}}
+- {{Attribute-Guided Pedestrian Retrieval: Bridging Person Re-ID with Internal Attribute Variability}}
+- {{Weakly Misalignment-free Adaptive Feature Alignment for UAVs-based Multimodal Object Detection}}
+- {{Scaling Diffusion Models to Real-World 3D LiDAR Scene Completion}}
+- {{Prompt-Driven Dynamic Object-Centric Learning for Single Domain Generalization}}
+- {{In-Context Matting}}
+- {{Vlogger: Make Your Dream A Vlog}}
+- {{EscherNet: A Generative Model for Scalable View Synthesis}}
+- {{FlowTrack: Revisiting Optical Flow for Long-Range Dense Tracking}}
+- {{MVCPS-NeuS: Multi-view Constrained Photometric Stereo for Neural Surface Reconstruction}}
+- {{LLaFS: When Large-Language Models Meet Few-Shot Segmentation}}
+- {{Towards Memorization-Free Diffusion Models}}
+- {{ParameterNet: Parameters Are All You Need for Large-scale Visual Pretraining of Mobile Networks}}
+- {{PH-Net: Semi-Supervised Breast Lesion Segmentation via Patch-wise Hardness}}
+- {{RELI11D: A Comprehensive Multimodal Human Motion Dataset and Method}}
+- {{Guided Slot Attention for Unsupervised Video Object Segmentation}}
+- {{Entangled View-Epipolar Information Aggregation for Generalizable Neural Radiance Fields}}
+- {{Unified Entropy Optimization for Open-Set Test-Time Adaptation}}
+- {{Distraction is All You Need: Memory-Efficient Image Immunization against Diffusion-Based Image Editing}}
+- {{SEED-Bench: Benchmarking Multimodal Large Language Models}}
+- {{LSKNet: Towards High-Performance and Efficient 3D Perception with Large Sparse Kernels}}
+- {{Parameter Efficient Fine-tuning via Cross Block Orchestration for Segment Anything Model}}
+- {{MGMap: Mask-Guided Learning for Online Vectorized HD Map Construction}}
+- {{ViT-Lens: Towards Omni-modal Representations}}
+- {{Leak and Learn: An Attacker's Cookbook to Train Using Leaked Data from Federated Learning}}
+- {{Rewrite the stars}}
+- {{MultiPhys: Multi-Person Physics-aware 3D Motion Estimation}}
+- {{LMDrive: Closed-Loop End-to-End Driving  with Large Language Models}}
+- {{A-Teacher: Asymmetric Network for 3D Semi-Supervised Object Detection}}
+- {{Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks}}
+- {{Adversarial Score Distillation: When score distillation meets GAN}}
+- {{BEVNeXt: Reviving Dense BEV Frameworks for 3D Object Detection}}
+- {{GauHuman: Articulated Gaussian Splatting for Real-Time 3D Human Rendering}}
+- {{AnySkill: Learning Open-Vocabulary Physical Skill for Interactive Agents}}
+- {{HumanNeRF-SE: A Simple yet Effective Approach to Animate HumanNeRF with Diverse Poses}}
+- {{DMR: Decomposed Multi-Modality Representations for Frames and Events Fusion in Visual Reinforcement Learning}}
+- {{Communication-Efficient Collaborative Perception via Information Filling with Codebook}}
+- {{EventDance: Unsupervised Cross-modal Source-free Adaptation for Event-based Object Recognition}}
+- {{Text-IF: Leveraging Semantic Text Guidance for Degradation-Aware and Interactive Image Fusion}}
+- {{Semantics-aware Motion Retargeting with Vision-Language Models}}
+- {{LeftRefill: Filling Right Canvas based on Left Reference through Generalized Text-to-Image Diffusion Model}}
+- {{MS-MANO: Enabling Hand Pose Tracking with Biomechanical Constraints}}
+- {{ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation}}
+- {{PanoPose: Self-supervised Relative Pose Estimation for Panoramic Images}}
+- {{Enhancing Post-training Quantization Calibration through Contrastive Learning}}
+- {{DNGaussian: Optimizing Sparse-View 3D Gaussian Radiance Fields with Global-Local Depth Normalization}}
+- {{LASO: Language-guided Affordance Segmentation on 3D Object}}
+- {{DiffHuman: Probabilistic Photorealistic 3D Reconstruction of Humans}}
+- {{SportsHHI: A Dataset for Human-Human Interaction Detection in Sports Videos}}
+- {{Mask4Align: Aligned Entity Prompting with Color Masks for Multi-Entity Localization Problem}}
+- {{Global and Local Prompts Cooperation via Optimal Transport for Federated Learning}}
+- {{Classes Are Not Equal: An Empirical Study on Image Recognition Fairness}}
+- {{Dense Optical Tracking: Connecting the Dots}}
+- {{Multi-agent Collaborative Perception via Motion-aware Robust Communication Network}}
+- {{Precise Image Editing via Recognition and Generation Tasks}}
+- {{Fourier Priors-Guided Diffusion for Zero-Shot Joint Low-Light Enhancement and Deblurring}}
+- {{Focus on Hiders: Exploring Hidden Threats for Enhancing Adversarial Training}}
+- {{ColorPCR: Color Point Cloud Registration with Multi-Stage Geometric-Color Fusion}}
+- {{Person-in-WiFi 3D: End-to-End Multi-Person 3D Pose Estimation with Wi-Fi}}
+- {{MemFlow: Optical Flow Estimation and Prediction with Memory}}
+- {{A Free Lunch for Faster and Better Data-Free Meta-Learning}}
+- {{Open Vocabulary Semantic Scene Sketch Understanding}}
+- {{Unsupervised Feature Learning with Emergent Data-Driven Prototypicality}}
+- {{Low-Res Leads the Way: Improving Generalization for Super-Resolution by Self-Supervised Learning}}
+- {{Distilling ODE Solvers of Diffusion Models into Smaller Steps}}
+- {{3DiffTection: 3D Object Detection with Geometry-aware Diffusion Features}}
+- {{Hierarchical Patch-wise Diffusion Models for High-Resolution Video Generation}}
+- {{$\mathcal{X}^3$: Large-Scale 3D Generative Modeling using Sparse Voxel Hierarchies}}
+- {{Probabilistic Human Mesh Estimation with Hypothesis Scoring}}
+- {{Causal-CoG: A Causal-Effect Look at Context Generation for Boosting Multi-modal Language Models}}
+- {{GRAM: Global Reasoning for Multi-Page VQA}}
+- {{Unlocking the Potential of Prompt-Tuning in Bridging Generalized and Personalized Federated Learning}}
+- {{HalluciDoctor: Mitigating Hallucinatory Toxicity in Visual Instruction Data}}
+- {{Benchmarking Audio Visual Segmentation for Long-Untrimmed Videos}}
+- {{VMINer: Versatile Multi-view Inverse Rendering with Near- and Far-field Light Sources}}
+- {{On the test-time generalization of zero-shot CLIP: A training-free approach}}
+- {{Building Derived Class to Inherit Category Attributes for One-shot Subject-Driven Generation}}
+- {{SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks}}
+- {{SparseOcc: Rethinking Sparse Latent Representation for Vision-Based Semantic Occupancy Prediction}}
+- {{Towards High-fidelity Artistic Image Vectorization via Texture-Encapsulated Shape Parameterization}}
+- {{OmniSDF: Scene Reconstruction using Omnidirectional Signed Distance Functions and Adaptive Binoctrees}}
+- {{Extreme Point Supervised Instance Segmentation}}
+- {{Co-Speech Gesture Video Generation via Motion-Decoupled Diffusion Model}}
+- {{DreamComposer: Controllable 3D Object Generation via Multi-View Conditions}}
+- {{Degree-of-Freedom Matters: Inferring Dynamics from Point Trajectories}}
+- {{ActiveDC: Distribution Calibration for Active Finetuning}}
+- {{KVQ: Kaleidoscope Video Quality Assessment for Short-form Videos}}
+- {{Bidirectional Autoregessive Diffusion Model for Dance Generation}}
+- {{CoSeR: Bridging Image and Language for Cognitive Super-Resolution}}
+- {{You'll Never Walk Alone: A Sketch and Text Duet for Fine-Grained Image Retrieval}}
+- {{NeRF Analogies - Example-Based Visual Attribute Transfer for NeRFs}}
+- {{Interference-Free Low-Rank Adaptation for Continual Learning}}
+- {{Multi-Scale 3D Gaussian Splatting for Anti-Aliased Rendering}}
+- {{Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer}}
+- {{Selective Hourglass Mapping for Universal Image Restoration Based on Diffusion Model}}
+- {{Skeleton-in-Context: Unified Skeleton Sequence Modeling with In-Context Learning}}
+- {{Unsupervised Video Domain Adaptation with Masked Pre-Training and Collaborative Self-Training}}
+- {{Fast Adaptation for Human Pose Estimation via Meta-Optimization}}
+- {{"Previously on ..." From Recaps to Story Summarization}}
+- {{Generating Non-Stationary Textures using Self-Rectification}}
+- {{SDDGR: Stable Diffusion-based Deep Generative Replay for Class Incremental Object Detection}}
+- {{Frozen Feature Augmentation for Few-Shot Image Classification}}
+- {{1-Lipschitz Layers Compared: Memory, Speed, and Certifiable Robustness}}
+- {{One-Shot Video Motion Customization using  Temporal Attention Adaption for Text-to-Video Diffusion Models}}
+- {{Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection}}
+- {{L4D-Track: Language-to-4D Modeling Towards 6-DoF Tracking and Shape Reconstruction in 3D Point Cloud Stream}}
+- {{BerfScene: Bev-conditioned Equivariant Radiance Fields for Infinite 3D Scene Generation}}
+- {{GaussianShader: 3D Gaussian Splatting with Shading Functions for Reflective Surfaces}}
+- {{The Science of Data Filtering: Data Curation cannot be Compute Agnostic}}
+- {{PoNQ: a Neural QEM-based Mesh Representation}}
+- {{Representing Signs as Language: A New Method for Sign Language Translation from Videos}}
+- {{HIPTrack: Visual Tracking with Historical Prompts}}
+- {{CAM Back Again: Large Kernel CNNs from a Weakly Supervised Object Localization Perspective}}
+- {{Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation}}
+- {{Regularized Parameter Uncertainty for Improving Generalization in Reinforcement Learning}}
+- {{Robust Noisy Correspondence Learning with Equivariant Similarity Consistency}}
+- {{PanoRecon: Real-Time Panoptic 3D Reconstruction from Monocular Video}}
+- {{Boosting Flow-based Generative Super-Resolution Models via Learned Prior}}
+- {{Situational Awareness Matters in 3D Vision Language Reasoning}}
+- {{Directed Decentralized Collaboration for Personalized Federated Learning}}
+- {{Holo-Relighting: Controllable Volumetric Portrait Relighting from a Single Image}}
+- {{Learning to Rank Patches for Unbiased Image Redundancy Reduction}}
+- {{Task-Driven Wavelets using Constrained Empirical Risk Minimization}}
+- {{Molecular Data Programming: Towards Molecule Pseudo-labeling with Systematic Weak Supervision}}
+- {{SIFU: Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction}}
+- {{SODA: Bottleneck Diffusion Models for Representation Learning}}
+- {{AHIVE: Anatomy-aware Hierarchical Vision Encoding for Interactive Radiology Report Retrieval}}
+- {{Text-to-3D using Gaussian Splatting}}
+- {{Probing Synergistic High-Order Interaction in Infrared and Visible Image Fusion}}
+- {{InterHandGen: Two-Hand Interaction Generation via Cascaded Reverse Diffusion}}
+- {{Scaling Laws of Synthetic Images for Model Training ... for Now}}
+- {{Egocentric Full Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement}}
+- {{MMA: Multi-Modal Adapter for Vision-Language Models}}
+- {{Linguistic-Aware Patch Slimming Framework for Fine-grained Cross-Modal Alignment}}
+- {{Blind Image Quality Assessment Based on Geometric Order Learning}}
+- {{Deep Unsupervised Unrolling Networks for Phase Unwrapping}}
+- {{Bayesian Diffusion Models for 3D Shape Reconstruction}}
+- {{Efficient Test-Time Adaptation of Vision-Language Models}}
+- {{Would Deep Generative Models Amplify Bias in Future Models?}}
+- {{Imitating Shortest Paths in Simulation Enables Effective Navigation and Manipulation in the Real World}}
+- {{De-confounded Data-free Knowledge Distillation for Handling Distribution Shifts}}
+- {{What Do You See in Vehicle? Comprehensive Vision Solution for In-Vehicle Gaze Estimation}}
+- {{HUGS: Human Gaussian Splatting}}
+- {{GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis}}
+- {{Commonsense Prototype for Outdoor Unsupervised 3D Object Detection}}
+- {{Rapid Motor Adaptation for Robotic Manipulator Arms}}
+- {{DiffSal: Joint Audio and Video Learning for Diffusion Saliency Prediction}}
+- {{VP3D: Unleashing 2D Visual Prompt for Text-to-3D Generation}}
+- {{SCE-MAE: Selective Correspondence Enhancement with Masked Autoencoder for Self-Supervised Landmark Estimation}}
+- {{TurboSL: Dense, Accurate and Fast 3D by Neural Inverse Structured Light}}
+- {{MoPE-CLIP: Structured Pruning for Efficient Vision-Language Models with Module-wise Pruning Error Metric}}
+- {{Diffeomorphic Template Registration for Atmospheric Turbulence Mitigation}}
+- {{Adapting to Length Shift: FlexiLength Network for Trajectory Prediction}}
+- {{Revisiting Non-Autoregressive Transformers for Efficient Image Synthesis}}
+- {{Mixed-Precision Quantization for Federated Learning on Resource-Constrained Heterogeneous Devices}}
+- {{MuViC: Multi-Instance Visual Controller For Multi-Instance Generation}}
+- {{CausalPC: Improving the Robustness of Point Cloud Classification by Causal Effect Identification}}
+- {{DiffPerformer: Iterative Learning of Consistent Latent Guidance for Diffusion-based Human Video Generation}}
+- {{LiSA: LiDAR Localization with Semantic Awareness}}
+- {{Unknown Prompt, the only Lacuna: Unveiling CLIP's Potential for Open Domain Generalization}}
+- {{Tumor Micro-environment Interactions Guided Graph Learning for Survival Analysis of Human Cancers from Whole-slide Pathological Images.}}
+- {{Perceptual-Oriented Video Frame Interpolation Via Asymmetric Synergistic Blending}}
+- {{Diffusion-based Blind Text Image Super-Resolution}}
+- {{Learning Coupled Dictionaries from Unpaired Data for Image Super-Resolution}}
+- {{FlowDiffuser: Advancing Optical Flow Estimation with Diffusion Models}}
+- {{Rethinking Human Motion Prediction with Symplectic Integral}}
+- {{HOLODECK: Language Guided Generation of 3D Embodied AI Environments}}
+- {{Unleashing Network Potentials for Semantic Scene Completion}}
+- {{AdaRevD: Adaptive Patch Exiting Reversible Decoder Pushes the Limit of Image Deblurring}}
+- {{Video Super-Resolution Transformer with Masked Inter&Intra-Frame Attention}}
+- {{Fully Geometric Panoramic Localization}}
+- {{BiTT: Bi-directional Texture Reconstruction of Interacting Two Hands from a Single Image}}
+- {{Towards Robust 3D Pose Transfer with Adversarial Learning}}
+- {{Puff-Net: Efficient Style Transfer with Pure Content and Style Feature Fusion Network}}
+- {{Building Vision-Language Models on Solid Foundations with Masked Distillation}}
+- {{AV2AV: Direct Audio-Visual Speech to Audio-Visual Speech Translation with Unified Audio-Visual Speech Representation}}
+- {{CogAgent: Visual Language Model as GUI Agent}}
+- {{Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data}}
+- {{Towards Scalable 3D Anomaly Detection and Localization: A Benchmark via 3D Anomaly Synthesis and A Self-Supervised Learning Network}}
+- {{Discontinuity-preserving Normal Integration with Auxiliary Edges}}
+- {{Learning to navigate efficiently and precisely in real environments}}
+- {{PAPR in Motion: Seamless Point-level 3D Scene Interpolation}}
+- {{Towards Modern Image Manipulation Localization: A Large-Scale Dataset and Novel Methods}}
+- {{Dense Vision Transformer Compression with Few Samples}}
+- {{Revisiting the Domain Shift and Sample Uncertainty in Multi-source Active Domain Transfer}}
+- {{Pushing the limits of 3D Object Detection with X-Ray Teachers}}
+- {{Weakly Supervised Monocular 3D Detection with a Single-View Image}}
+- {{Probabilistic Speech-Driven 3D Facial Motion Synthesis: New Benchmarks, Methods, and Applications}}
+- {{AM-RADIO: Agglomerative Models - Reduce All Domains Into One}}
+- {{Tune-An-Ellipse: CLIP Has Potential to Find What You Want}}
+- {{LISA: Reasoning Segmentation via Large Language Model}}
+- {{Fantastic Animals and Where to Find Them: Segment Any Marine Animal with Dual SAM}}
+- {{IntrinsicAvatar: Physically Based Inverse Rendering of Dynamic Humans from Monocular Videos via Explicit Ray Tracing}}
+- {{Exploring Pose-Aware Human-Object Interaction via Hybrid Learning}}
+- {{Self-supervised learning for geospatial vegetation forecasting}}
+- {{All in One Framework for Multimodal Re-identification in the Wild}}
+- {{Leveraging Cross-Modal Neighbor Representation for Improved CLIP Classification}}
+- {{Bilateral Adaptation for Human-Object Interaction Detection with Occlusion-Robustness}}
+- {{From Feature to Gaze: A Generalizable Replacement of Linear Layer for Gaze Estimation}}
+- {{PIN: Positional Insert unlocks object localisation abilities in VLMs}}
+- {{MVIP-NeRF: Multi-view 3D Inpainting on NeRF Scenes via Diffusion Prior}}
+- {{Composed Video Retrieval via Enriched Context and Discriminative Embeddings}}
+- {{TCP: Textual-based Class-aware Prompt tuning for Visual-Language Model}}
+- {{RMT: Retentive Networks Meet Vision Transformers}}
+- {{LoRA-Sparse: Low-Rank Approximation for Sparse Large Language Models}}
+- {{Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis}}
+- {{PairDETR : Joint Detection and Association of Human Bodies and Faces}}
+- {{Language Models as Black-Box Optimizers for Vision-Language Models}}
+- {{GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering}}
+- {{Using Human Feedback to Fine-tune Diffusion Models  without Any Reward Model}}
+- {{Steerers: A framework for rotation equivariant keypoint descriptors}}
+- {{Think Twice Before Selection: Federated Evidential Active Learning for Medical Image Analysis with Domain Shifts}}
+- {{On the Faithfulness of Vision Transformer Explanations}}
+- {{Wavelet-based Fourier Information Interaction with Frequency Diffusion Adjustment for Underwater Image Restoration}}
+- {{Learning Transferable Negative Prompts for Out-of-Distribution Detection}}
+- {{3D Multi-frame Fusion for Video Stabilization}}
+- {{Expandable Subspace Ensemble for Pre-Trained Model-Based Class-Incremental Learning}}
+- {{Fun with Flags: Robust Principal Directions via Flag Manifolds}}
+- {{Beyond Image Super-Resolution for Image Recognition with Task-Driven Perceptual Loss}}
+- {{Boosting Image Quality Assessment through Efficient Transformer Adaptation with Local Feature Enhancement}}
+- {{COLMAP-Free 3D Gaussian Splatting}}
+- {{Towards Realistic Scene Generation with LiDAR Diffusion Models}}
+- {{Point-VOS: Pointing Up Video Object Segmentation}}
+- {{Instruct 4D-to-4D: Editing 4D Scenes as Pseudo-3D Scenes Using 2D Diffusion}}
+- {{Carve3D: Improving Multiview Reconstruction Consistency for Diffusion Models with RL Finetuning}}
+- {{Exploring Orthogonality in Open World Object Detection}}
+- {{EAGLE: Eigen Aggregation Learning for Object-Centric Unsupervised Semantic Segmentation}}
+- {{Compositional Chain-of-Thought Prompting for Large Multimodal Models}}
+- {{As-Plausible-As-Possible: Semantic-Aware Shape Deformation using 2D Diffusion Priors}}
+- {{Unifying Automatic and Interactive Matting with Pretrained ViTs}}
+- {{HIT: Estimating Internal Human Implicit Tissues from the Body Surface}}
+- {{Rethinking Interactive Image Segmentation with Low Latency, High Quality, and Diverse Prompts}}
+- {{NViST: In the Wild New View Synthesis from a Single Image with Transformers}}
+- {{Authentic Hand Avatar from a Phone Scan via Universal Hand Model}}
+- {{Visual Fact Checker: Enabling High Fidelity Detailed Caption Generation}}
+- {{Latency Correction for Event-guided Deblurring and Frame Interpolation}}
+- {{ZERO-IG: Zero-Shot Illumination-Guided Joint Denoising and Adaptive Enhancement for Low-Light Images}}
+- {{HINTED: Hard Instance Enhanced Detector with Mixed-Density Feature Fusion for Sparsely-Supervised 3D Object Detection}}
+- {{Domain-Specific Block Selection and Paired-View Pseudo-Labeling for Online Test-Time Adaptation}}
+- {{Improving Visual Recognition via Visual-Semantic Hierarchy Mapping}}
+- {{Self-supervised Representation Learning from Arbitrary Scenarios}}
+- {{Rethinking Few-shot 3D Point Cloud Semantic Segmentation}}
+- {{NEAT: Distilling 3D Wireframes from Neural Attraction Fields}}
+- {{FlowVQTalker: High-Quality Emotional Talking Face Generation through Normalizing Flow and Quantization}}
+- {{Generating Content for HDR Deghosting from Frequency View}}
+- {{Holistic Autonomous Driving Understanding by Bird's-Eye-View Injected Multi-Modal Large Models}}
+- {{End-to-End Spatio-Temporal Action Localisation with Video Transformers}}
+- {{Querying as Prompt: Parameter-Efficient Learning for Multimodal Language Model}}
+- {{Systematic comparison of semi-supervised and self-supervised learning for medical image classification}}
+- {{DiffusionAvatars: Deferred Diffusion for High-fidelity 3D Head Avatars}}
+- {{Learning Background Prompts to Discover Implicit Knowledge for Open Vocabulary Object Detection}}
+- {{Dual Prototype Attention for Unsupervised Video Object Segmentation}}
+- {{LightIt: Illumination Modeling and Control for Diffusion Models}}
+- {{GeoChat: Grounded Large Vision-Language Model for Remote Sensing}}
+- {{Each Test Image Deserves A Specific Prompt: Continual Test-Time Adaptation for 2D Medical Image Segmentation}}
+- {{Text Prompt with Normality Guidance for Weakly Supervised Video Anomaly Detection}}
+- {{AirPlanes: Accurate Plane Estimation via 3D-Consistent Embeddings}}
+- {{Prompt Learning via Meta-Regularization}}
+- {{Instance-based Max-margin for Practical Few-shot Recognition}}
+- {{GARField: Group Anything with Radiance Fields}}
+- {{Addressing Background Context Bias in Few-Shot Segmentation through Iterative Modulation}}
+- {{Rethinking the Region Classification in Open-Vocabulary Semantic Segmentation: An Image-to-Image View}}
+- {{Local-consistent Transformation Learning for Rotation-invariant Point Cloud Analysis}}
+- {{KITRO: Refining Human Mesh by 2D Clues and Kinematic-tree Rotation}}
+- {{Semantically-Shifted Incremental Adapter-Tuning is A Continual ViTransformer}}
+- {{SuperNormal: Neural Surface Reconstruction via Multi-View Normal Integration}}
+- {{Navigating Beyond Dropout: An Intriguing Solution towards Generalizable Image Super-Resolution}}
+- {{Towards the Uncharted: Density-Descending Feature Perturbation for Semi-supervised Semantic Segmentation}}
+- {{General Object Foundation Model for Images and Videos at Scale}}
+- {{OVFoodSeg: Elevating Open-Vocabulary Food Image Segmentation via Image-Informed Textual Representation}}
+- {{Friendly Sharpness-Aware Minimization}}
+- {{Auto-Train-Once: Controller Network Guided Automatic Network Pruning from Scratch}}
+- {{SCINeRF: Neural Radiance Fields from a Snapshot Compressive Image}}
+- {{Learning to Control Camera Exposure via Reinforcement Learning}}
+- {{Multi-criteria Token Fusion with One-step-ahead Attention for Efficient Vision Transformers}}
+- {{Complementing Event Streams and RGB Frames for Hand Mesh Reconstruction}}
+- {{Emotional Speech-Driven 3D Body Animation via Disentangled Latent Diffusion}}
+- {{Generative Multi-modal Models are Good Class Incremental Learners}}
+- {{Deciphering ‘What’ and ‘Where’ Visual Pathways from Spectral Clustering of Layer-Distributed Neural Representations}}
+- {{Distribution-aware Knowledge Prototyping for Non-exemplar Lifelong Person Re-identification}}
+- {{KTPFormer: Kinematics and Trajectory Prior Knowledge-Enhanced Transformer for 3D Human Pose Estimation}}
+- {{Selective Prediction For Open-Ended Question Answering in Black-Box Vision-Language Models}}
+- {{Optimal Transport Aggregation for Visual Place Recognition}}
+- {{HUGS: Holistic Urban 3D Scene Understanding via Gaussian Splatting}}
+- {{Human Motion Prediction under Unexpected Perturbation}}
+- {{LLM-AR: When Large Language Model Meets Skeleton-Based Action Recognition}}
+- {{MFP: Making Full use of Probability Maps for Interactive Image Segmentation}}
+- {{Analyzing and Explaining Image Classifiers via Diffusion Guidance}}
+- {{Instantaneous Perception of 3D Motion for Vehicles}}
+- {{Cross-Domain Few-Shot Segmentation via Iterative Support-Query Correspondence Mining}}
+- {{Backpropagation-free Network for 3D Test-Time Adaptation}}
+- {{NeRFiller: Completing Scenes via Generative 3D Inpainting}}
+- {{Strong Transferable Adversarial Attacks via Ensembled Asymptotically Normal Distribution Learning}}
+- {{Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion}}
+- {{Customize your NeRF: Adaptive Source Driven 3D Scene Editing via Local-Global Iterative Training}}
+- {{Slice3D: Multi-Slice, Occlusion-Revealing, Single View 3D Reconstruction}}
+- {{Learning to Produce Semi-dense Correspondences for Visual Localization}}
+- {{Differentiable Neural Surface Refinement for Transparent Objects}}
+- {{EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything}}
+- {{Look-Up Table Compression for Efficient Image Restoration}}
+- {{Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation}}
+- {{RepAn: Enhanced Annealing through Re-parameterization}}
+- {{Mitigating Object Dependencies: Improving Point Cloud Self-Supervised Learning through Object Exchange}}
+- {{Vector Graphics Generation via Mutually Impulsed Dual-domain Diffusion}}
+- {{FocSAM: Delving Deeply into Focused Objects in Segmenting Anything}}
+- {{PRS: Sharp Feature Prior for Resolution-Free Surface Remeshing}}
+- {{UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs}}
+- {{Understanding and Improving Source-free Domain Adaptation from a Theoretical Perspective}}
+- {{ODM: A Text-Image Further Alignment Pre-training Approach for Scene Text Detection and Spotting}}
+- {{CLIP-BEVFormer: Enhancing Multi-View Image-Based BEV Detector with Ground Truth Flow}}
+- {{Hyperspherical Classification with Dynamic Label-to-Prototype Assignment}}
+- {{Toward Generalist Anomaly Detection via In-context Residual Learning with Few-shot Normal Sample Prompts}}
+- {{Towards Open-Vocabulary Spatio-Temporal Video Grounding}}
+- {{ODIN: A Single  Model for 2D and 3D Perception}}
+- {{SoundingActions: Learning How Actions Sound from Narrated Egocentric Videos}}
+- {{Context-Aware Integration of Language and Visual References for Natural Language Tracking}}
+- {{Prompt Augmentation for Self-supervised Text-guided Image Manipulation}}
+- {{Open-Vocabulary Segmentation with Semantic-Assisted Calibration}}
+- {{FinePOSE: Fine-Grained Prompt-Driven 3D Human Pose Estimation via Diffusion Models}}
+- {{MaskClustering:  View Consensus based Mask Graph Clustering for Open-Vocabulary 3D Instance Segmentation}}
+- {{MemoNav: Working Memory Model for Visual Navigation}}
+- {{PointBeV: A Sparse Approach for BeV Predictions}}
+- {{Ensemble Diversity Facilitates Adversarial Transferability}}
+- {{POCE: Primal Policy Optimization with Conservative Estimation for Multi-constraint Offline Reinforcement Learning}}
+- {{SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking}}
+- {{Implicit Discriminative Knowledge Learning for Visible-Infrared Person Re-Identification}}
+- {{On the Content Bias in Frechet Video Distance}}
+- {{Sheared Backpropagation for Finetuning Foundation Models}}
+- {{Hyperbolic Learning with Synthetic Captions for Open-World Detection}}
+- {{Improved NeRF in Non-static Scenes Using Heuristics-Guided Segmentation}}
+- {{In-N-Out: Faithful 3D GAN Inversion with Volumetric Decomposition for Face Editing}}
+- {{Towards Language-Driven Video Inpainting via Multimodal Large Language Models}}
+- {{From Activation to Initialization: Scaling Insights for Optimizing Neural Fields}}
+- {{Multimodal Aerial Visual RECognition (MAVREC) Dataset: Can Multi-view Improve Aerial Visual Perception?}}
+- {{High Fidelity Person-centric Subject-to-Image Synthesis}}
+- {{Fixed Point Diffusion Models}}
+- {{Contextual Augmented Global Contrast for Multimodal Intent Recognition}}
+- {{SchurVINS: Schur Complement-Based Lightweight Visual Inertial Navigation System}}
+- {{MACE: Mass Concept Erasure in Diffusion Models}}
+- {{SpikeNeRF: Learning Neural Radiance Fields from Continuous Spike Stream}}
+- {{XFeat: Accelerated Features for Lightweight Image Matching}}
+- {{GoodSAM: Bridging Domain and Capacity Gaps via Segment Anything Model for Distortion-aware Panoramic Semantic Segmentation}}
+- {{VRP-SAM: SAM with Visual Reference Prompt}}
+- {{MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding}}
+- {{VideoBooth: Diffusion-based Video Generation with Image Prompts}}
+- {{CHAIN: Enhancing Generalization in Data-Efficient GAN Training through lipsCHitz continuity constrAIned Normalization}}
+- {{Day-Night Cross-domain Vehicle Re-identification}}
+- {{DiffuScene: Denoising Diffusion Model for Generative Indoor Scene Synthesis}}
+- {{SaCo Loss: Sample-wise Affinity Consistency for Vision-Language Pre-training}}
+- {{StrokeFaceNeRF: Stroke-based Facial Appearance Editing in Neural Radiance Field}}
+- {{Enhancing Video Super-Resolution via Implicit Resampling-based Alignment}}
+- {{Structure-Guided Adversarial Training of Diffusion Models}}
+- {{MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training}}
+- {{Neural Modes: Self-supervised Learning of Nonlinear Modal Subspaces}}
+- {{WHAM: Reconstructing World-grounded Humans with Accurate 3D Motion}}
+- {{Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs}}
+- {{SHAP-EDITOR: Instruction-guided Latent 3D Editing in Seconds}}
+- {{YOLO-World: Real-Time Open-Vocabulary Object Detection}}
+- {{Jointly Training and Pruning CNNs via Learnable Agent Guidance and Alignment}}
+- {{Direct2.5: Diverse Text-to-3D Generation via Multi-view 2.5D Diffusion}}
+- {{Bézier Everywhere All at Once: Learning Drivable Lanes as Bézier Graphs}}
+- {{FedUV: Uniformity and Variance for Heterogeneous Federated Learning}}
+- {{Efficient 3D Implicit Head Avatar with Mesh-anchored Hash Table Blendshapes}}
+- {{Explaining the Implicit Neural Canvas: Connecting Pixels to Neurons by Tracing their Contributions}}
+- {{Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding}}
+- {{FaceCom: Towards High-fidelity 3D Facial Shape Completion via Optimization and Inpainting Guidance}}
+- {{RankMatch: Exploring the Better Consistency Regularization for Semi-supervised Semantic Segmentation}}
+- {{Vanishing-Point-Guided Video Semantic Segmentation of Driving Scenes}}
+- {{Revisiting Adversarial Training under Long-Tailed Distributions}}
+- {{From SAM to CAMs: Exploring Segment Anything Model for Weakly Supervised Semantic Segmentation}}
+- {{VINECS: Video-based Neural Character Skinning}}
+- {{Generative Powers of Ten}}
+- {{PPAL: A Simple Baseline for Active Learning in Object Detection}}
+- {{Learning Structure-from-Motion with Graph Attention Networks}}
+- {{Single-to-Dual-View Adaptation for Egocentric 3D Hand Pose Estimation}}
+- {{Insights from the Use of Previously Unseen Neural Architecture Search Datasets}}
+- {{SportsSloMo: A New Benchmark and Baselines for Human-centric Video Frame Interpolation}}
+- {{Joint-Task Regularization for Partially Labeled Multi-Task Learning}}
+- {{Mind Artist: Creating Artistic Snapshots with Human Thought}}
+- {{Sharingan: A Transformer Architecture for Multi-Person Gaze Following}}
+- {{Omni-Adaptive Sparse CNNs for 3D Semantic Segmentation}}
+- {{Unifying Top-down and Bottom-up Scanpath Prediction using Transformers}}
+- {{$L_0$-Sampler: An $L_{0}$ Model Guided Volume Sampling for NeRF}}
+- {{SAI3D: Segment Any Instance in 3D Scenes}}
+- {{EfficientDreamer: High-Fidelity and Robust 3D Creation via Orthogonal-view Diffusion Priors}}
+- {{Diffusion 3D Features (Diff3F): Decorating Untextured Shapes with Distilled Semantic Features}}
+- {{MRFP: Learning Generalizable Semantic Segmentation from Sim-2-Real with Multi-Resolution Feature Perturbation}}
+- {{SGC-Occ: Semantic-Geometry Consistent 3D Occupancy Prediction for Autonomous Driving}}
+- {{Pre-trained Model Guided Fine-Tuning for Zero-Shot Adversarial Robustness}}
+- {{Orthogonal Adaptation for Modular Customization of Diffusion Models}}
+- {{De-Diffusion Makes Text a Strong Cross-Modal Interface}}
+- {{Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis}}
+- {{ICP-Flow: LiDAR Scene Flow Estimation with ICP}}
+- {{Unsupervised Occupancy Learning from Sparse Point Cloud}}
+- {{How the Hell does NeRF Matter for Real-Time RGB-D SLAM: A Novel Benchmark for Scene Representation and Geometric Rendering}}
+- {{GLOW: Global Layout Aware Attacks on Object Detection}}
+- {{DeepCache: Accelerating Diffusion Models for Free}}
+- {{HPNet: Dynamic Trajectory Forecasting with Historical Prediction Attention}}
+- {{CAT: Exploiting Inter-Class Dynamics for Domain Adaptive Object Detection}}
+- {{Neural Underwater Scene Representation}}
+- {{Semantic Human Mesh Reconstruction with Textures}}
+- {{Scale Decoupled Distillation}}
+- {{T-VSL: Text-Guided Visual Sound Source Localization in Mixtures}}
+- {{PolarMatte: Fully Computational Ground-Truth-Quality Alpha Matte Extraction for Images and Video using Polarized Screen Matting}}
+- {{Traceable Federated Continual Learning}}
+- {{CosalPure: Learning Concept from Group Images for Robust Co-Saliency Detection}}
+- {{CrossMAE: Cross Modality Masked Autoencoders For Region-Aware Audio-Visual Pretraining}}
+- {{Concept Weaver: Enabling Multi-Concept Fusion in Text-to-Image Models}}
+- {{CapHuman: Capture Your Moments in Parallel Universes}}
+- {{Vista-LLaMA: Reliable Video Teller via Equal Distance to Visual Tokens}}
+- {{Low-Rank Rescaled Vision Transformer Fine-Tuning: A Residual Design Approach}}
+- {{Real-World Mobile Image Denoising Dataset with Efficient Baselines}}
+- {{PARA-Drive: Parallelized Architecture for Real-time Autonomous Driving}}
+- {{SRTube: Video-Language Pre-Training with Action-Centric Video Tube Features and Semantic Role Labeling}}
+- {{Text-Conditioned Generative Model of 3D Strand-based Human Hairstyles}}
+- {{Brain Decodes Deep Nets}}
+- {{MoSAR: Monocular Semi-Supervised Model for Avatar Reconstruction using Differentiable Shading}}
+- {{Defense without Forgetting: Continual Adversarial Defense with Anisotropic & Isotropic Pseudo Replay}}
+- {{Extend Your Own Correspondences: Unsupervised Distant Point Cloud Registration by Progressive Distance Extension}}
+- {{PoseIRM: Enhance 3D Human Pose Estimation on Unseen  Camera Settings via Invariant Risk Minimization}}
+- {{View From Above: Orthogonal viewpoint aware Cross-view Localization}}
+- {{UniHuman: A Unified Model For Editing Human Images in the Wild}}
+- {{Unsupervised Natural Light Uncalibrated Photometric Stereo with Spin Lights}}
+- {{Selective View Pipelining: an Efficient Approach for Multi-view Understanding}}
+- {{Pink: Unveiling the Power of Referential Comprehension for Multi-modal LLMs}}
+- {{Geometry-aware Reconstruction and Fusion-refined Rendering for Generalizable Neural Radiance Fields}}
+- {{Towards Large-scale 3D Representation Learning with Multi-dataset Point Prompt Training}}
+- {{Point2CAD: Reverse Engineering CAD Models from 3D Point Clouds}}
+- {{Active Object Detection with Knowledge Aggregation and Distillation}}
+- {{Structure Matters: Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting}}
+- {{ExMap: Leveraging Explainability Heatmaps for Unsupervised Group Robustness to Spurious Correlations}}
+- {{RadSimReal: Bridging the Gap Between Synthetic and Real Data in Radar Object Detection With Simulation}}
+- {{FlowerFormer: Empowering Neural Architecture Encoding using a Flow-aware Graph Transformer}}
+- {{Mip-Splatting: Alias-free 3D Gaussian Splatting}}
+- {{Text2QR:  Harmonizing Aesthetic Customization and Scanning Robustness for Text-Guided QR Code Generation}}
+- {{UV-IDM: Identity-Conditioned Latent Diffusion Model for Face UV-Texture Generation}}
+- {{UniPTS: A Unified Framework for Proficient Post-Training Sparsity}}
+- {{PBWR: Parametric Building Wireframe Reconstruction from Aerial LiDAR Point Clouds}}
+- {{LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning}}
+- {{ProMark: Proactive Diffusion Watermarking for Causal Attribution}}
+- {{MMM: Generative Masked Motion Model}}
+- {{Bridging the Gap Between End-to-End and Two-Step Text Spotting}}
+- {{GenNBV: Generalizable Next-Best-View Policy for Active 3D Reconstruction}}
+- {{Adaptive Hyper-graph Aggregation for Modality-Agnostic Federated Learning}}
+- {{VS: Reconstructing Clothed 3D Human from Single Image via Vertex Shift}}
+- {{En3D: An Enhanced Generative Model for Sculpting 3D Humans from 2D Synthetic Data}}
+- {{Wonder3D: Single Image to 3D using Cross-Domain Diffusion}}
+- {{Honeybee: Locality-enhanced Projector for Multimodal LLM}}
+- {{Is Ego Status All You Need for Open-Loop End-to-End Autonomous Driving?}}
+- {{Self-Training Large Language Models for Improved Visual Program Synthesis With Visual Reinforcement}}
+- {{MoMask: Generative Masked Modeling of 3D Human Motions}}
+- {{CapsFusion: Rethinking Image-Text Data at Scale}}
+- {{Text2Loc: 3D Point Cloud Localization from Natural Language}}
+- {{Gaussian Shadow Casting for Neural Characters}}
+- {{SleepVST: Sleep Staging from Near-Infrared Video using Transformers}}
+- {{Enhancing 3D Fidelity of Text-to-3D using Cross-View Correspondences}}
+- {{BigGait: Learning Gait Representation You Want by Large Vision Models}}
+- {{Event-based Visible and Infrared Fusion via Multi-task Collaboration}}
+- {{Learning to Rematch Mismatched Pairs for Robust Cross-Modal Retrieval}}
+- {{Gaussian Shell Maps for Efficient 3D Human Generation}}
+- {{AllSpark: Reborn Labeled Features from Unlabeled in Transformer for Semi-Supervised Semantic Segmentation}}
+- {{Living Scenes: Multi-object Relocalization and Reconstruction in Changing 3D Environments}}
+- {{Incorporating Geo-Diverse Knowledge into Prompting for Increased Geographical Robustness in Object Recognition}}
+- {{DiffAM: Diffusion-based Adversarial Makeup Transfer for Facial Privacy Protection}}
+- {{Loopy-SLAM: Dense Neural SLAM with Loop Closures}}
+- {{Weakly-Supervised Audio-Visual Video Parsing with Prototype-based Pseudo-Labeling}}
+- {{State Space Models for Event Cameras}}
+- {{DiffInDScene: Diffusion-based High-Quality 3D Indoor Scene Generation}}
+- {{Feedback-Guided Autonomous Driving}}
+- {{Empowering Resampling Operation for Ultra-High-Definition Image Enhancement with Model-Aware Guidance}}
+- {{READ: Retrieval-Enhanced Asymmetric Diffusion for Motion Planning}}
+- {{From Pixels to Graphs: Open-Vocabulary Scene Graph Generation with Vision-Language Models}}
+- {{LTM: Lightweight Textured Mesh Reconstruction of Unbounded Scenes Using Neural Fields}}
+- {{Test-Time Linear Out-of-Distribution Detection}}
+- {{Matching Anything by Segmenting Anything}}
+- {{InstaGen: Enhancing Object Detection with Text-to-Image Diffusion Model}}
+- {{Narrative Action Evaluation with Prompt-Guided Multimodal Interaction}}
+- {{Multi-Space Alignments Towards Universal LiDAR Segmentation}}
+- {{MemSAM: Taming Segment Anything Model for Echocardiography Video Segmentation}}
+- {{Multi-scale Dynamic and Hierarchical Relationship Modeling for Facial Action Units Recognition}}
+- {{Tailored Visions: Enhancing Text-to-Image Generation with Personalized Prompt Rewriting}}
+- {{Imagine Before Go: Self-Supervised Generative Map for Object Goal Navigation}}
+- {{Multi-view Aggregation Network for Dichotomous Image Segmentation}}
+- {{EVCap: Retrieval-Augmented Image Captioning with External Visual--Name Memory for Open-World Comprehension}}
+- {{Plug-and-Play Diffusion Distillation}}
+- {{CLIB-FIQA: Face Image Quality Assessment with Confidence Calibration}}
+- {{TAMM: TriAdapter Multi-Modal Learning for 3D Shape Understanding}}
+- {{Polos: Multimodal Metric Learning from Human Feedback for Image Captioning}}
+- {{XScale-NVS: Cross-Scale Novel View Synthesis with Hash Featurized Manifold}}
+- {{Fixing Flawed Foundations in contrastive pre-training results in very strong Vision-Language models}}
+- {{Differentiable Micro-Mesh Construction}}
+- {{CPGA: Coding Priors-Guided Aggregation Network for Compressed Video Quality Enhancement}}
+- {{Enhancing Vision-Language Pretraining with Rich Supervisions}}
+- {{Aerial Lifting: Neural Urban Semantic and Building Instance Lifting from Aerial Imagery}}
+- {{HOISDF: Constraining 3D Hand Object Pose Estimation with Global Signed Distance Fields}}
+- {{On the Robustness of Large Multimodal Models Against Image Adversarial Attacks}}
+- {{Task-aligned Part-aware Panoptic Segmentation through Joint Object-Part Representations}}
+- {{Enhanced Motion-Text Alignment for Image-to-Video Transfer Learning}}
+- {{Identifying Important Group of Pixels using Interactions}}
+- {{Efficient Multi-scale Network with Learnable Discrete Wavelet Transform for Blind Motion Debluring}}
+- {{Countering Personalized Text-to-Image Generation with Influence Watermarks}}
+- {{POPDG:Popular 3D Dance Generation with PopDanceSet}}
+- {{GOV-NeSF: Generalizable Open-Vocabulary Neural Semantic Fields}}
+- {{SNIDA: Unlocking Few-Shot Object Detection with Non-linear Semantic Decoupling Augmentation}}
+- {{TASeg: Temporal Aggregation Network for LiDAR Semantic Segmentation}}
+- {{Automatic Controllable Colorization by Imagination}}
+- {{DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models}}
+- {{Is Conventional SNN Really Efficient? A Perspective from Network Quantization}}
+- {{Adaptive Multi-Modal Cross-Entropy Loss for Stereo Matching}}
+- {{FlashAvatar: High-Fidelity Digital Avatar Rendering at 300FPS}}
+- {{OpenEQA: Embodied Question Answering in the Era of Foundation Models}}
+- {{Prompting Hard or Hardly Prompting: Prompt Inversion for Text-to-Image Diffusion Models}}
+- {{Open3DSG: Open-Vocabulary 3D Scene Graphs from Point Clouds with Queryable Objects and Open-Set Relationships}}
+- {{DeconfuseTrack：Dealing with Confusion for Multi-Object Tracking}}
+- {{PoseGPT: Chatting about 3D Human Pose}}
+- {{Rethinking Visual Instruction Tuning}}
+- {{DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks}}
+- {{PHYSCENE: Physically Interactable 3D Scene Synthesis for Embodied AI}}
+- {{MoST: Motion Style Transformer between Diverse Action Contents}}
+- {{Bilateral Propagation Network for Depth Completion}}
+- {{Training Diffusion Models Towards Diverse Image Generation with Reinforcement Learning}}
+- {{Mind The Edge: Refining Depth Edges in Sparsely-Supervised Monocular Depth Estimation}}
+- {{Visual Point Cloud Forecasting enables Scalable Autonomous Driving}}
+- {{Masked Guided Instance Matting for Human Images and Videos}}
+- {{DreamSalon: A Staged Diffusion Framework for Preserving Identity-Context in Editable Face Generation}}
+- {{On the Road to Portability: Compressing End-to-End Motion Planner for Autonomous Driving}}
+- {{Intensity-Robust Autofocus for Spike Camera}}
+- {{NoiseCLR: A Contrastive Learning Approach for Unsupervised Discovery of Interpretable Directions in Diffusion Models}}
+- {{Neural Parametric Gaussians for Monocular Non-Rigid Object Reconstruction}}
+- {{Elite360D: Towards Efficient 360 Depth Estimation via Semantic- and Distance-Aware Bi-Projection Fusion}}
+- {{Your Student is Better Than Expected: Adaptive Teacher-Student Collaboration for Text-Conditional Diffusion Models}}
+- {{LASA: Instance Reconstruction from Real Scans using A Large-scale Aligned Shape Annotation Dataset}}
+- {{Generative Multimodal Models are In-Context Learners}}
+- {{Free3D: Consistent Novel View Synthesis without 3D Representation}}
+- {{StegoGAN: Bootstrapping Non-bijective Image-to-Image Translation with CycleGAN Steganography}}
+- {{Sherpa3D: Boosting High-Fidelity Text-to-3D Generation via Coarse 3D Prior}}
+- {{Generate Subgoal Images before Act: Unlocking the Chain-of-Thought Reasoning in Diffusion Model for Robot Manipulation with Multimodal Prompts}}
+- {{Towards Automatic Power Battery Detection:  New Challenge, Benchmark Dataset and Baseline}}
+- {{Improving Distant 3D Object Detection Using 2D Box Supervision}}
+- {{Efficient and Effective Weakly-Supervised Action Segmentation via Action-Transition-Aware Boundary Alignment}}
+- {{Infrared Small Target Detection with Scale and Location Sensitivity}}
+- {{GeoReF: Geometric Alignment Across Shape Variation for Category-level Object Pose Refinemen}}
+- {{Minimal Perspective Autocalibration}}
+- {{SVGDreamer: Text Guided SVG Generation with Diffusion Model}}
+- {{Spanning Training Progress: Temporal Dual-Depth Scoring (TDDS) for Enhanced Dataset Pruning}}
+- {{GC-MVSNet: Geometrically Consistent Cost Aggregation for Multi-view Stereo}}
+- {{Paint3D: Paint Anything 3D with Lighting-less Texture Diffusion Models}}
+- {{From Correspondences to Pose: Non-minimal Certifiable Relative Pose without Disambiguation}}
+- {{Attentive Illumination Decomposition Model for Multi-Illuminant White Balancing}}
+- {{Closely Interactive Human Reconstruction with Proxemics and Physics-Guided Adaption}}
+- {{VRetouchEr: Learning Cross-frame Feature Interdependence  with Imperfection Flow for Face Retouching in Videos}}
+- {{A&B BNN: Add&Bit-Operation-Only Hardware-Friendly Binary Neural Network}}
+- {{CommonCanvas: Open Diffusion Models Trained on Creative-Commons Images}}
+- {{Choose What You Need: Disentangled Representation Learning for Scene Text Recognition, Removal and Editing}}
+- {{Template Free Reconstruction of Human-object Interaction with Procedural Interaction Generation}}
+- {{LEOD: Label-Efficient Object Detection for Event Cameras}}
+- {{OpenESS: Event-based Semantic Scene Understanding with Open Vocabularies}}
+- {{$\mathcal{Z}^*$: Zero-shot $\underline{S}$tyle $\underline{T}$ransfer via $\underline{A}$ttention $\underline{R}$earrangement}}
+- {{VAREN: Very Accurate and Realistic Horse Network}}
+- {{Memory-based Adapters for Online 3D Scene Perception}}
+- {{Ranni: Taming Text-to-Image Diffusion for Accurate Instruction Following}}
+- {{GeoAuxNet: Towards Universal 3D Representation Learning for Multi-sensor Point Clouds}}
+- {{SuperSVG: Superpixel-based Scalable Vector Graphics Synthesis}}
+- {{Video ReCap: Recursive Captioning of Hour-Long Videos}}
+- {{Flexible Biometrics Recognition: Bridging the Multimodality Gap through Attention, Alignment and Prompt Tuning}}
+- {{G-HOP: Generative Hand-Object Prior for Interaction Reconstruction and Grasp Synthesis}}
+- {{MVD-Fusion: Single-view 3D via Depth-consistent Multi-view Generation}}
+- {{IQ-VFI: Implicit Quadratic Motion Estimation for Video Frame Interpolation}}
+- {{Part-aware Unified Representation of Language and Skeleton for Zero-shot Action Recognition}}
+- {{Semantic-aware SAM for Point-Prompted Instance Segmentation}}
+- {{CoGS: Controllable Gaussian Splatting}}
+- {{A Bayesian Approach to OOD Robustness in Image Classification}}
+- {{Multimodal Sense-Informed Prediction of 3D Human Poses}}
+- {{Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action}}
+- {{PTQ4SAM: Post-Training Quantization for Segment Anything}}
+- {{Leveraging Predicate and Triplet Learning for Scene Graph Generation}}
+- {{Semantic Shield: Defending Vision-Language Models Against Backdooring and Poisoning via Fine-grained Knowledge Alignment}}
+- {{PixelRNN: In-pixel Recurrent Neural Networks for End-to-end-optimized Perception with Neural Sensors}}
+- {{Codebook Transfer with Part-of-Speech for Vector-Quantized Image Modeling}}
+- {{Readout Guidance: Learning Control from Diffusion Features}}
+- {{Task-Adaptive Saliency Guidance for Exemplar-free Class Incremental Learning}}
+- {{Action Detection via an Image Diffusion Process}}
+- {{SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge}}
+- {{Disentangled Prompt Representation for Domain Generalization}}
+- {{Visual Concept Connectome (VCC): Open World Concept Discovery and their Interlayer Connections in Deep Models}}
+- {{UniMODE: Universal Monocular 3D Object Detection}}
+- {{A Pedestrian is Worth One Prompt: Towards Language Guidance Person Re-Identification}}
+- {{PACER+: On-Demand Pedestrian Animation Controller in Driving Scenarios}}
+- {{SAOR: Single-View Articulated Object Reconstruction}}
+- {{GenHowTo: Learning to Generate Actions and State Transformations from Instructional Videos}}
+- {{TULIP: Transformer for Upsampling of LiDAR Point Cloud}}
+- {{Incremental Residual Concept Bottleneck Model}}
+- {{Neural Implicit Representation for Building Digital Twins of Unknown Articulated Objects}}
+- {{Improving Transferable Targeted Adversarial Attacks with Model Self-Enhancement}}
+- {{Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding}}
+- {{Efficient Dataset Distillation via Minimax Diffusion}}
+- {{DiffAgent: Fast and Accurate Text-to-Image API Selection with Large Language Model}}
+- {{Density-Adaptive Model Based on Motif Matrix for Multi-Agent Trajectory Prediction}}
+- {{Towards Accurate Post-training Quantization for Diffusion Models}}
+- {{Sculpting Holistic 3D Representation in Contrastive Language-Image-3D Pre-training}}
+- {{KeyPoint Relative Position Encoding for Face Recognition}}
+- {{GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting}}
+- {{Training Vision Transformers for Semi-Supervised Semantic Segmentation}}
+- {{Open-Vocabulary Semantic Segmentation with Image Embedding Balancing}}
+- {{View-decoupled Transformer for Person Re-identification under Aerial-ground Camera Network}}
+- {{Gear-NeRF: Free-Viewpoint Rendering and Tracking with Motion-aware Spatio-Temporal Sampling}}
+- {{EgoBridge: A Dataset for Bridging Asynchronous First- and Third-Person View of Activities in Real World}}
+- {{VLP: Vision Language Planning for Autonomous Driving}}
+- {{DUSt3R: Dense Unstructured Stereo 3D Reconstruction}}
+- {{InceptionNeXt: When Inception Meets ConvNeXt}}
+- {{MultiPly: Reconstruction of Multiple People from Monocular Video in the Wild}}
+- {{MultiDiff: Consistent Novel View Synthesis from a Single Image}}
+- {{Dual Pose-invariant Embeddings: Learning Category and Object-specific Discriminative Representations for Recognition and Retrieval}}
+- {{Siamese Learning with Joint Alignment and Regression for Weakly-Supervised Video Paragraph Grounding}}
+- {{Visual Prompting for Generalized Few-shot Segmentation: A Multi-scale Approach}}
+- {{Improving the Generalization of Segmentation Foundation Model under Distribution Shift via Weakly Supervised Adaptation}}
+- {{The Audio-Visual Conversational Graph: From an Egocentric-Exocentric Perspective}}
+- {{Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline}}
+- {{TIGER: Time-Varying Denoising Model for 3D Point Cloud Generation with Diffusion Process}}
+- {{MLP Can Be A Good Transformer Learner}}
+- {{Learning Continual Compatible Representation for Re-indexing Free Lifelong Person Re-identification}}
+- {{InstantBooth: Personalized Text-to-Image Generation without Test-Time Finetuning}}
+- {{Towards a Perceptual Evaluation Framework for Lighting Estimation}}
+- {{RGBD Objects in the Wild: Scaling Real-World 3D Object Learning from RGB-D Videos}}
+- {{Aligning and Prompting Everything All at Once for Universal Visual Perception}}
+- {{DanceCamera3D: 3D Camera Movement Synthesis with Music and Dance}}
+- {{OmniGlue: Generalizable Feature Matching with Foundation Model Guidance}}
+- {{LoSh: Long-Short Text Joint Prediction Network for Referring Video Object Segmentation}}
+- {{Clustering for Protein Representation Learning}}
+- {{Benchmarking the Robustness of Document Layout Analysis Models}}
+- {{Diffusion-FOF: Single-view Clothed Human Reconstruction via Diffusion-based Fourier Occupancy Field}}
+- {{Leveraging Frame Affinity for sRGB-to-RAW Video De-rendering}}
+- {{Joint2Human: High-quality 3D Human Generation via Compact Spherical Embedding of 3D Joints}}
+- {{Investigating Compositional Challenges in Vision-Language Models for Visual Grounding}}
+- {{DiffLoc: Diffusion Model for Outdoor LiDAR Localization}}
+- {{Relightful Harmonization: Lighting-aware Portrait Background Replacement}}
+- {{eTraM: Event-based Traffic Monitoring Dataset}}
+- {{Separating the "Chirp" from the "Chat": Self-supervised Visual Grounding of Sound and Language}}
+- {{PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection}}
+- {{FakeInversion: Learning to Detect Images from Unseen Text-to-Image Models by Inverting Stable Diffusion}}
+- {{SiTH: Single-view Textured Human Reconstruction with Image-Conditioned Diffusion}}
+- {{Overcoming Data Limitations for High-Quality Video Diffusion Models}}
+- {{TextNeRF: A Novel Scene-Text Image Synthesis Method based on Neural Radiance Fields}}
+- {{DiffusionLight: Light Probes for Free by Painting a Chrome Ball}}
+- {{Accept the Modality Gap: An Exploration in the Hyperbolic Space}}
+- {{MirageRoom: 3D Scene Segmentation with 2D Pre-trained Models by Mirage Projection}}
+- {{GigaPose: Fast and Robust Novel Object Pose Estimation via One Correspondence}}
+- {{6D-Diff: A Keypoint Diffusion Framework for 6D Object Pose Estimation}}
+- {{Salience DETR: Enhancing Detection Transformer with Hierarchical Salience Filtering Refinement}}
+- {{Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation}}
+- {{Multi-Session SLAM using Wide-Baseline Optical Flow}}
+- {{Polarization Wavefront Lidars: Learning to Recover Large-Scale Scene Information from Polarized Wavefronts}}
+- {{Multi Attributes Interactions Matters for 3D Visual Grounding}}
+- {{Bootstrapping Autonomous Radars with Self-Supervised Learning}}
+- {{CAD: Photorealistic 3D Generation via Adversarial Distillation}}
+- {{DiffusionTrack:  Point Set Diffusion Model for Visual Object Tracking}}
+- {{EmoGen: Emotional Image Content Generation with Text-to-Image Diffusion Models}}
+- {{Decoupled Pseudo-labeling in Semi-Supervised Monocular 3D Object Detection}}
+- {{SpiderMatch: 3D Shape Matching with Global Optimality and Geometric Consistency}}
+- {{Towards Better Vision-Inspired Vision-Language Models}}
+- {{Gated Fields: Learning Scene Reconstruction from Gated Videos}}
+- {{Realigning Confidence with Temporal Saliency Information for Point-Level Weakly-Supervised Temporal Action Localization}}
+- {{Generative Quanta Color Imaging}}
+- {{ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Image}}
+- {{Gaussian Shading: Provable Performance-Lossless Image Watermarking for Diffusion Models}}
+- {{Training Like a Medical Resident: Context-Prior Learning Toward Universal Medical Image Segmentation}}
+- {{CityDreamer: Compositional Generative Model of Unbounded 3D Cities}}
+- {{Noisy-Correspondence Learning for Text-to-Image Person Re-identification}}
+- {{ParamISP: Learned Forward and Inverse ISPs using Camera Parameters}}
+- {{Structured Model Probing: Empowering Efficient Transfer Learning by Structured Regularization}}
+- {{Instance-aware Contrastive Learning for Occluded Human Mesh Reconstruction}}
+- {{SurroundSDF: Implicit 3D Scene Understanding Based on Signed Distance Field}}
+- {{Generating Realistic Training Data from Time-Lapse Imagery for Reconstructing Dynamic Objects under Occlusion}}
+- {{Data Valuation and Detections in Federated Learning}}
+- {{MLIP: Enhancing Medical Visual Representation with Divergence Encoder and Knowledge-guided Contrastive Learning}}
+- {{Making Visual Sense of Oracle Bones for You and Me}}
+- {{S2MAE: A Spatial-Spectral Pretraining Foundation Model for Spectral Remote Sensing Data}}
+- {{UnO: Unsupervised Occupancy Fields for Perception and Forecasting}}
+- {{DITTO: Dual and Integrated Latent Topologies for Implicit 3D Reconstruction}}
+- {{Unveiling the Unknown: Unleashing the Power of Unknown to Known in Open-Set Source-Free Domain Adaptation}}
+- {{AutoAD III: The Prequel -- Back to the Pixels}}
+- {{Towards More Accurate Diffusion Model Acceleration with A Timestep Aligner}}
+- {{Learning Spatial Features from Audio-Visual Correspondence in Egocentric Videos}}
+- {{Diversity-aware Channel Pruning for StyleGAN Compression}}
+- {{LEMON: Learning 3D Human-Object Interaction Relation from 2D Images}}
+- {{Prompt-enhanced Multiple Instance Learning for Weakly Supervised Anomaly Detection}}
+- {{VoCo: A Simple-yet-Effective Volume Contrastive Learning Framework for 3D Medical Image Analysis}}
+- {{SimAC: A Simple Anti-Customization Method against Text-to-Image Synthesis of Diffusion Models}}
+- {{Continuous Pose for Monocular Cameras in Neural Implicit Representation}}
+- {{RobustSAM: Segment Anything Robustly on Degraded Images}}
+- {{Learned Trajectory Embedding for Subspace Clustering}}
+- {{HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting}}
+- {{BadCLIP: Dual-Embedding Guided Backdoor Attack on Multimodal Contrastive Learning}}
+- {{Rethinking the Objectives of Vector-Quantized Tokenizers for Image Synthesis}}
+- {{Rethinking Inductive Biases for Surface Normal Estimation}}
+- {{Total-Decom: Decomposed 3D Scene Reconstruction with Minimal Interaction}}
+- {{Dynamic Prompt Optimizing for Text-to-Image Generation}}
+- {{Hallucination Augmented Contrastive Learning for Multimodal Large Language Model}}
+- {{Grounded Question-Answering in Long Egocentric Videos}}
+- {{Learning Inclusion Matching for Animation Paint Bucket Colorization}}
+- {{DPMesh: Exploiting Diffusion Prior for Occluded Human Mesh Recovery}}
+- {{Pose-Guided Self-Training with Two-Stage Clustering for Unsupervised Landmark Discovery}}
+- {{PromptAD: Learning Prompts with only Normal Samples for Few-Shot Anomaly Detection}}
+- {{RepViT: Revisiting Mobile CNN From ViT Perspective}}
+- {{Simple Semantic-Aided Few-Shot Learning}}
+- {{OVMR: Open-Vocabulary Recognition with Multi-Modal References}}
+- {{A Simple Recipe for Language-guided Domain Generalized Segmentation}}
+- {{An edit friendly ddpm noise space: inversion and manipulations}}
+- {{AdaShift: Learning Discriminative Self-Gated Neural Feature Activation With an Adaptive Shift Factor}}
+- {{Improved Implicity Neural Representation with Fourier Bases Reparameterized Training}}
+- {{Gradient Alignment for Cross-domain Face Anti-Spoofing}}
+- {{U-VAP: User-specified Visual Appearance Personalization via Decoupled Self Augmentation}}
+- {{DaReNeRF: Direction-aware Representation for Dynamic Scenes}}
+- {{RoMa: Robust Dense Feature Matching}}
+- {{Federated Online Adaptation for Deep Stereo}}
+- {{MADTP: Multimodal Alignment-Guided Dynamic Token Pruning for Accelerating Vision-Language Transformer}}
+- {{COCONut: Modernizing COCO Segmentation}}
+- {{Towards Automated Movie Trailer Generation}}
+- {{How to Configure Good In-Context Sequence for Visual Question Answering}}
+- {{FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Generation}}
+- {{Capturing Closely Interacted Two-Person Motions with Reaction Priors}}
+- {{ReconFusion: 3D Reconstruction with Diffusion Priors}}
+- {{High-Quality Spatiotemporal Predictive Learning with Coarse-to-Fine Iterative Decoding}}
+- {{Learning Object State Changes in Videos: An Open-World Perspective}}
+- {{Data-Efficient Unsupervised Interpolation Without Any Intermediate Frame for 4D Medical Images}}
+- {{Step differences in instructional video}}
+- {{PNeRV: Enhancing Spatial Consistency via Pyramidal Neural Representation for Videos}}
+- {{OST: Refining Text Knowledge with Optimal Spatio-Temporal Descriptor for General Video Recognition}}
+- {{G$^3$-LQ: Marrying Hyperbolic Alignment with Explicit Semantic-Geometric Modeling for 3D Visual Grounding}}
+- {{NightCC: Nighttime Color Constancy via  Adaptive Channel Masking}}
+- {{DYSON: Dynamic Feature Space Self-Organization for Online Task-Free Class Incremental Learning}}
+- {{Harnessing Large Language Models for Training-free Video Anomaly Detection}}
+- {{EvDiG: Event-guided Direct and Global Components Separation}}
+- {{Total Selfie: Generating Full-Body Selfies}}
+- {{ODCR: Orthogonal Decoupling Contrastive Regularization for Unpaired Image Dehazing}}

@@ -1,5 +1,296 @@
 [
     {
+        "title": "Controlling Encoder of Deep Video Compression for Machine",
+        "pdf_url": null,
+        "authors": [
+            "Xingtong Ge",
+            "Jixiang Luo",
+            "XINJIE ZHANG",
+            "Tongda Xu",
+            "Guo Lu",
+            "Dailan He",
+            "Jing Geng",
+            "Yan Wang",
+            "Jun Zhang",
+            "Hongwei Qin"
+        ]
+    },
+    {
+        "title": "Boosting Neural Representations for Videos with a Conditional Decoder",
+        "pdf_url": null,
+        "authors": [
+            "XINJIE ZHANG",
+            "Ren Yang",
+            "Dailan He",
+            "Xingtong Ge",
+            "Tongda Xu",
+            "Yan Wang",
+            "Hongwei Qin",
+            "Jun Zhang"
+        ]
+    },
+    {
+        "title": "Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld",
+        "pdf_url": null,
+        "authors": [
+            "Yijun Yang",
+            "Tianyi Zhou",
+            "kanxue Li",
+            "Dapeng Tao",
+            "Lusong Li",
+            "Li Shen",
+            "Xiaodong He",
+            "Jing Jiang",
+            "Yuhui Shi"
+        ]
+    },
+    {
+        "title": "Instruct-ReID: A Multi-purpose Person Re-identification Task with Instructions",
+        "pdf_url": null,
+        "authors": [
+            "Weizhen He",
+            "Yiheng Deng",
+            "SHIXIANG TANG",
+            "Qihao CHEN",
+            "Qingsong Xie",
+            "Yizhou Wang",
+            "Lei Bai",
+            "Feng Zhu",
+            "Rui Zhao",
+            "Wanli Ouyang",
+            "Donglian Qi",
+            "Yunfeng Yan"
+        ]
+    },
+    {
+        "title": "Semantic Line Combination Detector",
+        "pdf_url": null,
+        "authors": [
+            "JINWON KO",
+            "Dongkwon Jin",
+            "Chang-Su Kim"
+        ]
+    },
+    {
+        "title": "GLID: Pre-training a Generalist Encoder-Decoder Vision Model",
+        "pdf_url": null,
+        "authors": [
+            "Jihao Liu",
+            "Jinliang Zheng",
+            "Yu Liu",
+            "Hongsheng Li"
+        ]
+    },
+    {
+        "title": "UnionFormer: Unified-Learning Transformer with Multi-View Representation for Image Manipulation Detection and Localization",
+        "pdf_url": null,
+        "authors": [
+            "Shuaibo Li",
+            "Wei Ma",
+            "Jianwei Guo",
+            "Shibiao Xu",
+            "Libenchong",
+            "Xiaopeng Zhang"
+        ]
+    },
+    {
+        "title": "Omni-Q: Omni-Directional Scene Understanding for Unsupervised Visual Grounding",
+        "pdf_url": null,
+        "authors": [
+            "Sai Wang",
+            "Yutian Lin",
+            "Yu Wu"
+        ]
+    },
+    {
+        "title": "AnyScene: Customized Image Synthesis with Composited Foreground",
+        "pdf_url": null,
+        "authors": [
+            "Ruidong Chen",
+            "Lanjun Wang",
+            "Weizhi Nie",
+            "Yongdong Zhang",
+            "An-An Liu"
+        ]
+    },
+    {
+        "title": "HOI-M$^3$: Capture Multiple Humans and Objects Interaction within Contextual Environment",
+        "pdf_url": null,
+        "authors": [
+            "Juze Zhang",
+            "Jingyan Zhang",
+            "Zining Song",
+            "Zhanhe Shi",
+            "Chengfeng Zhao",
+            "Ye Shi",
+            "Jingyi Yu",
+            "Lan Xu",
+            "Jingya Wang"
+        ]
+    },
+    {
+        "title": "LiveHPS: LiDAR-based Scene-level Human Pose and Shape Estimation in Free Environment",
+        "pdf_url": null,
+        "authors": [
+            "yiming ren",
+            "xiao han",
+            "Chengfeng Zhao",
+            "Jingya Wang",
+            "Lan Xu",
+            "Jingyi Yu",
+            "Yuexin Ma"
+        ]
+    },
+    {
+        "title": "I'M HOI: Inertia-aware Monocular Capture of 3D Human-Object Interactions",
+        "pdf_url": null,
+        "authors": [
+            "Chengfeng Zhao",
+            "Juze Zhang",
+            "Jiashen Du",
+            "Ziwei Shan",
+            "Junye Wang",
+            "Jingyi Yu",
+            "Jingya Wang",
+            "Lan Xu"
+        ]
+    },
+    {
+        "title": "Discriminative Probing and Tuning for Text-to-Image Generation",
+        "pdf_url": "https://dpt-t2i.github.io/",
+        "authors": [
+            "Leigang Qu",
+            "Wenjie Wang",
+            "Yongqi Li",
+            "Hanwang Zhang",
+            "Liqiang Nie",
+            "Tat-seng Chua"
+        ]
+    },
+    {
+        "title": "Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates",
+        "pdf_url": "https://github.com/kcshum/pose-conditioned-NeRF-object-fusion",
+        "authors": [
+            "Ka Chun SHUM",
+            "Jaeyeon Kim",
+            "Binh-Son Hua",
+            "Thanh Nguyen",
+            "Sai-Kit Yeung"
+        ]
+    },
+    {
+        "title": "Robust Distillation via Untargeted and Targeted Intermediate Adversarial Samples",
+        "pdf_url": null,
+        "authors": [
+            "Junhao Dong",
+            "Piotr Koniusz",
+            "Junxi Chen",
+            "Z. Wang",
+            "Yew-Soon Ong"
+        ]
+    },
+    {
+        "title": "Adversarially Robust Few-shot Learning via Parameter Co-distillation of Similarity and Class Concept Learners",
+        "pdf_url": null,
+        "authors": [
+            "Junhao Dong",
+            "Piotr Koniusz",
+            "Junxi Chen",
+            "Xiaohua Xie",
+            "Yew-Soon Ong"
+        ]
+    },
+    {
+        "title": "SPAD: Spatially Aware Multiview Diffusers",
+        "pdf_url": null,
+        "authors": [
+            "Yash Kant",
+            "Aliaksandr Siarohin",
+            "Ziyi Wu",
+            "Michael Vasilkovsky",
+            "Guocheng Qian",
+            "Jian Ren",
+            "Riza Alp Guler",
+            "Bernard Ghanem",
+            "Sergey Tulyakov",
+            "Igor Gilitschenski"
+        ]
+    },
+    {
+        "title": "Learning Multi-dimensional Human Preference for Text-to-Image Generation",
+        "pdf_url": null,
+        "authors": [
+            "Sixian Zhang",
+            "Bohan Wang",
+            "Junqiang Wu",
+            "Yan Li",
+            "Tingting Gao",
+            "Di ZHANG",
+            "Zhongyuan Wang"
+        ]
+    },
+    {
+        "title": "DETRs Beat YOLOs on Real-time Object Detection",
+        "pdf_url": null,
+        "authors": [
+            "Yian Zhao",
+            "Wenyu Lv",
+            "Shangliang Xu",
+            "Jinman Wei",
+            "Guanzhong Wang",
+            "Qingqing Dang",
+            "Yi Liu",
+            "Jie Chen"
+        ]
+    },
+    {
+        "title": "DiffSCI: Zero-Shot Snapshot Compressive Imaging via Iterative Spectral Diffusion Model",
+        "pdf_url": null,
+        "authors": [
+            "Zhenghao Pan",
+            "Haijin Zeng",
+            "Jiezhang Cao",
+            "Kai Zhang",
+            "Yongyong Chen"
+        ]
+    },
+    {
+        "title": "Dual Prior Unfolding for Snapshot Compressive Imaging",
+        "pdf_url": null,
+        "authors": [
+            "Jiancheng Zhang",
+            "Haijin Zeng",
+            "Jiezhang Cao",
+            "Yongyong Chen",
+            "Dengxiu Yu",
+            "Yinping Zhao"
+        ]
+    },
+    {
+        "title": "Improving Spectral Snapshot Reconstruction with Spectral-Spatial Rectification",
+        "pdf_url": null,
+        "authors": [
+            "Jiancheng Zhang",
+            "Haijin Zeng",
+            "Yongyong Chen",
+            "Dengxiu Yu",
+            "Yinping Zhao"
+        ]
+    },
+    {
+        "title": "RNb-NeuS: Reflectance and Normal-based Multi-View 3D Reconstruction",
+        "pdf_url": null,
+        "authors": [
+            "Baptiste Brument",
+            "Robin Bruneau",
+            "Yvain Queau",
+            "Jean Mélou",
+            "Francois Lauze",
+            "Jean-Denis Durou",
+            "Lilian Calvet"
+        ]
+    },
+    {
         "title": "Gradient-based Parameter Selection for Efficient Fine-Tuning",
         "pdf_url": null,
         "authors": [
@@ -397,19 +688,6 @@
         ]
     },
     {
-        "title": "RNb-NeuS: Reflectance and Normal-based Multi-View 3D Reconstruction",
-        "pdf_url": null,
-        "authors": [
-            "Baptiste Brument",
-            "Robin Bruneau",
-            "Yvain Queau",
-            "Jean Mélou",
-            "Francois Lauze",
-            "Jean-Denis Durou",
-            "Lilian Calvet"
-        ]
-    },
-    {
         "title": "Data-Efficient Multimodal Fusion on a Single GPU",
         "pdf_url": null,
         "authors": [
@@ -778,18 +1056,6 @@
             "Zhen Xiao",
             "Mingxuan Song",
             "Jieyi Long"
-        ]
-    },
-    {
-        "title": "UnionFormer: Unified-Learning Transformer with Multi-View Representation for Image Manipulation Detection and Localization",
-        "pdf_url": null,
-        "authors": [
-            "Shuaibo Li",
-            "Wei Ma",
-            "Jianwei Guo",
-            "Shibiao Xu",
-            "Libenchong",
-            "Xiaopeng Zhang"
         ]
     },
     {
@@ -1375,48 +1641,6 @@
             "Armand Nicolicioiu",
             "Valentin Hartmann",
             "Ehsan Abbasnejad"
-        ]
-    },
-    {
-        "title": "HOI-M$^3$: Capture Multiple Humans and Objects Interaction within Contextual Environment",
-        "pdf_url": null,
-        "authors": [
-            "Juze Zhang",
-            "Jingyan Zhang",
-            "Zining Song",
-            "Zhanhe Shi",
-            "Chengfeng Zhao",
-            "Ye Shi",
-            "Jingyi Yu",
-            "Lan Xu",
-            "Jingya Wang"
-        ]
-    },
-    {
-        "title": "LiveHPS: LiDAR-based Scene-level Human Pose and Shape Estimation in Free Environment",
-        "pdf_url": null,
-        "authors": [
-            "yiming ren",
-            "xiao han",
-            "Chengfeng Zhao",
-            "Jingya Wang",
-            "Lan Xu",
-            "Jingyi Yu",
-            "Yuexin Ma"
-        ]
-    },
-    {
-        "title": "I'M HOI: Inertia-aware Monocular Capture of 3D Human-Object Interactions",
-        "pdf_url": null,
-        "authors": [
-            "Chengfeng Zhao",
-            "Juze Zhang",
-            "Jiashen Du",
-            "Ziwei Shan",
-            "Junye Wang",
-            "Jingyi Yu",
-            "Jingya Wang",
-            "Lan Xu"
         ]
     },
     {
@@ -3491,22 +3715,6 @@
         ]
     },
     {
-        "title": "SPAD: Spatially Aware Multiview Diffusers",
-        "pdf_url": null,
-        "authors": [
-            "Yash Kant",
-            "Aliaksandr Siarohin",
-            "Ziyi Wu",
-            "Michael Vasilkovsky",
-            "Guocheng Qian",
-            "Jian Ren",
-            "Riza Alp Guler",
-            "Bernard Ghanem",
-            "Sergey Tulyakov",
-            "Igor Gilitschenski"
-        ]
-    },
-    {
         "title": "Efficient Privacy-Preserving Visual Localization Using 3D Ray Clouds",
         "pdf_url": null,
         "authors": [
@@ -3853,21 +4061,6 @@
         ]
     },
     {
-        "title": "Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld",
-        "pdf_url": null,
-        "authors": [
-            "Yijun Yang",
-            "Tianyi Zhou",
-            "kanxue Li",
-            "Dapeng Tao",
-            "Lusong Li",
-            "Li Shen",
-            "Xiaodong He",
-            "Jing Jiang",
-            "Yuhui Shi"
-        ]
-    },
-    {
         "title": "SceneTextGen: Layout-Agnostic Scene Text Image Synthesis with Integrated Character-Level Diffusion and Contextual Consistency",
         "pdf_url": null,
         "authors": [
@@ -3983,7 +4176,7 @@
     },
     {
         "title": "Boosting Object Detection with Zero-Shot Day-Night Domain Adaptation",
-        "pdf_url": null,
+        "pdf_url": "https://github.com/ZPDu/Boosting-Object-Detection-with-Zero-Shot-Day-Night-Domain-Adaptation",
         "authors": [
             "Zhipeng Du",
             "Miaojing Shi",
@@ -5140,29 +5333,6 @@
         ]
     },
     {
-        "title": "Improving Spectral Snapshot Reconstruction with Spectral-Spatial Rectification",
-        "pdf_url": null,
-        "authors": [
-            "Jiancheng Zhang",
-            "Haijin Zeng",
-            "Yongyong Chen",
-            "Dengxiu Yu",
-            "Yinping Zhao"
-        ]
-    },
-    {
-        "title": "Dual Prior Unfolding for Snapshot Compressive Imaging",
-        "pdf_url": null,
-        "authors": [
-            "Jiancheng Zhang",
-            "Haijin Zeng",
-            "Jiezhang Cao",
-            "Yongyong Chen",
-            "Dengxiu Yu",
-            "Yinping Zhao"
-        ]
-    },
-    {
         "title": "REACTO: Reconstructing Articulated Objects from a Single Video",
         "pdf_url": null,
         "authors": [
@@ -5345,17 +5515,6 @@
             "Yanfu Zhang",
             "Fangyi Wang",
             "Feng Zheng"
-        ]
-    },
-    {
-        "title": "DiffSCI: Zero-Shot Snapshot Compressive Imaging via Iterative Spectral Diffusion Model",
-        "pdf_url": null,
-        "authors": [
-            "Zhenghao Pan",
-            "Haijin Zeng",
-            "Jiezhang Cao",
-            "Kai Zhang",
-            "Yongyong Chen"
         ]
     },
     {
@@ -5979,20 +6138,6 @@
             "Nafie El Amrani",
             "Daniel Cremers",
             "Florian Bernard"
-        ]
-    },
-    {
-        "title": "DETRs Beat YOLOs on Real-time Object Detection",
-        "pdf_url": null,
-        "authors": [
-            "Yian Zhao",
-            "Wenyu Lv",
-            "Shangliang Xu",
-            "Jinman Wei",
-            "Guanzhong Wang",
-            "Qingqing Dang",
-            "Yi Liu",
-            "Jie Chen"
         ]
     },
     {
@@ -6724,15 +6869,6 @@
             "Guozhen Li",
             "yi yang",
             "Yutian Lin"
-        ]
-    },
-    {
-        "title": "Omni-Q: Omni-Directional Scene Understanding for Unsupervised Visual Grounding",
-        "pdf_url": null,
-        "authors": [
-            "Sai Wang",
-            "Yutian Lin",
-            "Yu Wu"
         ]
     },
     {
@@ -8110,20 +8246,6 @@
         ]
     },
     {
-        "title": "Boosting Neural Representations for Videos with a Conditional Decoder",
-        "pdf_url": null,
-        "authors": [
-            "XINJIE ZHANG",
-            "Ren Yang",
-            "Dailan He",
-            "Xingtong Ge",
-            "Tongda Xu",
-            "Yan Wang",
-            "Hongwei Qin",
-            "Jun Zhang"
-        ]
-    },
-    {
         "title": "Object Pose Estimation via the Aggregation of Diffusion Features",
         "pdf_url": null,
         "authors": [
@@ -8750,28 +8872,6 @@
             "Haoxuanye Ji",
             "Pengpeng Liang",
             "Erkang Cheng"
-        ]
-    },
-    {
-        "title": "Adversarially Robust Few-shot Learning via Parameter Co-distillation of Similarity and Class Concept Learners",
-        "pdf_url": null,
-        "authors": [
-            "Junhao Dong",
-            "Piotr Koniusz",
-            "Junxi Chen",
-            "Xiaohua Xie",
-            "Yew-Soon Ong"
-        ]
-    },
-    {
-        "title": "Robust Distillation via Untargeted and Targeted Intermediate Adversarial Samples",
-        "pdf_url": null,
-        "authors": [
-            "Junhao Dong",
-            "Piotr Koniusz",
-            "Junxi Chen",
-            "Z. Wang",
-            "Yew-Soon Ong"
         ]
     },
     {
@@ -12197,18 +12297,6 @@
         ]
     },
     {
-        "title": "Discriminative Probing and Tuning for Text-to-Image Generation",
-        "pdf_url": null,
-        "authors": [
-            "Leigang Qu",
-            "Wenjie Wang",
-            "Yongqi Li",
-            "Hanwang Zhang",
-            "Liqiang Nie",
-            "Tat-seng Chua"
-        ]
-    },
-    {
         "title": "Adaptive Softassign via Hadamard-Equipped Sinkhorn",
         "pdf_url": null,
         "authors": [
@@ -13722,24 +13810,6 @@
         ]
     },
     {
-        "title": "Instruct-ReID: A Multi-purpose Person Re-identification Task with Instructions",
-        "pdf_url": null,
-        "authors": [
-            "Weizhen He",
-            "Yiheng Deng",
-            "SHIXIANG TANG",
-            "Qihao CHEN",
-            "Qingsong Xie",
-            "Yizhou Wang",
-            "Lei Bai",
-            "Feng Zhu",
-            "Rui Zhao",
-            "Wanli Ouyang",
-            "Donglian Qi",
-            "Yunfeng Yan"
-        ]
-    },
-    {
         "title": "Towards Robust Audiovisual Segmentation in Complex Environments with Quantization-based Semantic Decomposition",
         "pdf_url": null,
         "authors": [
@@ -14061,22 +14131,6 @@
         ]
     },
     {
-        "title": "Controlling Encoder of Deep Video Compression for Machine",
-        "pdf_url": null,
-        "authors": [
-            "Xingtong Ge",
-            "Jixiang Luo",
-            "XINJIE ZHANG",
-            "Tongda Xu",
-            "Guo Lu",
-            "Dailan He",
-            "Jing Geng",
-            "Yan Wang",
-            "Jun Zhang",
-            "Hongwei Qin"
-        ]
-    },
-    {
         "title": "Revamping Federated Learning Security from a Defender's Perspective: A Unified Defense with Homomorphic Encrypted Data Space",
         "pdf_url": null,
         "authors": [
@@ -14319,16 +14373,6 @@
             "Weiming Zhuang",
             "Chen Chen",
             "Lingjuan Lyu"
-        ]
-    },
-    {
-        "title": "GLID: Pre-training a Generalist Encoder-Decoder Vision Model",
-        "pdf_url": null,
-        "authors": [
-            "Jihao Liu",
-            "Jinliang Zheng",
-            "Yu Liu",
-            "Hongsheng Li"
         ]
     },
     {
@@ -15600,15 +15644,6 @@
         "authors": [
             "Zheng Gao",
             "Ioannis Patras"
-        ]
-    },
-    {
-        "title": "Semantic Line Combination Detector",
-        "pdf_url": null,
-        "authors": [
-            "JINWON KO",
-            "Dongkwon Jin",
-            "Chang-Su Kim"
         ]
     },
     {
@@ -19901,17 +19936,6 @@
         ]
     },
     {
-        "title": "Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates",
-        "pdf_url": "https://github.com/kcshum/pose-conditioned-NeRF-object-fusion",
-        "authors": [
-            "Ka Chun SHUM",
-            "Jaeyeon Kim",
-            "Binh-Son Hua",
-            "Thanh Nguyen",
-            "Sai-Kit Yeung"
-        ]
-    },
-    {
         "title": "Infer from What You Have Seen Before: Temporally-dependent Classifier for Semi-supervised Video Semantic Segmentation",
         "pdf_url": null,
         "authors": [
@@ -19955,17 +19979,6 @@
         "authors": [
             "Tomer Garber",
             "Tom Tirer"
-        ]
-    },
-    {
-        "title": "AnyScene: Customized Image Synthesis with Composited Foreground",
-        "pdf_url": null,
-        "authors": [
-            "Ruidong Chen",
-            "Lanjun Wang",
-            "Weizhi Nie",
-            "Yongdong Zhang",
-            "An-An Liu"
         ]
     },
     {
@@ -21024,7 +21037,7 @@
         "authors": [
             "Qiwei Li",
             "Yuxin Peng",
-            "Jiahaun Zhou"
+            "Jiahuan Zhou"
         ]
     },
     {
@@ -25689,19 +25702,6 @@
         ]
     },
     {
-        "title": "Learning Multi-dimensional Human Preference for Text-to-Image Generation",
-        "pdf_url": null,
-        "authors": [
-            "Sixian Zhang",
-            "Bohan Wang",
-            "Junqiang Wu",
-            "Yan Li",
-            "Tingting Gao",
-            "Di ZHANG",
-            "Zhongyuan Wang"
-        ]
-    },
-    {
         "title": "PairDETR : Joint Detection and Association of Human Bodies and Faces",
         "pdf_url": null,
         "authors": [
@@ -26522,7 +26522,7 @@
             "Kunlun Xu",
             "Xu Zou",
             "Yuxin Peng",
-            "Jiahaun Zhou"
+            "Jiahuan Zhou"
         ]
     },
     {
@@ -29011,7 +29011,7 @@
             "Xu Zou",
             "Luxin Yan",
             "Sheng Zhong",
-            "Jiahaun Zhou"
+            "Jiahuan Zhou"
         ]
     },
     {
@@ -30347,7 +30347,7 @@
         "pdf_url": null,
         "authors": [
             "Zhenyu Cui",
-            "Jiahaun Zhou",
+            "Jiahuan Zhou",
             "Xun Wang",
             "Manyu Zhu",
             "Yuxin Peng"

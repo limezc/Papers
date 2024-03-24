@@ -23,7 +23,7 @@ from fetch.easy_literature import literature_search
 
 
 def main():
-    literature_search(input_path="output/md/liter_input.md", output_path="output/pdf", gproxy_mode='free')
+    literature_search(input_path="output/md/lite.md", output_path="output/pdf", gproxy_mode='free')
 
 if __name__ == '__main__':
     main()

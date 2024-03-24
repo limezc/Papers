@@ -11,11 +11,16 @@ from fetch import json2pd
 
 def get_paper_list():
     save_dir = 'output/doc'
+    md_dir = "output/md"
     os.makedirs(save_dir, exist_ok=True)
     json_file_name = 'CVPR2024_Papers.json'
     excel_file_name = 'CVPR2024_Papers.xlsx'
+    md_file_name = 'CVPR2024_Papers.md'
+    md_file_pdf_name = 'CVPR2024_Papers_Pdf.md'
     json_path = os.path.join(save_dir, json_file_name)
     excel_path = os.path.join(save_dir, excel_file_name)
+    md_path = os.path.join(md_dir, md_file_name)
+    md_pdf_path = os.path.join(md_dir, md_file_pdf_name)
 
     if os.path.exists(json_path):
         paper_list = json.load(open(json_path, 'r', encoding='utf-8'))
@@ -28,6 +33,14 @@ def get_paper_list():
         # 将论文列表保存到Excel文件中
         df = pd.DataFrame(paper_list)
         df.to_excel(excel_path, index=False)
+        # 将论文列表保存到Markdown文件中
+        with open(md_path, 'w', encoding='utf-8') as f:
+            for paper in paper_list:
+                f.write("- {"+ paper['title'] +"}\n")
+        # 将论文列表保存到Markdown文件中
+        with open(md_pdf_path, 'w', encoding='utf-8') as f:
+            for paper in paper_list:
+                f.write("- {{"+ paper['title'] +"}}\n")
     return paper_list
 
 
@@ -66,7 +79,7 @@ def main():
     paper_list = get_paper_list()
 
     # 2.搜索引擎搜索论文
-    search_paper_list(paper_list)
+    # search_paper_list(paper_list)
 
     # 3.使用chatgpt分析论文
 

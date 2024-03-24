@@ -1,2 +1,3 @@
-- {{Attention Is All You Need}}
-- {1810.04805}
+- **Attention is all you need**. A Vaswani et.al. **IEEE Signal Process. Lett.**, **2017**, **Number of Citations: **113251, ([pdf](../pdf/Attention_is_all_you_need.pdf))([link](https://proceedings.neurips.cc/paper/7181-attention-is-all)).
+- **BERT: Pre-training of Deep Bidirectional Transformers for Language
+  Understanding**. Jacob Devlin et.al. **arxiv**, **2018**, **Number of Citations: **None, ([pdf](../pdf/BERT_Pre-training_of_Deep_Bidirectional_Transformers_for_Language_Understanding.pdf))([link](http://arxiv.org/abs/1810.04805v2)).

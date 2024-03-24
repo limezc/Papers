@@ -70,7 +70,7 @@ def file_update(input_path, output_path, proxy, paper_recognizer, gproxy_mode):
 
 
 
-def literature_search(input_path="output/md/liter_input.md", output_path="output/pdf", delete_bool=False, proxy="127.0.0.1:7890", migration_path="output/pdf_new", gproxy_mode='single'):
+def literature_search(input_path="output/md/liter_input.md", output_path="output/pdf", delete_bool=False, proxy=None, migration_path="output/pdf_new", gproxy_mode='single'):
     if output_path:
         paper_recognizer = patternRecognizer(r'- \{.{3,}\}')
         

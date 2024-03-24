@@ -27,10 +27,10 @@
 
 ## 待办列表
 - [x] 获取网页所有论文列表
-- [ ] 获取论文的中英文摘要
-- [ ] 获取论文的pdf链接
+- [x] 获取论文的中英文摘要
+- [x] 获取论文的pdf链接
+- [x] 根据论文的abstract对论文进行分类
 - [ ] 获取论文的github链接
-- [ ] 根据论文的abstract对论文进行分类
 - [ ] 使用connect paper拓展相关方向论文
 
 
@@ -38,12 +38,11 @@
 
 如果你有任何问题，或者有任何改进的建议，欢迎提交issue或者pull request。
 
-## 开发人员
+## 参考
 
-<p float="left">
-  <a href="https://github.com/limezc"><img src="https://github.com/limezc.png" width="100" height="100" style="border-radius:50%"></a>
-  <a href="https://github.com/liukongqau"><img src="https://github.com/liukongqau.png" width="100" height="100" style="border-radius:50%"></a>
-</p>
+[https://github.com/Psycoy/EasyLiterature](https://github.com/Psycoy/EasyLiterature)
+
+[https://github.com/yzy1996/Python-Code](https://github.com/yzy1996/Python-Code)
 
 ## 许可
 

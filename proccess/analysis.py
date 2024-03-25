@@ -8,6 +8,7 @@ client = OpenAI(
 )
 
 def analyze_abstract(abstract):
+    # gpt-3.5-turbo, gpt-4, and gpt-4-turbo-preview
     response = client.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=[

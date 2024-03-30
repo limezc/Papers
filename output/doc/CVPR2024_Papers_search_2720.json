@@ -1,0 +1,61 @@
+{
+    "图像生成(image generation)": [],
+    "图像编辑(image editing)": [],
+    "视频生成(video generation)": [
+        {
+            "title": "MAPSeg: Unified Unsupervised Domain Adaptation for Heterogeneous Medical Image Segmentation Based on 3D Masked Autoencoding and Pseudo-Labeling",
+            "authors": [
+                "Xuzhe Zhang",
+                "Yuhao Wu",
+                "Elsa Angelini",
+                "Ang Li",
+                "Jia Guo",
+                "Jerod M. Rasmussen",
+                "Thomas G. O'Connor",
+                "Pathik D. Wadhwa",
+                "Andrea Parolin Jackowski",
+                "Hai Li",
+                "Jonathan Posner",
+                "Andrew F. Laine",
+                "Yun Wang"
+            ],
+            "abstract": "Robust segmentation is critical for deriving quantitative measures from\nlarge-scale, multi-center, and longitudinal medical scans. Manually annotating\nmedical scans, however, is expensive and labor-intensive and may not always be\navailable in every domain. Unsupervised domain adaptation (UDA) is a\nwell-studied technique that alleviates this label-scarcity problem by\nleveraging available labels from another domain. In this study, we introduce\nMasked Autoencoding and Pseudo-Labeling Segmentation (MAPSeg), a\n$\\textbf{unified}$ UDA framework with great versatility and superior\nperformance for heterogeneous and volumetric medical image segmentation. To the\nbest of our knowledge, this is the first study that systematically reviews and\ndevelops a framework to tackle four different domain shifts in medical image\nsegmentation. More importantly, MAPSeg is the first framework that can be\napplied to $\\textbf{centralized}$, $\\textbf{federated}$, and\n$\\textbf{test-time}$ UDA while maintaining comparable performance. We compare\nMAPSeg with previous state-of-the-art methods on a private infant brain MRI\ndataset and a public cardiac CT-MRI dataset, and MAPSeg outperforms others by a\nlarge margin (10.5 Dice improvement on the private MRI dataset and 5.7 on the\npublic CT-MRI dataset). MAPSeg poses great practical value and can be applied\nto real-world problems. Our code and pretrained model will be available later.",
+            "published": "2023-03-16T15:01:50+00:00",
+            "doi": null,
+            "links": [
+                "http://arxiv.org/abs/2303.09373v2",
+                "http://arxiv.org/pdf/2303.09373v2"
+            ],
+            "pdf_url": "http://arxiv.org/pdf/2303.09373v2"
+        }
+    ],
+    "视频编辑(video editing)": [
+        {
+            "title": "Habitat Synthetic Scenes Dataset (HSSD-200): An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation",
+            "authors": [
+                "Mukul Khanna",
+                "Yongsen Mao",
+                "Hanxiao Jiang",
+                "Sanjay Haresh",
+                "Brennan Shacklett",
+                "Dhruv Batra",
+                "Alexander Clegg",
+                "Eric Undersander",
+                "Angel X. Chang",
+                "Manolis Savva"
+            ],
+            "abstract": "We contribute the Habitat Synthetic Scene Dataset, a dataset of 211\nhigh-quality 3D scenes, and use it to test navigation agent generalization to\nrealistic 3D environments. Our dataset represents real interiors and contains a\ndiverse set of 18,656 models of real-world objects. We investigate the impact\nof synthetic 3D scene dataset scale and realism on the task of training\nembodied agents to find and navigate to objects (ObjectGoal navigation). By\ncomparing to synthetic 3D scene datasets from prior work, we find that scale\nhelps in generalization, but the benefits quickly saturate, making visual\nfidelity and correlation to real-world scenes more important. Our experiments\nshow that agents trained on our smaller-scale dataset can match or outperform\nagents trained on much larger datasets. Surprisingly, we observe that agents\ntrained on just 122 scenes from our dataset outperform agents trained on 10,000\nscenes from the ProcTHOR-10K dataset in terms of zero-shot generalization in\nreal-world scanned environments.",
+            "published": "2023-06-20T05:07:23+00:00",
+            "doi": null,
+            "links": [
+                "http://arxiv.org/abs/2306.11290v3",
+                "http://arxiv.org/pdf/2306.11290v3"
+            ],
+            "pdf_url": "http://arxiv.org/pdf/2306.11290v3"
+        }
+    ],
+    "3D生成(3D generation)": [],
+    "3D编辑(3D editing)": [],
+    "多模态大语言模型(multimodal large language model)": [],
+    "其他多任务(other multi-task)": []
+}

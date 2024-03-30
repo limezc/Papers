@@ -19,22 +19,21 @@ This project is designed to crawl academic papers from conferences such as CVPR.
 
 ## To-Do List
 - [x] Get all paper lists from the webpage
-- [ ] Get abstracts of papers in both English and Chinese
-- [ ] Get the PDF link of the paper
+- [x] Get abstracts of papers in both English and Chinese
+- [x] Get the PDF link of the paper
+- [x] Classify papers based on their abstracts
 - [ ] Get the GitHub link of the paper
-- [ ] Classify papers based on their abstracts
 - [ ] Use connect paper to expand related direction papers
 
 ## Contribution
 
 If you have any questions or suggestions for improvement, feel free to submit an issue or pull request.
 
-## Developers
+## References
 
-<p float="left">
-  <a href="https://github.com/limezc"><img src="https://github.com/limezc.png" width="100" height="100" style="border-radius:50%"></a>
-  <a href="https://github.com/liukongqau"><img src="https://github.com/liukongqau.png" width="100" height="100" style="border-radius:50%"></a>
-</p>
+[https://github.com/Psycoy/EasyLiterature](https://github.com/Psycoy/EasyLiterature)
+
+[https://github.com/yzy1996/Python-Code](https://github.com/yzy1996/Python-Code)
 
 ## License
 

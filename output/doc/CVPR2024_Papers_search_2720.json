@@ -1,7 +1,7 @@
 {
-    "图像生成(image generation)": [],
-    "图像编辑(image editing)": [],
-    "视频生成(video generation)": [
+    "image generation": [],
+    "image editing": [],
+    "video generation": [
         {
             "title": "MAPSeg: Unified Unsupervised Domain Adaptation for Heterogeneous Medical Image Segmentation Based on 3D Masked Autoencoding and Pseudo-Labeling",
             "authors": [
@@ -29,7 +29,7 @@
             "pdf_url": "http://arxiv.org/pdf/2303.09373v2"
         }
     ],
-    "视频编辑(video editing)": [
+    "video editing": [
         {
             "title": "Habitat Synthetic Scenes Dataset (HSSD-200): An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation",
             "authors": [
@@ -54,8 +54,8 @@
             "pdf_url": "http://arxiv.org/pdf/2306.11290v3"
         }
     ],
-    "3D生成(3D generation)": [],
-    "3D编辑(3D editing)": [],
-    "多模态大语言模型(multimodal large language model)": [],
-    "其他多任务(other multi-task)": []
+    "3D generation": [],
+    "3D editing": [],
+    "multimodal large language model": [],
+    "other multi-task": []
 }

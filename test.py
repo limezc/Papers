@@ -26,10 +26,13 @@ from fetch.easy_literature import literature_search_api
 def main():
     # literature_search(input_path="output/md/lite.md", output_path="output/pdf", gproxy_mode='free')
     # literature_search(input_path="output/md/lite.md", output_path="output/pdf", gproxy_mode='single', proxy="127.0.0.1:7890")
-    literature_search_api(input_path="output/doc/CVPR2024_Papers.json", output_path="output", proxy="127.0.0.1:7890", gproxy_mode='single')
+    literature_search_api(
+        input_path="output/doc/CVPR2024_Papers.json",
+        output_path="output",
+        proxy="127.0.0.1:7890",
+        gproxy_mode="single",
+    )
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     main()
-
-
-
